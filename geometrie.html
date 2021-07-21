@@ -3,75 +3,103 @@
 <br>In de BRO zijn de geometrieën conform het <a href= "https://www.geonovum.nl/geo-standaarden/geography-markup-language-gml/gml-simple-features-profile">GML Simple Features profile versie 2.0 (OGC)</a> toegestaan. Deze omvat punten, lijnen, vlakken en volumen. </p>
 <p>De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de gegevensdefinitie worden gebruikt worden hieronder toegelicht.</p>
 
-	<section id="Punt"><h5>Punt</h5>
+	<section id="Punt">
+	<h5>Punt</h5>
 	<p>Het domein <i>Punt</i> wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het <i>Punt</i> vastgelegd.</p>
-	<img src="media/punt.png">Een punt geometrie (ISO 19107:2003 Spatial Schema).</img>
+		<figure id="lijn">
+		<img src="./media/punt.png"></img>
+		<figcaption>Een punt geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+		</figure>
 	</section>
 
-	<section id="Lijn"><h5>Lijn</h5>
+	<section id="Lijn">
+	<h5>Lijn</h5>
 	<p>Het domein <i>Lijn</i> wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment.  Een <i>Lijn</i> kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.</p>
-	<img src="media/lijn.png">Een lijn geometrie (ISO 19107:2003 Spatial Schema).</img>
+		<figure id="lijn">
+		<img src="./media/lijn.png"></img>
+		<figcaption>Een lijn geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+		</figure>	
 	</section>
 	
-	<section id="Multilijn"><h5>Multilijn</h5>
+	<section id="Multilijn">
+	<h5>Multilijn</h5>
 	<p>Het domein <i>Multilijn</i> bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meerdere lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een <i>Multilijn</i> vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een <i>Multilijn</i> kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.</p>
-	<img src="media/multilijn.png">Een multilijn geometrie.</img>
+		<figure id="Multilijn">
+		<img src="./media/multilijn.png"></img>
+		<figcaption>Een multilijn geometrie.</figcaption>
+		</figure>
 	</section>
 	
-	<section id="Vlak"><h5>Vlak</h5>
+	<section id="Vlak">
+	<h5>Vlak</h5>
 	<p>Het domein <i>Vlak</i> wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meerdere interne begrenzingen hebben. Een <i>Vlak</i> kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.</p>
-	<img src="media/vlak.png">Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</img>
+		<figure id="vlak">
+		<img src="./media/vlak.png"></img>
+		<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
+		</figure>
 	</section>
 	
-	<section id="Multivlak"><h5>Multivlak</h5>
+	<section id="Multivlak">
+	<h5>Multivlak</h5>
 	<p>Het domein <i>Multivlak</i> bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een <i>Multivlak</i> kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.</p>
-	<img src="media/multivlak.png">Een Multivlak geometrie.</img>
+		<figure id="Multivlak">
+		<img src="./media/multivlak.png"></img>
+		<figcaption>Een multivlak geometrie.</figcaption>
+		</figure>
 	</section>
 	
-	<section id="Volume"><h5>Volume</h5>
+	<section id="Volume">
+	<h5>Volume</h5>
 	<p>Het domein <i>Volume</i> wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een <i>Volume</i> geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.</p>
-	<img src="meida/volume.png">Een volume geometrie (ISO 19107:2003 Spatial Schema).</img>
+		<figure id="volume">
+		<img src="./media/volume.png"></img>
+		<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+		</figure>
 	</section>
 	
-	<section id="Minimum begrenzing"><h5>Minimum begrenzing</h5>
+	<section id="Minimum begrenzing">
+	<h5>Minimum begrenzing</h5>
 	<p>Het domein <i>Minimum begrenzing</i> wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de <i>Minimum begrenzing</i> is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de bovenkant van het selectiekader weergeeft en het tweede punt de hoek aan de onderkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een <i>Minimum begrenzing</i> kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.</p>
-	<img src="media/minimumBegrenzing.png">Een minimum begrenzing geometrie.</img>
+		<figure id="minimum begrenzing">
+		<img src="./media/minimumBegrenzing.png"></img>
+		<figcaption>Een minimum begrenzing geometrie.</figcaption>
+		</figure>
 	</section>
 	
-	<section id="table ISO">
-	<table style="width:65%">
-	  <tr>
-		<th>Domein (Geometrie Type)</th>
-		<th>ISO aanduiding</th>
-	  </tr>
-	  <tr>
-		<td>Punt</td>
-		<td>GM_Point</td>
-	  </tr>
-	  <tr>
-		<td>Lijn</td>
-		<td>GM_Curve</td>
-	  </tr>
-	  <tr>
-		<td>Multilijn</td>
-		<td>GM_MultiCurve</td>
-	  </tr>
-	  <tr>
-		<td>Vlak</td>
-		<td>GM_Surface</td>
-	  </tr>
-	  <tr>
-		<td>Multivlak</td>
-		<td>GM_MultiSurface</td>
-	  </tr>
-	  <tr>
-		<td>Volume</td>
-		<td>GM_Solid</td>
-	  </tr>
-	  <tr>
-		<td>Minimum begrenzing</td>
-		<td>GM_Envelope</td>
-	  </tr>
+	<section is="ISO 19107 aanduiding geometrie domeinen">
+	<p>Onderstaande tabel geeft per geometrie type (Domein) de bijbehorende ISO aanduiding.</p>
+	<table>
+	    <tr>
+			<th>Domein (Geometrie Type)</th>
+			<th>ISO aanduiding</th>
+	    </tr>
+  	    <tr>
+			<td>Punt</td>
+			<td>GM_Point</td>
+	    </tr>
+	    <tr>
+			<td>Lijn</td>
+			<td>GM_Curve</td>
+	    </tr>
+	    <tr>
+			<td>Multilijn</td>
+			<td>GM_MultiCurve</td>
+		</tr>
+		<tr>
+			<td>Vlak</td>
+			<td>GM_Surface</td>
+		</tr>
+		<tr>
+			<td>Multivlak</td>
+			<td>GM_MultiSurface</td>
+		</tr>
+		<tr>
+			<td>Volume</td>
+			<td>GM_Solid</td>
+		</tr>
+		<tr>
+			<td>Minimum begrenzing</td>
+			<td>GM_Envelope</td>
+		</tr>
 	</table>
-	<p><i>De ISO 19107 aanduiding behorende bij de geometrie domeinen.</i></p>
 	</section>

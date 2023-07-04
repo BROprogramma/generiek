@@ -2,7 +2,46 @@
 <p>Voor gegevens over de geometrie van een object worden verschillende domeinen gebruikt. De vorm, afmetingen, oriëntatie en positie ten opzichte van de aarde van een object kunnen in verschillende typen geometrie uitgedrukt worden, waarbij ook een keuzemogelijkheid uit meerdere typen en daarmee domeinen een optie kan zijn.
 <br>In de BRO zijn de geometrieën conform het <a href= "https://www.geonovum.nl/geo-standaarden/geography-markup-language-gml/gml-simple-features-profile">GML Simple Features profile versie 2.0 (OGC)</a> toegestaan. Deze omvat punten, lijnen, vlakken en volumen. </p>
 <p>De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de gegevensdefinitie worden gebruikt worden hieronder toegelicht.</p>
-
+<p>Onderstaande tabel geeft per geometrie type (Domein) de bijbehorende ISO aanduiding.</p>
+	<table>
+		<tr>
+			<th>Domein (Geometrie Type)</th>
+			<th>ISO aanduiding</th>
+		</tr>
+  		<tr>
+			<td>Punt</td>
+			<td>GM_Point</td>
+	 	</tr>
+	 	<tr>
+			<td>Lijn</td>
+			<td>GM_Curve</td>
+	 	</tr>
+	 	<tr>
+			<td>Multilijn</td>
+			<td>GM_MultiCurve</td>
+		</tr>
+		<tr>
+			<td>Vlak</td>
+			<td>GM_Surface</td>
+		</tr>
+		<tr>
+			<td>Multivlak</td>
+			<td>GM_MultiSurface</td>
+		</tr>
+		<tr>
+			<td>Volume</td>
+			<td>GM_Solid</td>
+		</tr>
+		<tr>
+			<td>Minimum begrenzing</td>
+			<td>GM_Envelope</td>
+		</tr>
+		<tr>
+			<td>Multi geometrie</td>
+			<td>GM_MultiPrimitive</td>
+		</tr>
+	</table>
+	
 	<section id="Punt">
 	<h5>Punt</h5>
 	<p>Het domein <i>Punt</i> wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het <i>Punt</i> vastgelegd.</p>
@@ -75,44 +114,4 @@
 		</figure>
 	</section>
 	
-	<section id="ISO 19107 aanduiding geometrie domeinen">
-	<p>Onderstaande tabel geeft per geometrie type (Domein) de bijbehorende ISO aanduiding.</p>
-	<table>
-		<tr>
-			<th>Domein (Geometrie Type)</th>
-			<th>ISO aanduiding</th>
-		</tr>
-  		<tr>
-			<td>Punt</td>
-			<td>GM_Point</td>
-	 	</tr>
-	 	<tr>
-			<td>Lijn</td>
-			<td>GM_Curve</td>
-	 	</tr>
-	 	<tr>
-			<td>Multilijn</td>
-			<td>GM_MultiCurve</td>
-		</tr>
-		<tr>
-			<td>Vlak</td>
-			<td>GM_Surface</td>
-		</tr>
-		<tr>
-			<td>Multivlak</td>
-			<td>GM_MultiSurface</td>
-		</tr>
-		<tr>
-			<td>Volume</td>
-			<td>GM_Solid</td>
-		</tr>
-		<tr>
-			<td>Minimum begrenzing</td>
-			<td>GM_Envelope</td>
-		</tr>
-		<tr>
-			<td>Multi geometrie</td>
-			<td>GM_MultiPrimitive</td>
-		</tr>
-	</table>
-	</section>
+	

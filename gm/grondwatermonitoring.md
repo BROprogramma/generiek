@@ -1,4 +1,4 @@
-[//]: <> <!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->
+[//]: <> (<!-- 3. Grondwatermonitoring; positie GMW binnen gegevenssystematiek BRO (niet normatief c.q. niet juridisch deel) -->)
 <section id="Grondwatermonitoring" class='generic informative'>
 	<h2>Grondwatermonitoring</h2>
 	<!-- 3.1 Inleiding -->

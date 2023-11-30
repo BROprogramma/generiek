@@ -1,6 +1,4 @@
-<html>
-	<body>
-		<h3>Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein</h3>
+#Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
 		<p>De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in <a href="#Grondwatermonitoring.Registratieobjecten"></a>. Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.</p>
 		<p>De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in <a href="#Grondwatermonitoring.Registratieobjecten"></a>:</p>
 		<ul>

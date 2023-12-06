@@ -51,9 +51,9 @@ Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhou
 ## Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
 
 De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in
-[§ 3.2 Registratieobjecten binnen het domein grondwatermonitoring](#Grondwatermonitoring.Registratieobjecten_binnen_het_domein_grondwatermonitoring). Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
+[§ 3.2 Registratieobjecten binnen het domein grondwatermonitoring](#registratieobjecten-binnen-het-domein-grondwatermonitoring). Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
 
-De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in [§ 3.2 Registratieobjecten binnen het domein grondwatermonitoring](#Grondwatermonitoring.Registratieobjecten_binnen_het_domein_grondwatermonitoring)):
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in [§ 3.2 Registratieobjecten binnen het domein grondwatermonitoring](#registratieobjecten-binnen-het-domein-grondwatermonitoring)):
 
 * Vanuit grondwatermonitoringnet, grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar een buis in grondwatermonitoringput.
 * Vanuit grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar grondwatermonitoringnet.

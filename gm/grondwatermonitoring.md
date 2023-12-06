@@ -1,4 +1,4 @@
-<h2>Grondwatermonitoring</h2>
+# Grondwatermonitoring
 
 ## Inleiding
 Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland op grote schaal gemonitord en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit, waaronder ook de saliniteit).

@@ -1,4 +1,4 @@
-# Inleiding
+# Inleiding (nieuw)
 Grondwater is een belangrijke bestaansbron. Het grondwater wordt daarom in Nederland op grote schaal gemonitord en beheerd. Het beheer van het grondwater richt zich op de hoeveelheid grondwater en de kwaliteit ervan. Om dit beheer goed te kunnen uitvoeren, wordt in Nederland de toestand van het grondwater over langere tijd gevolgd. Dat heet grondwatermonitoring. Er wordt daarbij gekeken naar de grondwaterstand (kwantiteit), en naar de samenstelling van het grondwater (kwaliteit, waaronder ook de saliniteit).
 
 In het domein grondwatermonitoring staan de grondwatermonitoringnetten centraal. Deze zijn ingericht om het grondwater in Nederland te kunnen beheren. Het doel waarvoor een monitoringnet is ingesteld, het monitoringdoel, beperkt zich in veel gevallen tot kwantiteit of kwaliteit, maar het komt ook voor dat onderzoek aan zowel de kwantiteit als de kwaliteit wordt gedaan binnen hetzelfde grondwatermonitoringnet.
@@ -13,7 +13,7 @@ In het Besluit basisregistratie ondergrond dat de grondslag vormde voor de ontwi
 
 De bestuursorganen of drinkwaterbedrijven die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwater onttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
 
-# Registratieobjecten binnen het domein grondwatermonitoring
+# Registratieobjecten binnen het domein grondwatermonitoring (nieuw)
 Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vijf registratieobjecten:
 
 - Grondwatermonitoringnet (GMN; Groundwater Monitoring Network)
@@ -50,30 +50,17 @@ Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald m
 
 Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk kan het voorkomen dat een grondwaterstandonderzoek, grondwatersamenstellingsonderzoek, en/of formatieweerstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat formatieweerstandonderzoeken kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
 
-# Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
+# Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein (nieuw)
 
-De verschillende registratieobjecten in het grondwaterdomein en hun gegevens
-hebben samenhang. Zie de beschrijving hiervan in
-[plaatje](#Grondwatermonitoring.Registratieobjecten). Op basis van de samenhang
-wordt er consistentie verwacht tussen de gegevens in verschillende
-registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van
-de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond
-dwingt dit grotendeels niet af.
+De verschillende registratieobjecten in het grondwaterdomein en hun gegevens hebben samenhang. Zie de beschrijving hiervan in
+[plaatje](#Grondwatermonitoring.Registratieobjecten). Op basis van de samenhang wordt er consistentie verwacht tussen de gegevens in verschillende registratieobjecten in het grondwaterdomein. Het is de verantwoordelijkheid van de bronhouder om deze consistentie te waarborgen. De basisregistratie ondergrond dwingt dit grotendeels niet af.
 
-De basisregistratie ondergrond dwingt alleen af dat gegevens in andere
-registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd
-zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in
-[plaatje](#Grondwatermonitoring.Registratieobjecten))
+De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in [plaatje](#Grondwatermonitoring.Registratieobjecten))
 
--   Vanuit grondwatermonitoringnet, grondwatersamenstellingsonderzoek,
-    grondwaterstandonderzoek en formatieweerstandonderzoek naar een buis in
-    grondwatermonitoringput.
+- Vanuit grondwatermonitoringnet, grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar een buis in grondwatermonitoringput.
+- Vanuit grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar grondwatermonitoringnet.
 
--   Vanuit grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en
-    formatieweerstandonderzoek naar grondwatermonitoringnet.
-
-Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen
-gegevens van verschillende registratieobjecten.
+Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
 
 -   Aan een grondwatermonitoringnet dat onder kwaliteitsregime IMBRO/A in de
     basisregistratie is geregistreerd kunnen onderzoeksgegevens

@@ -14,7 +14,41 @@ In het Besluit basisregistratie ondergrond dat de grondslag vormde voor de ontwi
 De bestuursorganen of drinkwaterbedrijven die langdurig het grondwater (laten) monitoren op grondwaterkwantiteit, omdat zij daarin een wettelijke taak hebben, zijn Rijksoverheidsorganisaties (Rijkswaterstaat, Ministerie van Defensie), Provincies, Waterschappen, Gemeentes en bestuurlijke samenwerkingsverbanden. Daarnaast zijn er (semi)private organisaties die vanuit vergunningsplicht het grondwater langdurig monitoren op grondwaterkwantiteit, in opdracht van bevoegd gezag. Dit zijn bijvoorbeeld Gasunie, Prorail, drinkwaterbedrijven, grondwater onttrekkende industrie, (ondiepe) bodemenergie-exploitanten (bedrijven, ziekenhuizen, overige instellingen), natuurterreinbeheerorganisaties en exploitanten van ondiepe minerale delfstoffen. Deze organisaties doen periodiek grondwaterstandonderzoek en hebben daarvoor grondwatermonitoringnetten en meetplannen.
 
 # Registratieobjecten binnen het domein grondwatermonitoring
+Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vijf registratieobjecten:
 
+- Grondwatermonitoringnet (GMN; Groundwater Monitoring Network)
+- Grondwatermonitoringput (GMW; Groundwater Monitoring Well)
+- Grondwatersamenstellingsonderzoek (GAR; Groundwater Analysis Report)
+- Grondwaterstandonderzoek (GLD; Groundwater Level Dossier)
+- Formatieweerstandonderzoek (FRD; Formation Resistance Dossier)
+
+  <figure id='image002'>
+				<!-- link to generiek location of GitHub/BROprogramma -->
+				<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
+				<!-- Note; The URL that the above URL redirects to, i.e. 'https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema%20%2B%20FRD.png', doesn't seem to work -->
+				
+				<!-- (expected) link to location on docs.geostandaarden
+				<img src="https://docs.geostandaarden.nl/bro/gen/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
+				-->
+				
+				<!-- original link from FRD
+					original on GitHub (https://github.com/BROprogramma/FRD/blob/master/index.html);
+						<img src="./data/Images/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
+					on the GitHub.io page (https://broprogramma.github.io/FRD/), this dereferences into;
+						<img src="https://broprogramma.github.io/FRD/data/Images/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
+				-->
+				<figcaption>De samenhang tussen de vijf registratieobjecten binnen het grondwatermonitoring domein.</figcaption>
+		</figure>
+  
+Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de <a href="https://docs.geostandaarden.nl/bro/gmw/" TARGET="_blank">Catalogus Grondwatermonitoringput</a>.
+
+Binnen het grondwaterdomein in de basisregistratie ondergrond kent alleen de grondwatermonitoringput een fysieke locatie. De vier andere registratieobjecten zijn aan het registratieobject grondwatermonitoringput gekoppeld en hebben daarmee indirect een locatie. Bij grondwaterstandonderzoeken en grondwatersamenstellingsonderzoeken ligt de verwijzing vast naar het filter in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Bij formatieweerstandonderzoek ligt de verwijzing vast naar de monitoringbuis in de grondwatermonitoringput waarin het onderzoek is uitgevoerd. Daarnaast wordt hierbij gebruik gemaakt van een verwijzing naar elektrodes als onderdeel van een geo-ohmkabel die bevestigd is aan een monitoringbuis van een grondwatermonitoringput.
+
+Bij grondwaterstandonderzoeken, grondwatersamenstellingsonderzoeken en formatieweerstandonderzoeken ligt tevens de verwijzing vast naar één of meerdere grondwatermonitoringnetten ten behoeve waarvan het onderzoek is uitgevoerd. Informatie over deze registratieobjecten is beschreven in de volgende catalogi; <a href="https://docs.geostandaarden.nl/bro/gld/" TARGET="_blank">Catalogus Grondwaterstandonderzoek</a>, <a href="https://docs.geostandaarden.nl/bro/gar/" TARGET="_blank">Catalogus Grondwatersamenstellingsonderzoek</a> en <a href="https://docs.geostandaarden.nl/bro/FRD/" TARGET="_blank">Catalogus Formatieweerstandonderzoek</a>.
+
+Een grondwatermonitoringnet is een verzameling locaties waar, voor een bepaald monitoringdoel met een bepaald wettelijk kader, periodiek onderzoek aan het grondwater op een bepaalde diepte wordt gedaan om de toestand van het grondwater te kunnen bepalen en de eventuele veranderingen erin te kunnen volgen. Het grondwatermonitoringnet weerspiegelt de groepering van onderzoeksgegevens door de bronhouder op basis van het doel van de monitoring. Het registratieobject vergroot daarmee de hergebruikswaarde voor afnemers van de gegevens van de basisregistratie ondergrond. Informatie over grondwatermonitoringnet is beschreven in de <a href="https://docs.geostandaarden.nl/bro/gmn/" TARGET="_blank">Catalogus Grondwatermonitoringnet</a>.
+
+Een grondwatermonitoringnet valt onder de verantwoordelijkheid van één bronhouder en heeft een vastgesteld monitoringdoel. In de praktijk kan het voorkomen dat een grondwaterstandonderzoek, grondwatersamenstellingsonderzoek, en/of formatieweerstandonderzoek ten behoeve van meer dan één doel wordt uitgevoerd. Omdat er voor afzonderlijke monitoringdoelen verschillende grondwatermonitoringnetten zijn, betekent dit voor de basisregistratie ondergrond dat formatieweerstandonderzoeken kunnen toebehoren aan één of meerdere grondwatermonitoringnetten.
 
 # Samenhang en consistentie tussen verschillende registratieobjecten in het Grondwaterdomein
 

@@ -24,6 +24,8 @@ Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volge
 * Grondwaterstandonderzoek (GLD; Groundwater Level Dossier)
 * Formatieweerstandonderzoek (FRD; Formation Resistance Dossier)
 
+[Dit is een opmerking om te testen of dat werkt, JV]: #
+
 <figure>
 	<!-- link to generic location of GitHub/BROprogramma -->
 	<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>

@@ -16,11 +16,11 @@ De bestuursorganen of drinkwaterbedrijven die langdurig het grondwater (laten) m
 # Registratieobjecten binnen het domein grondwatermonitoring (nieuw)
 Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volgende vijf registratieobjecten:
 
-- Grondwatermonitoringnet (GMN; Groundwater Monitoring Network)
-- Grondwatermonitoringput (GMW; Groundwater Monitoring Well)
-- Grondwatersamenstellingsonderzoek (GAR; Groundwater Analysis Report)
-- Grondwaterstandonderzoek (GLD; Groundwater Level Dossier)
-- Formatieweerstandonderzoek (FRD; Formation Resistance Dossier)
+* Grondwatermonitoringnet (GMN; Groundwater Monitoring Network)
+* Grondwatermonitoringput (GMW; Groundwater Monitoring Well)
+* Grondwatersamenstellingsonderzoek (GAR; Groundwater Analysis Report)
+* Grondwaterstandonderzoek (GLD; Groundwater Level Dossier)
+* Formatieweerstandonderzoek (FRD; Formation Resistance Dossier)
 
   <figure id='image002'>
 				<!-- link to generiek location of GitHub/BROprogramma -->
@@ -57,34 +57,12 @@ De verschillende registratieobjecten in het grondwaterdomein en hun gegevens heb
 
 De basisregistratie ondergrond dwingt alleen af dat gegevens in andere registratieobjecten waarnaar verwezen wordt, ook daadwerkelijk geregistreerd zijn. Dit geldt voor de volgende verwijzingen (zie ook het plaatje in [plaatje](#Grondwatermonitoring.Registratieobjecten))
 
-- Vanuit grondwatermonitoringnet, grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar een buis in grondwatermonitoringput.
-- Vanuit grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar grondwatermonitoringnet.
+* Vanuit grondwatermonitoringnet, grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar een buis in grondwatermonitoringput.
+* Vanuit grondwatersamenstellingsonderzoek, grondwaterstandonderzoek en formatieweerstandonderzoek naar grondwatermonitoringnet.
 
 Ook met betrekking tot kwaliteitsregime geldt een specifieke samenhang tussen gegevens van verschillende registratieobjecten.
 
--   Aan een grondwatermonitoringnet dat onder kwaliteitsregime IMBRO/A in de
-    basisregistratie is geregistreerd kunnen onderzoeksgegevens
-    (grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en/of
-    formatieweerstandonderzoeken) gekoppeld worden die ook onder
-    kwaliteitsregime IMBRO/A vallen.
-
--   Van grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en
-    formatieweerstandonderzoeken onder kwaliteitsregime IMBRO moet bekend zijn
-    in welk (wettelijk) kader ze zijn uitgevoerd, wat het doel van monitoren is
-    en welk aspect van grondwater wordt gemonitord (kwaliteit of kwantiteit).
-    Daarom kunnen onderzoeksgegevens onder kwaliteitsregime IMBRO alleen
-    gekoppeld worden aan grondwatermonitoringnetten die onder kwaliteitsregime
-    IMBRO zijn geregistreerd of grondwatermonitoringnetten die onder
-    kwaliteitsregime IMBRO/A zijn geregistreerd wanneer de attributen *kader
-    aanlevering*, *monitoringdoel* en *grondwateraspect* van het
-    grondwatermonitoringnet niet de waarde "onbekend" hebben.
-
--   Grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en
-    formatieweerstandonderzoeken onder kwaliteitsregime IMBRO/A kunnen zowel
-    gekoppeld worden aan grondwatermonitoringnetten onder kwaliteitsregime IMBRO
-    als onder IMBRO/A.
-
--   Voor de verwijzingen naar grondwatermonitoringput vanuit andere
-    registratieobjecten gelden geen restricties. Het maakt niet uit of de
-    grondwatermonitoringput waarnaar verwezen wordt kwaliteitsregime IMBRO of
-    IMBRO/A heeft.
+* Aan een grondwatermonitoringnet dat onder kwaliteitsregime IMBRO/A in de basisregistratie is geregistreerd kunnen onderzoeksgegevens (grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en/of formatieweerstandonderzoeken) gekoppeld worden die ook onder kwaliteitsregime IMBRO/A vallen.
+* Van grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en formatieweerstandonderzoeken onder kwaliteitsregime IMBRO moet bekend zijn in welk (wettelijk) kader ze zijn uitgevoerd, wat het doel van monitoren is en welk aspect van grondwater wordt gemonitord (kwaliteit of kwantiteit). Daarom kunnen onderzoeksgegevens onder kwaliteitsregime IMBRO alleen gekoppeld worden aan grondwatermonitoringnetten die onder kwaliteitsregime IMBRO zijn geregistreerd of grondwatermonitoringnetten die onder kwaliteitsregime IMBRO/A zijn geregistreerd wanneer de attributen *kader aanlevering*, *monitoringdoel* en *grondwateraspect* van het   grondwatermonitoringnet niet de waarde "onbekend" hebben.
+* Grondwatersamenstellingsonderzoeken, grondwaterstandonderzoeken en formatieweerstandonderzoeken onder kwaliteitsregime IMBRO/A kunnen zowel gekoppeld worden aan grondwatermonitoringnetten onder kwaliteitsregime IMBRO als onder IMBRO/A.
+* Voor de verwijzingen naar grondwatermonitoringput vanuit andere registratieobjecten gelden geen restricties. Het maakt niet uit of de grondwatermonitoringput waarnaar verwezen wordt kwaliteitsregime IMBRO of IMBRO/A heeft.

@@ -22,27 +22,19 @@ Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volge
 * Grondwaterstandonderzoek (GLD; Groundwater Level Dossier)
 * Formatieweerstandonderzoek (FRD; Formation Resistance Dossier)
 
-![Grondwaterdomein](https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png)
+<figure>
+	<!-- link to generic location of GitHub/BROprogramma -->
+	<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
 
+	<!-- (expected) link to location on docs.geostandaarden -->
+	<!--
+ 	<img src="https://docs.geostandaarden.nl/bro/gen/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
+ 	-->
 
-
-  <figure id='image002'>
-				<!-- link to generiek location of GitHub/BROprogramma -->
-				<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
-				<!-- Note; The URL that the above URL redirects to, i.e. 'https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema%20%2B%20FRD.png', doesn't seem to work -->
-				
-				<!-- (expected) link to location on docs.geostandaarden
-				<img src="https://docs.geostandaarden.nl/bro/gen/gm/media/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
-				-->
-				
-				<!-- original link from FRD
-					original on GitHub (https://github.com/BROprogramma/FRD/blob/master/index.html);
-						<img src="./data/Images/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
-					on the GitHub.io page (https://broprogramma.github.io/FRD/), this dereferences into;
-						<img src="https://broprogramma.github.io/FRD/data/Images/BRO_Registratieobjecten_Entiteitenschema + FRD.png" alt="Grondwaterdomein" width="300"/>
-				-->
-				<figcaption>De samenhang tussen de vijf registratieobjecten binnen het grondwatermonitoring domein.</figcaption>
-		</figure>
+ 	<figcaption>
+ 		De samenhang tussen de vijf registratieobjecten binnen het grondwatermonitoring domein.
+  	</figcaption>
+</figure>
   
 Een grondwatermonitoringput betreft de constructie die gebruikt wordt om standen en/of de samenstelling van het grondwater te meten. Gewoonlijk bestaat een put uit een samenstel van buizen dat aan het oppervlak wordt beschermd tegen invloeden van buitenaf. Via de buizen wordt het grondwater dat zich op een bepaalde diepte bevindt ontsloten. Het deel van de buis waardoor het grondwater de buis binnen kan komen is het filter. Elke buis heeft één filter. Een filter fungeert als meetpunt in de basisregistratie ondergrond. Informatie over grondwatermonitoringput is beschreven in de <a href="https://docs.geostandaarden.nl/bro/gmw/" target="_blank">Catalogus Grondwatermonitoringput</a>.
 

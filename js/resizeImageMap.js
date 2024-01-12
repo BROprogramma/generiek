@@ -54,7 +54,6 @@ function oMapArea() {
 }
 
 function resizeImgMap() {	
-	console.log('resizeImgMap()');
 	let cImgInfo = document.getElementsByClassName('imageinfo');
 	//console.log(cImgInfo);
 	for (i=0; i<cImgInfo.length; i++) {		

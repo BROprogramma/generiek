@@ -23,7 +23,7 @@
 var oMapArea;
 
 document.getElementsByTagName('body')[0].onload = function () {	
-	if (window.location.href.indexOf("github.io") > -1) {
+	if (document.respec) {		
 		document.respec.ready.then(function () {
 		  oMapArea = oMapArea();	
 		  resizeImgMap();	
@@ -58,8 +58,7 @@ function resizeImgMap() {
 	let cImgInfo = document.getElementsByClassName('imageinfo');
 	//console.log(cImgInfo);
 	for (i=0; i<cImgInfo.length; i++) {		
-		img = cImgInfo[i].children[0].children[0];
-		console.log(img);
+		img = cImgInfo[i].children[0].children[0];		
 		scaleX = img.clientWidth / img.naturalWidth;
 		scaleY = img.clientHeight / img.naturalHeight;		
 		cMapArea = cImgInfo[i].children[1].children;

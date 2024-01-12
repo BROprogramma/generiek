@@ -15,14 +15,25 @@
       scaleCoords(): 
       Als onderdeel van resizeImgMap(), bepaalt en stelt deze functie de waarden van de huidige image map in op basis van de schaalverhouding 
       van de originele image map.
+	  
+  Indien de URL de tekenreeks 'github.io' bevat, wordt het script in de wachtstand geplaatst totdat het respec-document volledig is geladen, alvorens over te gaan tot het schalen van de image maps.
+  
 */
 
 var oMapArea;
 
-document.getElementsByTagName('body')[0].onload = function() {		
-	oMapArea = oMapArea();	
-	resizeImgMap();	
-};
+document.getElementsByTagName('body')[0].onload = function () {	
+	if (window.location.href.indexOf("github.io") > -1) {
+		document.respec.ready.then(function () {
+		  oMapArea = oMapArea();	
+		  resizeImgMap();	
+		});
+	}
+	else {
+	    oMapArea = oMapArea();	
+		resizeImgMap();	
+	}
+};   
 
 document.getElementsByTagName('body')[0].onresize = function() {	
 	resizeImgMap(oMapArea);	
@@ -43,9 +54,12 @@ function oMapArea() {
 }
 
 function resizeImgMap() {	
+	console.log('resizeImgMap()');
 	let cImgInfo = document.getElementsByClassName('imageinfo');
+	//console.log(cImgInfo);
 	for (i=0; i<cImgInfo.length; i++) {		
 		img = cImgInfo[i].children[0].children[0];
+		console.log(img);
 		scaleX = img.clientWidth / img.naturalWidth;
 		scaleY = img.clientHeight / img.naturalHeight;		
 		cMapArea = cImgInfo[i].children[1].children;

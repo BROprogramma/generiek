@@ -16,7 +16,7 @@
       Als onderdeel van resizeImgMap(), bepaalt en stelt deze functie de waarden van de huidige image map in op basis van de schaalverhouding 
       van de originele image map.
 	  
-  Indien de URL de tekenreeks 'github.io' bevat, wordt het script in de wachtstand geplaatst totdat het respec-document volledig is geladen, alvorens over te gaan tot het schalen van de image maps.
+  Indien het document een Respec-document is, wordt het script in de wachtstand geplaatst totdat het Respec-document volledig is geladen, alvorens over te gaan tot het schalen van de image maps.
   
 */
 

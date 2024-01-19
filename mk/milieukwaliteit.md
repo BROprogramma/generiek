@@ -25,9 +25,9 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 			<th>
 				<figure>
 				<!-- link within SLD repository -->
-				<img src="./media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/>
+				<!-- <img src="./media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/> -->
 				<!-- link to generic location of GitHub/BROprogramma -->
-				<!-- <img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/> -->
+				<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/>
 				<!-- (expected) link to location on docs.geostandaarden -->
 				<!-- <img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/> -->
 			 	<figcaption>
@@ -38,9 +38,9 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
                      	<th>
 				<figure>
 					<!-- link within SLD repository -->
-					<img src="./media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/>
+					<!-- <img src="./media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/> -->
 					<!-- link to generic location of GitHub/BROprogramma -->
-					<!-- <img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/> -->
+					<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/>
 					<!-- (expected) link to location on docs.geostandaarden -->
 					<!-- <img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/> -->
 					<figcaption>

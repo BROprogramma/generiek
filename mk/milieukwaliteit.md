@@ -7,7 +7,7 @@ Sinds de jaren tachtig van de vorige eeuw zijn er in Nederland richtlijnen voor 
 
 Bodemonderzoeken vormen vaak onderdeel van een wettelijke procedure waarbij de resultaten moeten worden voorgelegd aan een bevoegd gezag in de vorm van een melding of als onderdeel van een aangevraagde vergunning of beschikking. De informatie wordt in dat geval beoordeeld door het bevoegd gezag om na te gaan of bepaalde activiteiten kunnen worden uitgevoerd op de onderzoekslocatie, bijvoorbeeld of er gegraven of gebouwd mag worden.
 
-Onder het regime van de Wet bodembescherming (Wbb) werd door het bevoegd gezag een beschikking afgegeven over bijvoorbeeld omvang en aanpak van een (geval van) bodemverontreiniging. Onder het regime van de Omgevingswet (Ow) bestaan deze beschikkingen niet meer. Wel beslist het bevoegd gezag nog steeds over het resultaat van saneringsmaatregelen en grote graafwerkzaamheden (evaluatieverslag sanering of graven).
+Onder het regime van de Wet bodembescherming (Wbb) werd door het bevoegd gezag een beschikking afgegeven over bijvoorbeeld omvang en aanpak van een (geval van) bodemverontreiniging. Onder het regime van de Omgevingswet (Ow) bestaan deze beschikkingen niet meer. Wel beslist het bevoegd gezag nog steeds over het resultaat van saneringsmaatregelen en grote graafwerkzaamheden (evaluatieverslag saneren of graven).
 
 Opdrachtgevers voor bodemonderzoeken, saneringen en graafwerkzaamheden zijn niet alleen overheden maar ook en voornamelijk private partijen. Denk aan bedrijven, ontwikkelaars, exploitanten van ondergrondse netwerken en nog vele anderen. In generieke termen noemen we dit de ‘initiatiefnemer’.
 

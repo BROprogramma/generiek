@@ -1,7 +1,7 @@
 # Milieukwaliteit
 
 ## Algemeen
-Het domein milieukwaliteit betreft het vakgebied dat gaat over milieuhygiënische kwaliteit van de bodem. De milieuhygiënische kwaliteit van de bodem wordt bepaald door de aanwezigheid (of afwezigheid) van verontreinigende chemische stoffen in de bodem. Binnen het domein milieukwaliteit wordt de bodem beschouwd die onderdeel vormt van de landbodem inclusief de drogere oevergebieden en bestaande uit zowel grond als grondwater. De kwaliteit van waterbodem valt buiten de scope van dit domein. 
+Het domein milieukwaliteit betreft het vakgebied dat gaat over milieuhygiënische kwaliteit van de bodem. De milieuhygiënische kwaliteit van de bodem wordt bepaald door de aanwezigheid (of afwezigheid) van verontreinigende chemische stoffen in de bodem. Binnen het domein milieukwaliteit wordt de bodem beschouwd die onderdeel vormt van de landbodem inclusief de (voormalige) drogere oevergebieden en bestaande uit zowel grond als grondwater. De kwaliteit van waterbodem valt buiten de scope van dit domein. 
 
 Sinds de jaren tachtig van de vorige eeuw zijn er in Nederland richtlijnen voor het uitvoeren van onderzoek naar eventuele bodemverontreiniging en is de aanpak van bodemverontreiniging vastgelegd in wet- en regelgeving. Hierin is vastgelegd hoe bodemverontreiniging wordt vastgesteld, wanneer deze moet worden gesaneerd en wanneer een verontreiniging in voldoende mate is gesaneerd. De voornaamste wet- en regelgeving voor de aanpak van bodemverontreiniging was tot 1 januari 2024 de Wet bodembescherming (Wbb). Sindsdien vormt deze onderdeel van de Omgevingswet (Ow).
 

@@ -7,7 +7,7 @@ Sinds de jaren tachtig van de vorige eeuw zijn er in Nederland richtlijnen voor 
 
 Bodemonderzoeken vormen vaak onderdeel van een wettelijke procedure waarbij de resultaten moeten worden voorgelegd aan een bevoegd gezag in de vorm van een melding of als onderdeel van een aangevraagde vergunning of beschikking. De informatie wordt in dat geval beoordeeld door het bevoegd gezag om na te gaan of bepaalde activiteiten kunnen worden uitgevoerd op de onderzoekslocatie, bijvoorbeeld of er gegraven of gebouwd mag worden.
 
-Onder het regime van de Wet bodembescherming (Wbb) werd door het bevoegd gezag een beschikking afgegeven over bijvoorbeeld omvang en aanpak van een (geval van) bodemverontreiniging. Onder het regime van de Omgevingswet (Ow) bestaan deze beschikkingen niet meer. Wel beslist het bevoegd gezag nog steeds over het resultaat van saneringsmaatregelen en ontgravingen in verontreinigde gebieden (evaluatieverslag saneren of graven).
+Onder het regime van de Wbb werd door het bevoegd gezag een beschikking afgegeven over bijvoorbeeld omvang en aanpak van een (geval van) bodemverontreiniging. Onder het regime van de Ow bestaan deze beschikkingen niet meer. Wel beslist het bevoegd gezag nog steeds over het resultaat van saneringsmaatregelen en ontgravingen in verontreinigde gebieden (evaluatieverslag saneren of graven).
 
 Opdrachtgevers voor bodemonderzoeken, saneringen en ontgravingen zijn niet alleen overheden maar ook en voornamelijk private partijen. Denk aan bedrijven, ontwikkelaars, exploitanten van ondergrondse netwerken en nog vele anderen. In generieke termen noemen we dit de ‘initiatiefnemer’.
 
@@ -58,7 +58,7 @@ Het resultaat van het milieuhygiënisch bodemonderzoek omvat informatie over de 
 Voor de uitvoering van een milieuhygiënisch bodemonderzoek zijn wettelijke (op basis van de 'Regeling bodemkwaliteit 2022') standaarden en protocollen van toepassing (NEN en SIKB). In veel gevallen werken de uitvoerende medewerkers onder certificaat.  
 
 ## Registratieobject Overheidsbesluit bodemverontreiniging
-Een overheidsbesluit bodemverontreiniging is een beoordeling van de bodemkwaliteit, gemaakt door het bevoegd gezag in het kader van een procedure onder de Wet bodembescherming (Wbb), onder het 'eerbiedigend overgangsrecht saneringen’ (verder genoemd: overgangsrecht) van de Omgevingswet (artikel 3.1 Aanvullingswet bodem Omgevingswet) of onder de Omgevingswet (Ow). 
+Een overheidsbesluit bodemverontreiniging is een beoordeling van de bodemkwaliteit, gemaakt door het bevoegd gezag in het kader van een procedure onder de Wbb, onder het 'eerbiedigend overgangsrecht saneringen’ (verder genoemd: overgangsrecht) van de Ow (artikel 3.1 Aanvullingswet bodem ) of onder de Ow. 
 
 Een beschikking onder de Wbb bevat doorgaans een uitspraak over de ernst en spoedeisendheid van een bodemverontreiniging of over de mate waarin een sanering is uitgevoerd. Hierbij gelden ook verplichtingen voor registratie in het kader van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (Wkpb). Naast besluiten en beschikkingen onder de Wbb kan het zijn dat een bevoegd gezag (veelal een gemeente) vastlegt dat een locatie voldoet aan de eisen van bijvoorbeeld een bouwvergunning en er geen vervolgonderzoek nodig is. De gegevens over de ‘status’ vormen eveneens onderdeel van het registratieobject ‘Overheidsbesluit bodemverontreiniging’. Het registratieobject bevat dus informatie over zowel verontreinigde locaties als locaties waar geen verontreinigingen zijn aangetoond. 
 
@@ -66,7 +66,7 @@ Onder de Ow vervallen beschikkingen grotendeels. Er wordt alleen een beoordeling
 
 Een overheidsbesluit wordt genomen op basis van door de melder/vergunningsaanvrager ingediende informatie. Welke informatie moet worden aangeleverd bij het bevoegd gezag, is vastgelegd in landelijke en lokale wet- en regelgeving. 
 
-Het registratieobject ‘Overheidsbesluit bodemverontreiniging’ onder het regime van de Wbb omvat de status van de aanpak van de verontreiniging, vastgestelde verontreinigingscontouren, saneringscontouren en nazorgcontouren. Onder het regime van de Omgevingswet is het registratieobject beperkt tot het aangepakt gebied. 
+Het registratieobject ‘Overheidsbesluit bodemverontreiniging’ onder het regime van de Wbb omvat de status van de aanpak van de verontreiniging, vastgestelde verontreinigingscontouren, saneringscontouren en nazorgcontouren. Onder het regime van de Ow is het registratieobject beperkt tot het aangepakt gebied. 
 
 ## Samenhang met andere registratiedomeinen en -objecten
 In de BRO zijn vier registratieobjecten opgenomen die een samenhang hebben met gegevens die in het kader van milieuhygiënisch bodemonderzoek worden verzameld, dat zijn:

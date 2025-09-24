@@ -142,25 +142,24 @@ Een niet-uitbreidbare waardelijst wordt gebruikt wanneer uitbreiding niet mogeli
 Bij een niet-uitbreidbare waardelijst is het voldoende de naam te geven, omdat de inhoud altijd hetzelfde is. In de BRO worden drie niet-uitbreidbare waardelijsten gebruikt.
 
 IndicatieJaNee
+| Waarde | 
+| --- |
+| ja |
+| nee |
 
-Waarde
-ja
-
-nee
 IndicatieJaNeeOnbekend
+| Waarde |
+| --- |
+| ja |
+| nee |
+| onbekend |
 
-Waarde
-ja
-
-nee
-
-onbekend
 Kwaliteitsregime
+| Waarde |
+| --- |
+| IMBRO |
+| IMBRO/A |
 
-Waarde
-IMBRO
-
-IMBRO/A
 5.2.7.2 Waardelijst uitbreidbaar
 
 Een uitbreidbare waardelijst wordt gebruikt wanneer uitbreiding mogelijk moet zijn. Iedere waarde van de lijst heeft een specifieke betekenis (omschrijving) en geldt voor een bepaald kwaliteitsregime, IMBRO en/of IMBRO/A. Eventueel worden andere aspecten van de waarde vastgelegd.

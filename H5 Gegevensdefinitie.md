@@ -192,11 +192,16 @@ Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object 
 </figure>
 
 
+
+
 5.2.8.3 Multilijn
 
 Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meerdere lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een Multilijn vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een Multilijn kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
-A blue lines in a white background AI-generated content may be incorrect.{width="2.048611111111111in" height="1.6736111111111112in"}Figuur 9Een multilijn geometrie.
+<figure>
+	<img src="./media/multilijn.png" alt="Multilijn" width="150"/>
+	<figcaption>Een multilijn geometrie</figcaption>
+</figure>
 
 5.2.8.4 Vlak
 

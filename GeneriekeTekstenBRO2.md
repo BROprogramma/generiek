@@ -1,35 +1,3 @@
-**Tekstvoorstel wijziging algemene teksten catalogi BRO**
-
-Momenteel is niet duidelijk of de aanlever-, gebruiks- en
-terugmeldplicht (artikelen 9, 27 en 30 van de [Wet
-Bro](https://wetten.overheid.nl/BWBR0037095)) gelden voor een
-gepubliceerde catalogus. Het wettelijk regime van de BRO lijkt altijd te
-gelden voor een catalogus, omdat een catalogus gepubliceerd wordt met
-het logo van het ministerie en in de context van de BRO. Anderzijds is
-het inefficiënt, als Geonovum een catalogus moet wijzigen als deze
-wettelijk geldt.\
-Bovendien is de gelegenheid te baat genomen om de algemene teksten van
-de catalogi te actualiseren en te redigeren.
-
-Daarom bijgaand een voorstel voor wijziging van de algemene teksten van
-de catalogi.
-
-Dit voorstel is gebaseerd op een recente catalogus, waarin al
-wijzigingen ten opzichte van oudere catalogi zijn opgenomen zoals de
-Basisregistratie Ondergrond Catalogus overheidsbesluit
-bodemverontreiniging
-
-**Catalogus registratie ondergrond**\
-**Overheidsbesluit bodemverontreiniging**
-
-Geonovum Informatiemodel\
-Definitieve versie 07 juni 2023
-
-**De** **aanlever-, gebruiks- en terugmeldplicht**￼**Wet
-basisregistratie ondergrond (Bro**￼)￼**Regeling Bro.**
-
-\[...\]
-
 1.1 Doel en doelgroep
 
 In de basisregistratie ondergrond (BRO) wordt een aantal typen gegevens
@@ -1214,3 +1182,4 @@ hetzelfde.
 
 [^1]: Drinkwaterbedrijven zijn alleen bronhouder voor bepaalde
     registratieobjecten.
+

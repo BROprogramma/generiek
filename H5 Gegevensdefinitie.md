@@ -176,13 +176,21 @@ De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de 
 
 Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het Punt vastgelegd.
 
-A blue dot in a black rectangle AI-generated content may be incorrect.{width="2.0833333333333335in" height="1.7430555555555556in"}Figuur 7Een punt geometrie (ISO 19107:2003 Spatial Schema).
+<figure>
+	<img src="./media/punt.png" alt="Punt" width="150"/>
+	<figcaption>Een punt geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+</figure>
+
 
 5.2.8.2 Lijn
 
 Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment. Een Lijn kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
-A blue line in a white background AI-generated content may be incorrect.{width="2.0069444444444446in" height="1.6736111111111112in"}Figuur 8Een lijn geometrie (ISO 19107:2003 Spatial Schema).
+<figure>
+	<img src="./media/lijn.png" alt="Lijn" width="150"/>
+	<figcaption>Een lijn geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+</figure>
+
 
 5.2.8.3 Multilijn
 

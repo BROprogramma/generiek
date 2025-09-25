@@ -179,8 +179,7 @@ Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De p
 <figure>
 	<img src="./media/punt.png" alt="Punt" width="150"/>
 	<figcaption>Een punt geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
-</figure>
-
+</figure><br><br>
 
 5.2.8.2 Lijn
 
@@ -189,10 +188,7 @@ Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object 
 <figure>
 	<img src="./media/lijn.png" alt="Lijn" width="150"/>
 	<figcaption>Een lijn geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
-</figure>
-
-
-
+</figure><br><br>
 
 5.2.8.3 Multilijn
 
@@ -201,7 +197,7 @@ Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk éé
 <figure>
 	<img src="./media/multilijn.png" alt="Multilijn" width="150"/>
 	<figcaption>Een multilijn geometrie</figcaption>
-</figure>
+</figure><br><br>
 
 5.2.8.4 Vlak
 
@@ -210,8 +206,7 @@ Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de 
 <figure>
 	<img src="./media/vlak.png" alt="Vlak" width="150"/>
 	<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
-</figure>
-
+</figure><br><br>
 
 5.2.8.5 Multivlak
 
@@ -220,7 +215,7 @@ Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk é�
 <figure>
 	<img src="./media/multivlak.png" alt="Multivlak" width="150"/>
 	<figcaption>Een Multivlak geometrie.</figcaption>
-</figure>
+</figure><br><br>
 
 5.2.8.6 Volume
 
@@ -229,17 +224,15 @@ Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een objec
 <figure>
 	<img src="./media/volume.png" alt="Volume" width="150"/>
 	<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
-</figure>
+</figure><br><br>
 
 5.2.8.7 Minimum begrenzing
 
 Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="./media/minimumBegrenzing2.png" alt="Minimum begrenzing" width="150"/>
-<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
-</figure>
-
+	<img src="./media/MinimumBegrenzing2.png" alt="Minimum begrenzing" width="400"/>
+</figure><br><br>
 
 5.2.9 Coördinatenpaar
 

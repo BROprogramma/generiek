@@ -207,27 +207,39 @@ Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk éé
 
 Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meerdere interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
-A blue and white rectangles with a black border AI-generated content may be incorrect.{width="4.326388888888889in" height="1.6319444444444444in"}Figuur 10Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).
+<figure>
+	<img src="./media/vlak.png" alt="Vlak" width="150"/>
+	<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
+</figure>
+
 
 5.2.8.5 Multivlak
 
 Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een Multivlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
-A blue and black rectangles AI-generated content may be incorrect.{width="2.0277777777777777in" height="1.6736111111111112in"}Figuur 11Een Multivlak geometrie.
+<figure>
+	<img src="./media/multivlak.png" alt="Multivlak" width="150"/>
+	<figcaption>Een Multivlak geometrie.</figcaption>
+</figure>
 
 5.2.8.6 Volume
 
 Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
-A blue rectangular object with black border AI-generated content may be incorrect.{width="2.076388888888889in" height="1.75in"}Figuur 12Een volume geometrie (ISO 19107:2003 Spatial Schema).
+<figure>
+	<img src="./media/volume.png" alt="Volume" width="150"/>
+	<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+</figure>
 
 5.2.8.7 Minimum begrenzing
 
 Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
-Figuur 14
+<figure>
+	<img src="./media/minimumBegrenzing2.png" alt="Minimum begrenzing" width="150"/>
+<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
+</figure>
 
-A blue dotted rectangle with dots AI-generated content may be incorrect.{width="1.3308628608923885in" height="1.2688024934383202in"}
 
 5.2.9 Coördinatenpaar
 

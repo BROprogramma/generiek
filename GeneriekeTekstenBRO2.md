@@ -257,10 +257,11 @@ datum zijn geproduceerd.
 
 In schema:
 
-+-------------+-------------------+----------------------+---------------------------------------------------------------------------+-----------------------------------------------------------------------+----------------------+
-| **Gegeven** | **Omschrijving**  | **Kwaliteitsregime** | **Verplicht voor**                                                        | **Verplicht vanaf**                                                   | **Transitieperiode** |
-+=============+===================+======================+===========================================================================+=======================================================================+======================+
-| Nieuwe      | gegevens die      | IMBRO                | alle bronhouders[^1] (art. 9 Wet Bro)                                     | - Vanaf inwerkingtreding ministeriële regeling of een                 | - Geen (binnen 20    |
+
+| **Gegeven** | **Omschrijving**  | **Kwaliteitsregime** | **Verplicht voor** | **Verplicht vanaf** | **Transitieperiode** |
+| --- | ---|---|---|---|---|
+| Nieuwe gegevens | gegevens die dateren van na de datum waarop de ministeriële regeling of een registratieobject van kracht is geworden. | IMBRO | alle bronhouders[^1] (art. 9 Wet Bro) | - Vanaf inwerkingtreding ministeriële regeling of een regstratieobject<br> -	Uitzondering o.b.v. art. 41: verkenning die voortkomt uit een schriftelijke opdracht van voor inwerkingtreding van dit registratieobject, is uitgezonderd van deze verplichting -> en valt daarmee automatisch onder art. 40| - Geen (binnen 20 werkdagen)<br> - Tot 3 jaar na inwerkingtreding registratieobject  |
+
 | gegevens    | dateren van       |                      |                                                                           |   registratieobject.                                                  |   werkdagen).        |
 |             | **na** de datum   |                      |                                                                           |                                                                       |                      |
 |             | waarop de         |                      |                                                                           | - Uitzondering o.b.v. art. 41: verkenning die voortkomt uit een       | - Tot 3 jaar na      |
@@ -1182,4 +1183,5 @@ hetzelfde.
 
 [^1]: Drinkwaterbedrijven zijn alleen bronhouder voor bepaalde
     registratieobjecten.
+
 

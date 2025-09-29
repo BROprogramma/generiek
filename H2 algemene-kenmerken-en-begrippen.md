@@ -12,7 +12,7 @@ Een geheel van gegevens dat een bronhouder aanlevert, wordt een brondocument gen
 
 Figuur 1 De twee grote deelsystemen van de landelijke voorziening van de BRO.
 <figure>
-	<img src="./media/image02.png"  width="350"/>
+	<img src="./media/image002.png"  width="350"/>
 	
 </figure><br><br>
 

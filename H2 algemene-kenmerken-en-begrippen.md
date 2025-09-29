@@ -1,4 +1,4 @@
-2. Algemene kenmerken en begrippen
+2 Algemene kenmerken en begrippen
 
 2.1 Opzet van de landelijke voorziening
 

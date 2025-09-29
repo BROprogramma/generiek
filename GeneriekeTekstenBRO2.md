@@ -261,7 +261,7 @@ In schema:
 | **Gegeven** | **Omschrijving**  | **Kwaliteitsregime** | **Verplicht voor** | **Verplicht vanaf** | **Transitieperiode** |
 | --- | ---|---|---|---|---|
 | Nieuwe gegevens | gegevens die dateren van na de datum waarop de ministeriële regeling of een registratieobject van kracht is geworden. | IMBRO | alle bronhouders[^1] (art. 9 Wet Bro) | - Vanaf inwerkingtreding ministeriële regeling of een registratieobject<br> -	Uitzondering o.b.v. art. 41: verkenning die voortkomt uit een schriftelijke opdracht van voor inwerkingtreding van dit registratieobject, is uitgezonderd van deze verplichting -> en valt daarmee automatisch onder art. 40| - Geen (binnen 20 werkdagen)<br> - Tot 3 jaar na inwerkingtreding registratieobject  |
-| Historische gegevens | gegevens die dateren van **voor** de datum  waarop de ministeriële regeling of een registratieobject van kracht is geworden. | IMBRO/A<br>  (IMBRO als gegevens voldoen aan IMBRO)| - DINO en BIS (art. 39).<br>   - Andere actuele digitale, gestructureerde gegevens bij bronhouders van vóór 1-7-2025 ([art.  40](https://zoek.officielebekendmakingen.nl/dossier/kst-36544-2.html)).| - Een bij koninklijk besluit te bepalen tijdstip (art. 39).<br>  - [Vanaf  1-7-2025](https://zoek.officielebekendmakingen.nl/stb-2025-97.html) of vanaf inwerkingtreding van een registratieobject dat later in werking treedt. | - ?<br> - Binnen vijf jaar |
+| Historische gegevens | gegevens die dateren van **voor** de datum  waarop de ministeriële regeling of een registratieobject van kracht is geworden. | IMBRO/A<br>  (IMBRO als gegevens voldoen aan IMBRO)| - DINO en BIS (art. 39).<br>   - Andere actuele digitale, gestructureerde gegevens bij bronhouders van vóór 1-7-2025 ([art.  40](https://zoek.officielebekendmakingen.nl/dossier/kst-36544-2.html)).| - Een bij koninklijk besluit te bepalen tijdstip (art. 39).<br>  - [Vanaf  1-7-2025](https://zoek.officielebekendmakingen.nl/stb-2025-97.html) of vanaf inwerkingtreding van een registratieobject dat later in werking treedt. | - Binnen vijf jaar |
 
 
 De periode waarin de bronhouders die vrijheid hebben wordt
@@ -1165,6 +1165,7 @@ hetzelfde.
 
 [^1]: Drinkwaterbedrijven zijn alleen bronhouder voor bepaalde
     registratieobjecten.
+
 
 
 

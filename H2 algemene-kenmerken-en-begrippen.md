@@ -35,17 +35,17 @@ Een registratieobject is niet alleen in de ruimte maar ook in de tijd gedefiniee
 
 Registratieobjecten worden in de BRO gegroepeerd in domeinen. Hoofdstuk 2 van het Besluit Bro onderscheidt zes domeinen:
 
--bodem- en grondonderzoek
+- bodem- en grondonderzoek
 
--milieukwaliteit
+- milieukwaliteit
 
--grondwatermonitoring
+- grondwatermonitoring
 
--grondwatergebruik
+- grondwatergebruik
 
--mijnbouwwet
+- mijnbouwwet
 
--modellen.
+- modellen.
 
 De domeinen zijn vanuit het oogpunt van beheer van belang voor de ordening van de inhoud van de BRO. Daarnaast zijn zij nuttig in de communicatie met de partijen die bij de realisatie van de BRO betrokken zijn.
 NB: deze registratiedomeinen zijn niet de domeinen als bedoeld in Hoofdstuk 5 van de catalogus. De laatste beschrijven de mogelijke waarden van een attribuut.
@@ -59,7 +59,6 @@ Deze historische gegevens kunnen niet altijd voldoen aan de strikte regels die d
 Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registratieobject dat valt onder de categorie verkenningen, gedurende drie jaar na inwerkingtreding van dit registratieobject, een zekere mate van vrijheid. Als een gegeven voortkomt uit een schriftelijke opdracht van voor inwerkingtreding van dit registratieobject, kan het praktisch blijken het IMBRO/A-regime te hanteren voor gegevens die pas na deze datum zijn geproduceerd.
 
 In schema:
-
 
 | **Gegeven** | **Omschrijving**  | **Kwaliteitsregime** | **Verplicht voor** | **Verplicht vanaf** | **Transitieperiode** |
 | --- | ---|---|---|---|---|
@@ -102,21 +101,20 @@ Het besluit wordt ondersteund door ontwikkelingen in Nederland. Sinds 2013 wordt
 
 Het besluit betekent niet dat de gegevens ook in ETRS89 aangeleverd moeten worden. De BRO voorziet een periode van transitie waarin de aanleverende partijen zelf bepalen wanneer zij overstappen op ETRS89. Die periode zal naar verwachting jaren duren. Om de transitie te ondersteunen hanteert de BRO de volgende spelregels:
 
-Gegevens mogen in een beperkt aantal referentiestelsels worden aangeleverd (RD, WGS84 en ETRS89).
-
-Voor locaties op land wordt alleen RD of ETRS89 toegestaan.
+- Gegevens mogen in een beperkt aantal referentiestelsels worden aangeleverd (RD, WGS84 en ETRS89).
+	- Voor locaties op land wordt alleen RD of ETRS89 toegestaan.
 (WGS84 is niet geschikt voor nauwkeurige toepassingen, bij wijze van uitzondering wordt binnen het domein milieukwaliteit WGS84 op land toegestaan.)
+	- Voor locaties op zee wordt alleen WGS84 of ETRS89 toegestaan.
 
-Voor locaties op zee wordt alleen WGS84 of ETRS89 toegestaan.
-De aangeleverde coördinaten worden in de registratie opgeslagen.
+- De aangeleverde coördinaten worden in de registratie opgeslagen.
 
-De aangeleverde coördinaten worden door de BRO getransformeerd naar het ETRS89 referentiestelsel.
+- De aangeleverde coördinaten worden door de BRO getransformeerd naar het ETRS89 referentiestelsel.
 
-De getransformeerde coördinaten worden naast de aangeleverde coördinaten opgeslagen.
+- De getransformeerde coördinaten worden naast de aangeleverde coördinaten opgeslagen.
 
-Bij de getransformeerde coördinaten wordt ook een identificatie van de gebruikte transformatiemethode opgeslagen.
+- Bij de getransformeerde coördinaten wordt ook een identificatie van de gebruikte transformatiemethode opgeslagen.
 
-Als de coördinaten in ETRS89 zijn aangeleverd, dan staat bij aangeleverde en getransformeerde positie dezelfde informatie. Voor de locatie worden de getransformeerde coördinaten en de aangeleverde coördinaten beide aan de afnemers verstrekt.
+- Als de coördinaten in ETRS89 zijn aangeleverd, dan staat bij aangeleverde en getransformeerde positie dezelfde informatie. Voor de locatie worden de getransformeerde coördinaten en de aangeleverde coördinaten beide aan de afnemers verstrekt.
 
 2.6.2 Referentiestelsels voor de verticale positie
 

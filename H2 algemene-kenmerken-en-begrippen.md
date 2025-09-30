@@ -35,17 +35,17 @@ Een registratieobject is niet alleen in de ruimte maar ook in de tijd gedefiniee
 
 Registratieobjecten worden in de BRO gegroepeerd in domeinen. Hoofdstuk 2 van het Besluit Bro onderscheidt zes domeinen:
 
-bodem- en grondonderzoek
+-bodem- en grondonderzoek
 
-milieukwaliteit
+-milieukwaliteit
 
-grondwatermonitoring
+-grondwatermonitoring
 
-grondwatergebruik
+-grondwatergebruik
 
-mijnbouwwet
+-mijnbouwwet
 
-modellen.
+-modellen.
 
 De domeinen zijn vanuit het oogpunt van beheer van belang voor de ordening van de inhoud van de BRO. Daarnaast zijn zij nuttig in de communicatie met de partijen die bij de realisatie van de BRO betrokken zijn.
 NB: deze registratiedomeinen zijn niet de domeinen als bedoeld in Hoofdstuk 5 van de catalogus. De laatste beschrijven de mogelijke waarden van een attribuut.

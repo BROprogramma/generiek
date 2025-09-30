@@ -8,13 +8,14 @@ Een catalogus is de gegevensdefinitie van een registratieobject en beschrijft we
 
 Een catalogus is het resultaat van een proces van standaardisatie dat geruime tijd in beslag kan nemen. De standaardisatie is een open proces waarin de belanghebbende partijen actief betrokken worden. Het eindresultaat wordt vastgesteld als bijlage van een ministeriële regeling.
 
-1.4 Beheer
+<h3>Beheer</h3>
 
 De eerste wettelijk vastgestelde catalogus (zoals bekendgemaakt in de Regeling Bro) krijgt het versienummer 1.0. Verwacht mag worden dat er na enige tijd behoefte ontstaat aan gegevens die nog niet in de catalogus zijn opgenomen.
 
 De beheerder hanteert drie typen versies voor een wijziging van een catalogus. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
 
-X-wijzigingenDeze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
+X-wijzigingen
+Deze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
 Frequentie: maximaal 1 keer per 2 jaar.
 
 Y-wijzigingen

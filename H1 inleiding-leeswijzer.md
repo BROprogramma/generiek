@@ -25,7 +25,7 @@ De eerste wettelijk vastgestelde catalogus (zoals bekendgemaakt in de Regeling B
 
 De beheerder hanteert drie typen versies voor een wijziging van een catalogus. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
 
-X-wijzigingenDeze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten￼ en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
+X-wijzigingenDeze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
 Frequentie: maximaal 1 keer per 2 jaar.
 
 Y-wijzigingen

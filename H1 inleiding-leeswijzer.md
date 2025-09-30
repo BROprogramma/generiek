@@ -1,4 +1,4 @@
-1 Inleiding
+<h2>1 Inleiding,</h2>
 
 1.1 Leeswijzer
 		<p><a href ="#inleiding">Hoofdstuk 1</a> geeft het doel en de doelgroep van een catalogus.</p>

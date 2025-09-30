@@ -1,14 +1,14 @@
-<section id='doel-en-doelgroep>
+<section id='doel-en-doelgroep'>
 ## Doel en doelgroep
 In de basisregistratie ondergrond (BRO) wordt een aantal typen gegevens geregistreerd, de registratieobjecten.</section id>
 
 Een catalogus is de gegevensdefinitie van een registratieobject en beschrijft welke gegevens van dit object in de BRO zijn opgeslagen. Het document is bedoeld voor alle gebruikers van de BRO en maakt duidelijk welke gegevens er precies in de BRO zijn opgenomen. Aan aanleverende partijen geeft het inzicht in welke gegevens in de BRO moeten komen en aan welke eisen die moeten voldoen, en aan afnemende partijen welke gegevens zij in de BRO mogen verwachten. Het document is voor een breed publiek bedoeld en de informatie moet naast precies ook begrijpelijk zijn.
 
-<section id='totstandkoming>
+<section id='totstandkoming'>
 ## Totstandkoming
 Een catalogus is het resultaat van een proces van standaardisatie dat geruime tijd in beslag kan nemen. De standaardisatie is een open proces waarin de belanghebbende partijen actief betrokken worden. Het eindresultaat wordt vastgesteld als bijlage van een ministeriële regeling.</section id>
 
-<section id='beheer>
+<section id='beheer'>
 ## Beheer
 De eerste wettelijk vastgestelde catalogus (zoals bekendgemaakt in de Regeling Bro) krijgt het versienummer 1.0. Verwacht mag worden dat er na enige tijd behoefte ontstaat aan gegevens die nog niet in de catalogus zijn opgenomen.
 

@@ -1,6 +1,7 @@
-5 Opbouw van de gegevensdefinitie
+[h2 is vereist vanwege ReSpec]: #
+<h2>Opbouw van de gegevensdefinitie</h2>
 
-5.1 De gegevensdefinitie
+# De gegevensdefinitie
 De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving van alle gegevens van het registratieobject. Eerst wordt de definitie van het registratieobject gegeven inclusief de plaatjes van het zgn. domeinmodel, en vervolgens de definities van de entiteiten waaruit het object is opgebouwd met de eigenschappen van die entiteiten, de attributen. De entiteiten worden op volgorde van de nummers in het domeinmodel behandeld. De volgende aspecten van de gegevens worden vastgelegd.
 
 * De Nederlandse naam van het gegeven.
@@ -35,7 +36,7 @@ De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving v
 
 De gegevensdefinitie dekt de beide kwaliteitsregimes die worden onderscheiden, IMBRO en IMBRO/A. Het kwaliteitsregime IMBRO is leidend en bij het opstellen van de gegevensdefinitie is geprobeerd de verschillen tussen de twee regimes zo klein mogelijk te houden. Het streven is een object altijd in termen van dezelfde gegevens te beschrijven en voor IMBRO/A alleen aanvullende regels te formuleren en extra waarden toe te staan. Bij uitzondering kan het echter nodig zijn gebleken voor IMBRO/A aparte entiteiten, attributen of domeinen te definiëren.
 
-5.2 Domeinen
+# Domeinen
 Een domein beschrijft welke waarden mogelijk zijn voor een attribuut (zie bijv. Aantal of Code).
 
 Sommige domeinen zijn samengesteld uit twee of meer elementen die in samenhang betekenisvol zijn. Een voorbeeld van een samengesteld domein dat in de BRO bestaat is Datuminterval. Datuminterval bestaat uit twee elementen, beide van het domein Datum (jaar, maand en dag), namelijk een begindatum en een einddatum.
@@ -45,30 +46,30 @@ In de gegevensdefinitie worden in dat geval een attribuut gemodelleerd waarvan h
 
 De domeinen die in de gegevensdefinitie worden gebruikt worden hieronder toegelicht.
 
-5.2.1 Aantal
+## Aantal
 
 Het domein Aantal wordt gebruikt voor een telbare hoeveelheid. Het is een natuurlijk getal met een bepaalde maximale lengte.
 Het domein wordt volledig gespecificeerd door met de aanduiding aantal ook de maximale lengte mee te (Aantal N). Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding Aantal.
 
-5.2.2 Code
+## Code
 
 Een code is een opeenvolging van cijfers, van letters of van cijfers en letters met een bepaalde opbouw en met een specifieke betekenis. Een code heeft gewoonlijk een betekenis die ook buiten de BRO geldt. Een code wordt uitgegeven door een verantwoordelijke instantie. Om de opbouw van een code weer te geven wordt gebruik gemaakt van de letters C en N. De letter C staat voor character (Eng.) en duidt een letter aan, de letter N staat voor number (Eng.) en duidt een cijfer aan. Een code heeft een bepaalde naam.
 Het domein wordt volledig gespecificeerd door met de naam van de code ook de opbouw mee te geven. Uit de definitie van het attribuut zelf moet blijken wat de specifieke betekenis is van de code. In het domeinmodel wordt het domein aangeduid met zijn naam.
 
-5.2.3 Gemeten waarden
+## Gemeten waarden
 
 Meetwaarden worden gebruikt voor grootheden. De waarde van een grootheid is een getal met een bepaalde opbouw en een bepaalde eenheid. Voor de waarde van grootheden worden twee domeinen gebruikt. Een voor een waarde waarvan de nauwkeurigheid altijd hetzelfde is (Meetwaarde) en een voor een waarde waarvan de nauwkeurigheid varieert (Meetwaarde in machten) en dat is het geval wanneer de nauwkeurigheid voor kleine getallen anders is dan de nauwkeurigheid voor grote getallen omdat een ander apparaat of methode is gebruikt.
 
 De BRO gebruikt voor de eenheden de codes uit het UCUM (Unified Code for Units of Measure)-systeem. In bijzondere gevallen is de eenheid dimensieloos.
 
-5.2.3.1 Meetwaarde
+### Meetwaarde
 
 Het domein Meetwaarde wordt gebruikt wanneer de nauwkeurigheid van de waarde altijd hetzelfde is.
 Het is een rationaal getal met een bepaalde opbouw. Het aantal cijfers voor het scheidingsteken is variabel maar begrensd. Het aantal cijfers achter het scheidingsteken ligt vast.
 
 Het domein wordt volledig gespecificeerd door met de aanduiding meetwaarde ook de opbouw (Meetwaarde N.N) en de eenheid mee te geven. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding Meetwaarde.
 
-5.2.3.2 Inname van gemeten waarden
+### Inname van gemeten waarden
 
 In de praktijk is het moeilijk een meetwaarde zonder verandering van het ene systeem aan het andere door te geven. De BRO hanteert de definities binnen het systeem en bij uitgifte strikt om te borgen dat een meetwaarde zonder verandering kan worden doorgegeven.
 
@@ -86,17 +87,17 @@ Er zijn meer cijfers vóór het scheidingsteken aanwezig dan gespecificeerd: de 
 
 Er is een scheidingsteken bij de exponent van de meetwaarde in machten aanwezig: de waarde wordt geweigerd.
 
-5.2.4 Nummer
+## Nummer
 
 Het domein Nummer wordt gebruikt om de plaats in een reeks aan te geven. Het is een opeenvolging van cijfers met een bepaalde maximale lengte. Een nummer heeft geen rekenkundige betekenis, maar heeft een betekenisvolle volgorde.
 Het domein wordt volledig gespecificeerd door met de aanduiding nummer ook de maximale lengte mee te geven (Nummer N). Eventueel wordt de waardeverzameling verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding Nummer.
 
-5.2.5 Tekst
+## Tekst
 
 Het domein Tekst bestaat uit een stuk tekst van een bepaalde maximale lengte. De tekst mag alleen bestaan uit de tekens die voorkomen in de MES-1 set. De MES-1 set omvat 335 tekens en wordt gebruikt binnen de landen van de Europese Unie die een Latijns schrift kennen.
 Het domein wordt volledig gespecificeerd door met de aanduiding tekst ook de maximale lengte mee te (Tekst N). In het domeinmodel wordt volstaan met de algemene aanduiding Tekst.
 
-5.2.6 Tijdstip
+## Tijdstip
 
 Voor gegevens die over tijdstippen gaan worden twee domeinen gebruikt. Een voor een tijdstip tot op de seconde nauwkeurig (DatumTijd) en een voor een tijdstip tot op de dag nauwkeurig (Datum).
 
@@ -106,19 +107,19 @@ De opbouw van de twee domeinen volgt dezelfde conventies, conform ISO 8601. Het 
 
 Voor de meest uitgebreide variant van de opbouw, die van DatumTijd, wordt dit JJJJ-MM-DDTUU:MM:SS+UU:MM. De T is het teken dat de datum en het tijdstip op die datum scheidt. De + is het scheidingteken tussen het tijdstip en de tijdzone. Zoals uit de opbouw blijkt wordt de tijdzone in uren en minuten gegeven. De meeste tijdzones zijn overigens uitgedrukt in gehele uren (UU:00). In Nederland geldt Centraal Europese Tijd (UTC+1:00) of Centraal Europese Zomertijd (UTC+2.00).
 
-5.2.6.1 Datum
+### Datum
 
 Het domein Datum wordt gebruikt om een datum volgens de Gregoriaanse kalender tot op de dag nauwkeurig aan te geven. De opbouw is JJJJ-MM-DD.
 Bij het domein Datum is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
-5.1.6.2 DatumTijd
+### DatumTijd
 
 Het domein DatumTijd wordt gebruikt om een tijdstip volgens de Gregoriaanse kalender tot op de seconde nauwkeurig aan te geven. De opbouw is JJJJ-MM-DDTUU:MM:SS+UU:MM.
 Bij het domein DatumTijd is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
 De BRO volgt de ISO8601 standaard en rekent de aangeleverde DatumTijd waarde om tot een Nederlandse DatumTijd waarde voordat er wordt getoetst op eventuele regels. Het is dus belangrijk dat de juiste tijdzone wordt opgevoerd om tijdstippen correct leesbaar te houden. Voor de lezer is dit de lokale tijd. Daarnaast is het belangrijk dat de zomer- en wintertijd correct worden toegepast. Geadviseerd wordt om voor de tijdzone de in Nederland geldige waarden +01:00 en +02:00 te gebruiken: dit ondersteunt de leesbaarheid van de XML door mensen. Zie voor een uitgebreidere toelichting het document "[Het afhandelen van tijstippentijstippen](https://www.bro-productomgeving.nl/bpo/latest/het-afhandelen-van-tijdstippen)" op de BRO productomgeving.
 
-5.2.6.3 OnvolledigeDatum
+### OnvolledigeDatum
 
 Voor gegevens die onder het kwaliteitsregime IMBRO/A aangeleverd worden, geldt een derde domein met vier keuzemogelijkheden.
 
@@ -132,11 +133,11 @@ Geen datum bekend, met als vaste waarde onbekend.
 
 De keuze die gemaakt wordt is gebaseerd op de beschikbaarheid van gegevens. De gebruiker moet ervan uitgaan dat de informatie zo nauwkeurig mogelijk is opgenomen. Bij het domein OnvolledigeDatum is het voldoende de naam te geven, omdat de vier keuzen en de opbouw altijd hetzelfde zijn.
 
-5.2.7 Waardelijsten
+## Waardelijsten
 
 Een waardelijst is een lijst van de waarden die het attribuut mag hebben. Er zijn twee typen waardelijsten, waardelijsten die in de toekomst kunnen worden uitgebreid en waardelijsten die niet kunnen worden uitgebreid. Een waardelijst heeft een bepaalde naam en een specifieke inhoud.
 
-5.2.7.1 Waardelijst niet-uitbreidbaar
+### Waardelijst niet-uitbreidbaar
 
 Een niet-uitbreidbare waardelijst wordt gebruikt wanneer uitbreiding niet mogelijk is. Alle waarden van de lijst staan vast.
 Bij een niet-uitbreidbare waardelijst is het voldoende de naam te geven, omdat de inhoud altijd hetzelfde is. In de BRO worden drie niet-uitbreidbare waardelijsten gebruikt.
@@ -160,19 +161,19 @@ Kwaliteitsregime
 | IMBRO |
 | IMBRO/A |
 
-5.2.7.2 Waardelijst uitbreidbaar
+### Waardelijst uitbreidbaar
 
 Een uitbreidbare waardelijst wordt gebruikt wanneer uitbreiding mogelijk moet zijn. Iedere waarde van de lijst heeft een specifieke betekenis (omschrijving) en geldt voor een bepaald kwaliteitsregime, IMBRO en/of IMBRO/A. Eventueel worden andere aspecten van de waarde vastgelegd.
 Bij een uitbreidbare waardelijst wordt de naam van de lijst gegeven. De inhoud van de lijst is in een apart hoofdstuk van de gegevensdefinitie opgenomen.
 
-5.2.8 Geometrie
+## Geometrie
 
 Voor gegevens over de geometrie van een object worden verschillende domeinen gebruikt. De vorm, afmetingen, oriëntatie en positie ten opzichte van de aarde van een object kunnen in verschillende typen geometrie uitgedrukt worden, waarbij ook een keuzemogelijkheid uit meerdere typen en daarmee domeinen een optie kan zijn.
 In de BRO zijn de geometrieën conform het GML Simple Features profile versie 2.0 (OGC) toegestaan. Deze omvat punten, lijnen, vlakken en volumen.
 
 De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de gegevensdefinitie worden gebruikt worden hieronder toegelicht.
 
-5.2.8.1 Punt
+### Punt
 
 Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het Punt vastgelegd.
 
@@ -181,7 +182,7 @@ Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De p
 	<figcaption>Een punt geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
-5.2.8.2 Lijn
+### Lijn
 
 Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment. Een Lijn kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
@@ -190,7 +191,7 @@ Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object 
 	<figcaption>Een lijn geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
-5.2.8.3 Multilijn
+### Multilijn
 
 Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meerdere lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een Multilijn vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een Multilijn kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
@@ -199,7 +200,7 @@ Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk éé
 	<figcaption>Een multilijn geometrie</figcaption>
 </figure><br><br>
 
-5.2.8.4 Vlak
+### Vlak
 
 Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meerdere interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
@@ -208,7 +209,7 @@ Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de 
 	<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
-5.2.8.5 Multivlak
+### Multivlak
 
 Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een Multivlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
@@ -217,7 +218,7 @@ Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk é�
 	<figcaption>Een Multivlak geometrie.</figcaption>
 </figure><br><br>
 
-5.2.8.6 Volume
+### Volume
 
 Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
@@ -226,7 +227,7 @@ Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een objec
 	<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
-5.2.8.7 Minimum begrenzing
+### Minimum begrenzing
 
 Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
@@ -234,7 +235,7 @@ Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere
 	<img src="./media/MinimumBegrenzing2.png" alt="Minimum begrenzing" width="400"/>
 </figure><br><br>
 
-5.2.9 Coördinatenpaar
+## Coördinatenpaar
 
 Het domein Coördinatenpaar wordt gebruikt om de positie van een punt op het aardoppervlak vast te leggen. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in twee coördinaten. Ieder van de coördinaten heeft een meetwaarde en de notatie voor het paar is (coördinaat 1, coördinaat 2).In de basisregistratie ondergrond worden drie referentiestelsels voor horizontale posities gebruikt. Het referentiestelsel bepaalt hoe de tweedimensionale ruimte wordt beschreven en daarmee wat de coördinaten voorstellen en wat de karakteristiek van de twee meetwaarden is.Voor het referentiestelsel RD zijn de coördinaten cartesisch en is de notatie (x,y). De eerste coördinaat (x) heeft betrekking op de positie op een west-oost georiënteerde as, de tweede coördinaat (y) op een zuid-noord georiënteerde as. Een positie oostelijk van de oorsprong, resp. noordelijk van de oorsprong heeft een positieve waarde. Voor WGS84 (ongeprojecteerd) en ETRS89 (ongeprojecteerd) zijn de coördinaten geografisch en is de notatie (φ,λ). De eerste coördinaat heeft betrekking op de geografische breedte, de tweede op de geografische lengte. Een positie oostelijk van de Greenwichmeridiaan, resp. noordelijk van de evenaar heeft een positieve waarde.
 Bij het domein Coördinatenpaar is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is.
@@ -263,7 +264,7 @@ Coördinatenpaar voor ETRS89 (φ,λ)
 | Waardebereik φ | 50.6 tot 56 |
 | Waardebereik λ | 2.4 tot 7.4 |
 
-5.2.10 Organisatie
+## Organisatie
 
 Het domein Organisatie wordt gebruikt om de organisaties die een rol hebben in de BRO te identificeren. De invulling van het domein hangt af van waar de organisatie gevestigd is en voor de BRO gaat het daarbij om Nederland of een andere lidstaat van de Europese Unie.
 
@@ -273,14 +274,14 @@ Voor organisaties buiten Nederland wordt het domein ingevuld met het equivalent 
 
 Bij het domein Organisatie is het voldoende de naam te geven, omdat de twee keuzen en de opbouw altijd hetzelfde zijn.
 
-5.3 Entiteiten van het type meetreeks
+# Entiteiten van het type meetreeks
 
 Een meetreeks is een type entiteit met een vaste ordening. Het wordt gebruikt om het verloop van een bepaalde eigenschap of eigenschappen vast te leggen die het gevolg is van de verandering van een bepaalde variabele, de zogenaamde onafhankelijke variabele. In de BRO is er altijd 1 onafhankelijke variabele, en dat is meestal de tijd maar kan ook een andere variabele zijn.
 
 De meetreeks is een verzameling gemeten waarden van bepaalde eigenschappen in een bepaalde volgorde. Alle eigenschappen van de meetreeks worden volledig gespecificeerd. De eerste eigenschap is de onafhankelijke variabele op basis waarvan de metingen elkaar in oplopende volgorde opvolgen. Daarna volgen de afhankelijke variabelen.
 Een meetreeks heeft een bepaalde naam. Alleen in het domeinmodel is de meetreeks aangeduid als Meetreeks.
 
-5.4 Het domeinmodel
+# Het domeinmodel
 
 Het domeinmodel geeft een overzicht van de gegevens van het registratieobject en laat de onderlinge samenhang zien. Modellering van informatie kent verschillende invalshoeken. In de catalogus is het inhoudelijke perspectief gekozen omdat dat de meeste waarde heeft voor de mensen die de informatie moeten begrijpen. Een dergelijk model wordt in de BRO een domeinmodel genoemd. Uit het domeinmodel wordt een technisch model afgeleid dat meeweegt dat informatiesystemen efficiënt met elkaar moeten kunnen spreken. Voor het domeinmodel wordt de UML-notatie gebruikt. Met kennis van de gebruikte symbolen is het gemakkelijk te lezen.
 
@@ -298,7 +299,7 @@ Het domeinmodel laat daarnaast ook zien hoe entiteiten aan elkaar gerelateerd zi
 
 Bovenstaand voorbeeld is te lezen als: de entiteit Bepaling bevat één of meerdere metingen. Een meting bestaat uit een meetwaarde en meetconfiguratie-gegevens. De meetconfiguratie bestaat uit twee parameters.
 
-5.5 Verplichte gegevens, verplichte waarden
+# Verplichte gegevens, verplichte waarden
 
 De kardinaliteit en de regels bepalen samen of een gegeven al dan niet aanwezig is. Voor een goed begrip van de gegevensdefinitie is dat nog niet zorgvuldig genoeg geformuleerd. In de praktijk van gegevensuitwisseling is het namelijk mogelijk een attribuut op te nemen zonder waarde. Verbijzonderd voor attributen is de juiste formulering daarom dat de kardinaliteit en de regels samen bepalen of een attribuut al dan niet aanwezig is en of een attribuut al dan niet een waarde heeft.
 

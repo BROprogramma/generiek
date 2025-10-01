@@ -295,7 +295,8 @@ Soms zijn een aantal attributen gegroepeerd in een groep, aangeduid als gegevens
 Het domeinmodel laat daarnaast ook zien hoe entiteiten aan elkaar gerelateerd zijn. Een beschrijving van deze relatie is opgenomen bij de bron-entiteit van de relatie. Een relatie heeft altijd een richting en in de meeste gevallen loopt deze van bron naar doel. In het plaatje van een domeinmodel heeft de relatie een naam en een kardinaliteit. Om de leesbaarheid te vergroten staat de kardinaliteit bij de doelentiteit.
 
 <figure>
-	<img src="https://docs.geostandaarden.nl/bro/gen/media/domeinmodel-intro-class-model.png" >
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/domeinmodel-intro-class-model.png">
+		<figcaption>Voorbeeld class model.</figcaption>
 </figure>
 
 Bovenstaand voorbeeld is te lezen als: de entiteit Bepaling bevat één of meerdere metingen. Een meting bestaat uit een meetwaarde en meetconfiguratie-gegevens. De meetconfiguratie bestaat uit twee parameters.

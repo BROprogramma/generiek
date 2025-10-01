@@ -178,7 +178,7 @@ De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de 
 Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het Punt vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/punt.png" alt="Punt" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/punt.png" alt="Punt" width="150"/>
 	<figcaption>Een punt geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
@@ -187,7 +187,7 @@ Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De p
 Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment. Een Lijn kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/lijn.png" alt="Lijn" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/lijn.png" alt="Lijn" width="150"/>
 	<figcaption>Een lijn geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
@@ -196,7 +196,7 @@ Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object 
 Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meerdere lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een Multilijn vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een Multilijn kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/multilijn.png" alt="Multilijn" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/multilijn.png" alt="Multilijn" width="150"/>
 	<figcaption>Een multilijn geometrie</figcaption>
 </figure><br><br>
 
@@ -205,7 +205,7 @@ Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk éé
 Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meerdere interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/vlak.png" alt="Vlak" width="150"/>
+	<img src="http://docs.geostandaarden.nl/bro/gen/media/vlak.png" alt="Vlak" width="150"/>
 	<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
@@ -214,7 +214,7 @@ Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de 
 Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een Multivlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/multivlak.png" alt="Multivlak" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/multivlak.png" alt="Multivlak" width="150"/>
 	<figcaption>Een Multivlak geometrie.</figcaption>
 </figure><br><br>
 
@@ -223,7 +223,7 @@ Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk é�
 Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/volume.png" alt="Volume" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/volume.png" alt="Volume" width="150"/>
 	<figcaption>Een volume geometrie (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 
@@ -232,7 +232,7 @@ Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een objec
 Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/minimumBegrenzing3.png" alt="Minimum begrenzing" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/minimumBegrenzing3.png" alt="Minimum begrenzing" width="150"/>
 	<figcaption>Minimum begrenzing.</figcaption>
 </figure><br><br>
 

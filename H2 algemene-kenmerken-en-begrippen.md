@@ -1,5 +1,5 @@
 [h2 is vereist vanwege ReSpec]: #
-
+<h2>Algemene kenmerken en begrippen</h2>
 
 # Opzet van de landelijke voorziening
 

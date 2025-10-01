@@ -232,7 +232,7 @@ Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een objec
 Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/MinimumBegrenzing2.png" alt="Minimum begrenzing" width="400"/>
+	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/minimumBegrenzing2.png" alt="Minimum begrenzing" width="150"/>
 	<figcaption>Minimum begrenzing.</figcaption>
 </figure><br><br>
 

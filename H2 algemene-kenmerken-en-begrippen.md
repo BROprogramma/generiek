@@ -13,7 +13,7 @@ Een geheel van gegevens dat een bronhouder aanlevert, wordt een brondocument gen
 
 <figure>
 	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/image002.png"  width="350"/>
-	<figcaption>Figuur 1: De twee grote deelsystemen van de landelijke voorziening van de BRO.</figcaption>
+	<figcaption>De twee grote deelsystemen van de landelijke voorziening van de BRO.</figcaption>
 </figure><br><br>
 
 

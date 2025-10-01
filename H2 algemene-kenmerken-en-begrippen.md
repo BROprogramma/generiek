@@ -12,7 +12,7 @@ Bij wet is geregeld dat de BRO zo wordt opgezet dat er onderscheid bestaat tusse
 Een geheel van gegevens dat een bronhouder aanlevert, wordt een brondocument genoemd. De brondocumenten worden in het register brondocumenten ondergrond opgeslagen. De gegevens uit de brondocumenten worden samen met de gegevens die de registratiebeheerder toevoegt in de registratie ondergrond vastgelegd. De registratie ondergrond is het deelsysteem dat gebruikt wordt voor uitgifte.
 
 <figure>
-	<img src="https://docs.geostandaarden.nl/bro/gen/media/media/image002.png"  width="350"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/image002.png"  width="350"/>
 	<figcaption>De twee grote deelsystemen van de landelijke voorziening van de BRO.</figcaption>
 </figure><br><br>
 

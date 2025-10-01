@@ -233,6 +233,7 @@ Het domein Minimum begrenzing wordt gebruikt om de positie van één of meerdere
 
 <figure>
 	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/MinimumBegrenzing2.png" alt="Minimum begrenzing" width="400"/>
+	<figcaption>Minimum begrenzing.</figcaption>
 </figure><br><br>
 
 ## Coördinatenpaar

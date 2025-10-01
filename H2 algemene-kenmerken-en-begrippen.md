@@ -1,6 +1,7 @@
-2 Algemene kenmerken en begrippen
+[h2 is vereist vanwege ReSpec]: #
+<h2>Algemene kenmerken en begrippen</h2>
 
-2.1 Opzet van de landelijke voorziening
+# Opzet van de landelijke voorziening
 
 De landelijke voorziening van de BRO is een systeem dat een schakel vormt in een informatieketen. Aan het begin van de keten staan bronhouders die opdracht geven tot de productie van gegevens, of zelf gegevens produceren (artikel 9 van de Wet Bro). De geproduceerde gegevens levert de bronhouder of, namens hem, een dataleverancier  aan de beheerder van de landelijke voorziening van de BRO, de registerbeheerder. De bronhouder is verantwoordelijk voor de levering en de kwaliteit van gegevens. De registerbeheerder registreert de aangeleverde gegevens en levert deze voor (her)gebruik door aan allerlei afnemers.
 
@@ -22,7 +23,7 @@ De catalogus dekt alle gegevens die opgenomen zijn in de registratie ondergrond.
 
 Alle gegevens in de registratie ondergrond worden uitgegeven, maar niet alle afnemers krijgen alle gegevens geleverd. De gegevens die niet aan alle afnemers worden uitgeleverd zijn de gegevens die alleen nodig zijn in de communicatie tussen de registratiebeheerder enerzijds en de dataleveranciers en bronhouders anderzijds, of niet openbaar zijn op grond van een wettelijk voorschrift. Zo zijn persoonsgegevens over bronhouder, dataleverancier en onderzoeker/uitvoerder alleen toegankelijk voor de betreffende bronhouder en dataleverancier op grond van de Algemene verordening gegevensbescherming (AVG).
 
-2.2 Registratieobject
+# Registratieobject
 
 Het registratieobject is dé eenheid in de data-architectuur van de BRO. Voor de registratiebeheerder is het de elementaire bouwsteen van de BRO.
 
@@ -31,7 +32,7 @@ De entiteiten zijn niet de entiteiten uit Bijlage I bij de NIS2-richtlijn.
 
 Een registratieobject is niet alleen in de ruimte maar ook in de tijd gedefinieerd. Het leven van een registratieobject begint op het moment dat de gegevens zijn geregistreerd en dat is zo kort mogelijk nadat de gegevens zijn geproduceerd. De levensduur van een registratieobject, en de veranderlijkheid van de gegevens verschilt van object tot object. Een grondwatermonitoringput (GMW) kan tientallen jaren gebruikt worden voor het meten van grondwaterstanden en in de periode kunnen er nieuwe gegevens ontstaan. Dat betekent dat de gegevens van de put in de BRO gedurende zijn hele levensduur bijgewerkt moeten kunnen worden. Aan de andere kant van het spectrum staan de objecten waarvan alle gegevens in een keer worden vastgelegd. Een geotechnisch sondeeronderzoek (CPT) is daar een voorbeeld van. Sondeeronderzoek is eenmalig onderzoek en het resultaat ervan kan al na een of enkele dagen aan de bronhouder worden overhandigd.
 
-2.3 Registratiedomein
+# Registratiedomein
 
 Registratieobjecten worden in de BRO gegroepeerd in domeinen. Hoofdstuk 2 van het Besluit Bro onderscheidt zes domeinen:
 
@@ -50,7 +51,7 @@ Registratieobjecten worden in de BRO gegroepeerd in domeinen. Hoofdstuk 2 van he
 De domeinen zijn vanuit het oogpunt van beheer van belang voor de ordening van de inhoud van de BRO. Daarnaast zijn zij nuttig in de communicatie met de partijen die bij de realisatie van de BRO betrokken zijn.
 NB: deze registratiedomeinen zijn niet de domeinen als bedoeld in Hoofdstuk 5 van de catalogus. De laatste beschrijven de mogelijke waarden van een attribuut.
 
-2.4 Kwaliteitsregime
+# Kwaliteitsregime
 
 In de BRO worden niet alleen gegevens geregistreerd die dateren van na de datum waarop de wet van kracht is geworden. Ook oudere gegevens worden in de BRO opgenomen. Gegevens uit de eerder bestaande systemen Registratie Data en Informatie Nederlandse Ondergrond (DINO) en Bodemkundig Informatie Systeem (BIS) worden zo veel mogelijk naar de BRO overgezet. Verder verplicht artikel 40 van de wet bronhouders digitale, gestructureerde gegevens binnen vijf jaar na inwerkingtreding - van de wetswijziging per 1-7-2025 of van een registratieobject - ter registratie aan te bieden.
 
@@ -69,7 +70,7 @@ De periode waarin de bronhouders die vrijheid hebben wordt de transitieperiode g
 
 Voor een nadere toelichting van het kwaliteitsregime met een beschrijving van verschillende scenario's voor het corrigeren van het kwaliteitsregime van aangeleverde gegevens, zie Handreiking aanleveren BRO-gegevens op de BRO Productomgeving.
 
-2.5 Formele en materiële geschiedenis
+# Formele en materiële geschiedenis
 
 De BRO maakt deel uit van een stelsel van basisregistraties. Binnen het stelsel maakt men onderscheid tussen de materiële geschiedenis en de formele geschiedenis van een object.
 
@@ -81,7 +82,7 @@ Alle registratieobjecten hebben een formele geschiedenis en die wordt in de BRO 
 
 Bij een correctie wordt het betreffende gegeven in de BRO overschreven en is de oude waarde van het gegeven niet meer direct beschikbaar voor de afnemers. Zou een afnemer toch willen weten wat de eerdere foute waarde was, dan moet hij het register brondocumenten ondergrond raadplegen.
 
-2.6 Coördinaten en referentiestelsels
+# Coördinaten en referentiestelsels
 
 De objecten van de BRO zijn gedefinieerd in de ruimte en dat wil zeggen dat een object zelf een plaats op het aardoppervlak, een locatie, heeft, of dat het gekoppeld is aan een ander type registratieobject met een locatie. Afhankelijk van het type registratieobject, wordt de locatie van het object geregistreerd als een punt, een lijn of een vlak.
 
@@ -91,7 +92,7 @@ Posities worden vastgelegd in coördinaten en die zijn gedefinieerd in een bepaa
 
 Er zijn verschillende typen referentiestelsels. Zo spreekt men van horizontale referentiestelsels (2D), verticale referentiestelsels (1D), gecombineerde referentiestelsels (2D, 1D) en werkelijke 3D referentiestelsels. In Nederland worden de horizontale en de verticale component van een positie in een afzonderlijk stelsel uitgedrukt. Het is vandaag de dag mogelijk met gps een positie in een 3D-referentiestelsel vast te leggen, maar de wens over te stappen op het gebruik van 3D is nog door geen van de partijen die betrokken zijn bij de BRO naar voren gebracht.
 
-2.6.1 Referentiestelsels voor de horizontale positie
+## Referentiestelsels voor de horizontale positie
 
 In Nederland zijn traditioneel verschillende referentiestelsels voor de horizontale positie in gebruik. In 2009, bij de eerste voorbereidingen voor de totstandkoming van de BRO, is al vastgesteld dat de verscheidenheid aan referentiestelsels de BRO voor problemen stelt omdat de registratie dan niet gemakkelijk op een eenduidige manier bevraagd kan worden. In de BRO worden namelijk zowel gegevens met een locatie op land als gegevens met een locatie op zee geregistreerd. In de toenmalige praktijk werden op land en op zee verschillende stelsels gebruikt. Op land werd RD gebruikt en op zee waren verschillende stelsels in gebruik, waarvan WGS84 de belangrijkste was.
 
@@ -116,11 +117,11 @@ Het besluit betekent niet dat de gegevens ook in ETRS89 aangeleverd moeten worde
 
 - Als de coördinaten in ETRS89 zijn aangeleverd, dan staat bij aangeleverde en getransformeerde positie dezelfde informatie. Voor de locatie worden de getransformeerde coördinaten en de aangeleverde coördinaten beide aan de afnemers verstrekt.
 
-2.6.2 Referentiestelsels voor de verticale positie
+## Referentiestelsels voor de verticale positie
 
 In Nederland zijn voor verticale posities op land en zee verschillende referentiestelsels in gebruik. Op land wordt NAP gebruikt. Op zee is het in de voor de BRO relevante werkvelden gebruikelijk posities uit te drukken t.o.v. het gemiddeld zeeniveau (MSL, Mean Sea Level), maar posities t.o.v. LAT komen ook voor (Lowest Astronomical Tide). Dit laatstgenoemde stelsel wordt in de richtlijn Inspire genoemd als het stelsel van voorkeur voor het uitdrukken van verticale posities op zee. De BRO staat daarom op zee het gebruik van LAT naast MSL toe. Aangeleverde verticale posities worden door de BRO niet getransformeerd.
 
-2.7 Gegevens op land en op zee
+# Gegevens op land en op zee
 
 De BRO bevat gegevens over de ondergrond van Nederland en zijn zgn. Exclusieve Economische Zone (EEZ). De EEZ is het gebied op de Noordzee waar Nederland economische rechten heeft. Voor de referentiestelsels die bij levering aan de BRO worden toegestaan, is het van belang te weten of de locatie van een object op zee of op land ligt.
 
@@ -136,7 +137,7 @@ Binnen het domein Mijnbouwwet wordt de scheidingslijn tussen land en zee niet be
 
 Ook registratieobjecten die (ten dele) in het buitenland liggen, kunnen van belang zijn voor het inzicht over de ondergrond in Nederland. Zo wordt bij het hydrologisch beheer van het Nederlands grondgebied soms gebruik gemaakt van grondwatermonitoringnetten, waarvan de bijbehorende grondwatermonitoringputten zowel in Nederland, als in het buitenland liggen. Ook kan het voorkomen dat een mijnstelsel gedeeltelijk in het buitenland ligt, in welk geval de toegang(en) tot dit mijnstelsel in het buitenland kunnen liggen. In dit soort situaties dient de begrenzing van Nederland geen beperking te zijn voor het kunnen registreren van de betreffende ondergrond gegevens. Deze objecten moeten "vanzelfsprekend" wel een Nederlandse bronhouder hebben. Indien van toepassing is in de gegevensdefinitie voorzien dat onder bepaalde condities ook gegevens geregistreerd kunnen worden die (ten dele) in het buitenland liggen.
 
-2.8 Nauwkeurigheid van meetwaarden
+# Nauwkeurigheid van meetwaarden
 
 Voor zinvol gebruik van attributen met een gemeten, berekende of anderszins bepaalde waarde is het noodzakelijk dat de nauwkeurigheid van die waarde bekend is.
 
@@ -144,7 +145,7 @@ Het begrip nauwkeurigheid laat zich in deze context het best omschrijven als de 
 
 De BRO gaat ervan uit dat de producenten van gegevens de metingen en berekeningen uitvoeren binnen een stelsel van afspraken binnen het desbetreffende werkveld. Uitgangspunt is dat ook de eisen waaraan de gegevens op het gebied van nauwkeurigheid moeten voldoen in afspraken zijn vastgelegd. Dat kunnen praktische werkafspraken zijn, maar ook afspraken die vertaald zijn naar ISO- en NEN-normen. In de catalogus wordt in beginsel verwezen naar die normen. Waar deze normen niet voorzien in afspraken over de nauwkeurigheid, stelt de BRO hieraan specifieke eisen. Deze zijn dan vermeld in de catalogus.
 
-2.9 Authentiek gegeven
+# Authentiek gegeven
 
 In de wet is een aantal gegevens expliciet als authentiek aangeduid. Dit wordt in de catalogus nader uitgewerkt; verreweg de meeste gegevens zijn authentiek.
 

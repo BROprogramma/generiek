@@ -21,7 +21,7 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 	<colgroup style="width: 50%;"></colgroup>
 	<colgroup style="width: 50%;"></colgroup>
 	<tbody>
-        	<tr>
+		<tr>
 			<th>
 				<figure>
 				<!-- link to generic location of GitHub/BROprogramma -->
@@ -30,10 +30,10 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 				<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/>
 			 	<figcaption>
 			 		Het registratieobject Milieuhygiënisch bodemonderzoek (Site Assessment Data - SAD)
-			  	</figcaption>
+				</figcaption>
 				</figure>
 			</th>
-                     	<th>
+		 	<th>
 				<figure>
 					<!-- link to generic location of GitHub/BROprogramma -->
 					<!-- <img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/> -->
@@ -41,28 +41,28 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 					<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/>
 					<figcaption>
 				 		Het registratieobject Overheidsbesluit bodemverontreiniging (Site Legal Decision - SLD)
-				  	</figcaption>
+					</figcaption>
 				</figure>				
 			</th>
-                </tr>
+		</tr>
 	</tbody>
 </table>
 
 ## Registratieobject Milieuhygiënisch bodemonderzoek
 Een milieuhygiënisch bodemonderzoek is een onderzoeksactiviteit waarbij binnen de onderzoekslocatie de aanwezigheid van verontreinigende stoffen in de bodem wordt onderzocht. Daarbij wordt een eventuele aard van de verontreiniging (welke stoffen komen voor in hogere concentraties dan de natuurlijke achtergrondwaarde) en de mate ervan (hoe verhouden de gemeten concentraties zich tot het toegestane gehalte op basis van een landelijk of lokaal normenkader) onderzocht.
 
-Het bodemonderzoek wordt doorgaans uitgevoerd door derden, bijvoorbeeld op basis van een opdracht van een bronhouder die ook initiatiefnemer is. Het kan ook zijn dat het bodemonderzoek als onderdeel van een wettelijke procedure (vergunningtraject of melding) door een initiatiefnemer (niet zijnde een overheid) wordt aangeleverd aan het  bevoegd gezag.
+Het bodemonderzoek wordt doorgaans uitgevoerd door derden, bijvoorbeeld op basis van een opdracht van een bronhouder die ook initiatiefnemer is. Het kan ook zijn dat het bodemonderzoek als onderdeel van een wettelijke procedure (vergunningtraject of melding) door een initiatiefnemer (niet zijnde een overheid) wordt aangeleverd aan het bevoegd gezag.
 
 Het resultaat van het milieuhygiënisch bodemonderzoek omvat informatie over de meetpunten (o.a. boringen en peilbuizen), monsternamen, veldwaarnemingen en laboratoriumanalyses van veldmonsters (grond en grondwater) en het bodemonderzoeksrapport. Ook zogenoemde historische onderzoeken (waar alleen archiefonderzoek wordt gedaan) of onderzoeken ter evaluatie van een uitgevoerde sanering of ontgraving (verificatieonderzoeken in het kader van de milieukundige begeleiding) vormen onderdeel van dit registratieobject.
 
-Voor de uitvoering van een milieuhygiënisch bodemonderzoek zijn wettelijke (op basis van de 'Regeling bodemkwaliteit 2022') standaarden en protocollen van toepassing (NEN en SIKB). In veel gevallen werken de uitvoerende medewerkers onder certificaat.  
+Voor de uitvoering van een milieuhygiënisch bodemonderzoek zijn wettelijke (op basis van de 'Regeling bodemkwaliteit 2022') standaarden en protocollen van toepassing (NEN en SIKB). In veel gevallen werken de uitvoerende medewerkers onder certificaat.
 
 ## Registratieobject Overheidsbesluit bodemverontreiniging
-Een overheidsbesluit bodemverontreiniging is een beoordeling van de bodemkwaliteit, gemaakt door het bevoegd gezag in het kader van een procedure onder de Wbb, onder het 'eerbiedigend overgangsrecht saneringen’ (verder genoemd: overgangsrecht) van de Ow (artikel 3.1 Aanvullingswet bodem ) of onder de Ow. 
+Een overheidsbesluit bodemverontreiniging is een beoordeling van de bodemkwaliteit, gemaakt door het bevoegd gezag in het kader van een procedure onder de Wbb, onder het 'eerbiedigend overgangsrecht saneringen’ (verder genoemd: overgangsrecht) voor de overvang naar de Ow (artikel 3.1 Aanvullingswet bodem) of onder de Ow.
 
 Een beschikking onder de Wbb bevat doorgaans een uitspraak over de ernst en spoedeisendheid van een bodemverontreiniging of over de mate waarin een sanering is uitgevoerd. Hierbij gelden ook verplichtingen voor registratie in het kader van de Wet kenbaarheid publiekrechtelijke beperkingen onroerende zaken (Wkpb). Naast besluiten en beschikkingen onder de Wbb kan het zijn dat een bevoegd gezag (veelal een gemeente) vastlegt dat een locatie voldoet aan de eisen van bijvoorbeeld een bouwvergunning en er geen vervolgonderzoek nodig is. De gegevens over de ‘status’ vormen eveneens onderdeel van het registratieobject ‘Overheidsbesluit bodemverontreiniging’. Het registratieobject bevat dus informatie over zowel verontreinigde locaties als locaties waar geen verontreinigingen zijn aangetoond. 
 
-Onder de Ow vervallen beschikkingen grotendeels. Er wordt alleen een beoordeling gedaan van de evaluatie van een sanering of grootschalig ontgraven in bodem boven de interventiewaarde. De resultaten van deze beoordeling worden vastgelegd en vormen onderdeel van voorliggend registratieobject onder de Ow. Het bevoegd gezag doet onder de Ow geen formele uitspraak meer over omvang of spoedeisendheid van een verontreiniging. Hierin zit dus een verschil tussen de registraties onder de Wbb en de Ow. Het bevoegd gezag kan nog wel besluiten om maatwerkvoorschriften te stellen bij een saneringsaanpak. Ook blijft de registratieplicht Wkpb op nazorg van een restverontreiniging gelden.
+Onder de Ow vervallen beschikkingen grotendeels. Er wordt alleen een beoordeling gedaan van de evaluatie van een sanering of grootschalig ontgraven in bodem boven de interventiewaarde. De resultaten van deze beoordeling worden vastgelegd en vormen onderdeel van voorliggend registratieobject onder de Ow. Het bevoegd gezag doet onder de Ow geen formele uitspraak meer over omvang of spoedeisendheid van een verontreiniging. Hierin zit dus een verschil tussen de registraties onder de Wbb en de Ow. Het bevoegd gezag kan nog wel besluiten om maatwerkvoorschriften te stellen bij een saneringsaanpak.
 
 Een overheidsbesluit wordt genomen op basis van door de melder/vergunningsaanvrager ingediende informatie. Welke informatie moet worden aangeleverd bij het bevoegd gezag, is vastgelegd in landelijke en lokale wet- en regelgeving. 
 
@@ -73,7 +73,7 @@ In de BRO zijn vier registratieobjecten opgenomen die een samenhang hebben met g
 - Domein Bodem- en grondonderzoek:
 	- Booronderzoek (BHR)
 - Domein Grondwatermonitoring:
-	- Grondwatermonitoringput (GMW)  
+	- Grondwatermonitoringput (GMW)
 	- Grondwaterkwaliteitsonderzoek (GAR)
 	- Grondwatermonitoringnet (GMN)
 	

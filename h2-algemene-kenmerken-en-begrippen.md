@@ -3,7 +3,7 @@
 
 # Opzet van de landelijke voorziening
 
-De landelijke voorziening van de basisregistratie ondergrond (BRO) is een systeem dat een schakel vormt in een informatieketen. Aan het begin van de keten staan meestal bronhouders die gegevens genereren of ontvangen (artikel 9 van de Wet Bro). Deze gegevens levert de bronhouder of, namens hem, een dataleverancier, aan de beheerder van de landelijke voorziening van de BRO, de registerbeheerder. De bronhouder is verantwoordelijk voor de levering en de kwaliteit van gegevens. De registerbeheerder registreert de geleverde gegevens en levert deze voor (her)gebruik door aan allerlei afnemers.
+De landelijke voorziening van de basisregistratie ondergrond (BRO) is een systeem dat een schakel vormt in een informatieketen. Aan het begin van de keten staan meestal bronhouders die gegevens genereren of ontvangen (artikel 9 van de Wet Bro). Deze gegevens levert de bronhouder of, namens hem, een dataleverancier, aan de beheerder van de landelijke voorziening van de BRO, de registerbeheerder. De bronhouder is verantwoordelijk voor de levering en de kwaliteit van gegevens. De registerbeheerder registreert de geleverde gegevens en levert deze voor (her)gebruik door aan allerlei afnemers, bijvoorbeeld aan een bronhouder vanuit haar rol als bevoegd gezag. 
 
 De opzet van de BRO moet begrepen worden vanuit de verantwoordelijkheden die in de keten zijn belegd. De geleverde gegevens vallen onder de verantwoordelijkheid van de bronhouder en de registerbeheerder mag die gegevens niet veranderen. De registerbeheerder moet echter wel gegevens toevoegen om de BRO te kunnen beheren en hij kan gegevens toevoegen om de afnemers goed van dienst te kunnen zijn.
 

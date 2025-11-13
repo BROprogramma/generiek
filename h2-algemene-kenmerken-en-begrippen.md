@@ -52,15 +52,21 @@ NB: deze registratiedomeinen zijn niet de domeinen als bedoeld in Hoofdstuk 5 va
 
 # Kwaliteitsregime
 
-In de BRO worden niet alleen gegevens geregistreerd die dateren van na de datum waarop de wet van kracht is geworden. Ook oudere gegevens worden in de BRO opgenomen. Gegevens uit de eerder bestaande systemen Registratie Data en Informatie Nederlandse Ondergrond (DINO) en Bodemkundig Informatie Systeem (BIS) worden zo veel mogelijk naar de BRO overgezet. Verder verplicht artikel 40 van de wet bronhouders digitale, gestructureerde gegevens binnen vijf jaar na inwerkingtreding - van de wetswijziging per 1-7-2025 of van een registratieobject - ter registratie aan te bieden.
+In de BRO worden niet alleen gegevens geregistreerd die dateren van na de datum waarop de wet Basisregistratie ondergrond van kracht is geworden. Ook oudere gegevens worden in de BRO opgenomen. Gegevens uit de eerder bestaande systemen Registratie Data en Informatie Nederlandse Ondergrond (DINO) en Bodemkundig Informatie Systeem (BIS) worden zo veel mogelijk naar de BRO overgezet. Verder verplicht artikel 40 van de wet Bro bronhouders om digitale, gestructureerde gegevens binnen vijf jaar na inwerkingtreding - van de wetswijziging per 1 juli 2025 of van een registratieobject - ter registratie aan te bieden.
+Deze historische gegevens kunnen niet altijd voldoen aan de strikte regels die de BRO stelt. Zo kan het voorkomen dat voor gegevens die volgens de strikte regels van de BRO verplicht zijn, geen waarde bekend is. 
 
-Deze historische gegevens kunnen niet altijd voldoen aan de strikte regels die de BRO stelt. Zo kan het voorkomen dat voor gegevens die volgens de strikte regels van de BRO verplicht zijn, geen waarde bekend is. Om de verwerking van de twee categorieën gegevens naast elkaar mogelijk te maken, worden twee kwaliteitsregimes gehanteerd. Voor de levering van gegevens aan de BRO volgens de strikte regels geldt het IMBRO-regime. Bij de levering van historische gegevens wordt geaccepteerd dat een aantal verplichte attributen geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd; dat kent minder strikte regels. Als historische gegevens wel aan alle strikte voorwaarden voldoen, worden de gegevens echter onder het IMBRO-regime geleverd.
+Om de verwerking van de twee categorieën gegevens naast elkaar mogelijk te maken, worden twee kwaliteitsregimes gehanteerd. Voor de levering van gegevens aan de BRO volgens de strikte regels geldt het IMBRO-regime. Bij de levering van historische gegevens wordt geaccepteerd dat een aantal verplichte attributen geen waarde heeft. Voor deze gegevens wordt het IMBRO/A-regime gehanteerd; dat kent minder strikte regels. Als historische gegevens wel aan alle strikte voorwaarden voldoen, worden de gegevens echter onder het IMBRO-regime geleverd.
 
-Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registratieobject dat valt onder de categorie verkenningen, gedurende drie jaar na inwerkingtreding van dit registratieobject, een zekere mate van vrijheid. Als een gegeven voortkomt uit een schriftelijke opdracht van voor inwerkingtreding van dit registratieobject, kan het praktisch blijken het IMBRO/A-regime te hanteren voor gegevens die pas na deze datum zijn geproduceerd.
+Om de verwerking van twee categorieën gegevens naast elkaar mogelijk te maken, worden twee kwaliteitsregimes gehanteerd. Voor de levering van gegevens aan de BRO gelden de regels van het informatiemodel BRO (IMBRO)-regime zoals de catalogus registratie ondergrond voorschrijft. Bij de levering van historische gegevens wordt geaccepteerd dat een aantal verplichte attributen geen waarde of andere waarden heeft. Voor deze gegevens wordt het IMBRO/archief (A)-regime gehanteerd. Als historische gegevens wel aan de voorwaarden van het IMBRO-regime voldoen, worden de gegevens echter onder dit regime geleverd.
 
-In schema:
-<img width="323" height="284" alt="image" src="https://github.com/user-attachments/assets/d216520e-8a6a-4ad9-a66a-3b5b079075bc" />
+Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registratieobject dat valt onder de categorie verkenningen, gedurende drie jaar na inwerkingtreding van dit registratieobject, een zekere mate van vrijheid om bij levering van gegevens te kiezen voor IMBRO/A. Als een gegeven voortkomt uit een schriftelijke opdracht van voor inwerkingtreding van dit registratieobject, kan het praktisch blijken het IMBRO/A-regime te hanteren voor gegevens die pas na deze datum zijn geproduceerd. De periode waarin de bronhouders die vrijheid hebben wordt de ‘transitieperiode’ genoemd. Na afloop van de transitieperiode kunnen alleen gegevens onder het strikte IMBRO-regime worden geleverd.
 
+In schema (artikelen verwijzen naar de wet Bro):
+
+<figure>
+	<img src="https://github.com/BROprogramma/generiek/tree/gh-pages/media/Tabel_kwaliteitsregime.png"  width="350"/>
+	<figcaption>Overzicht verschillen tussen de kwaliteitsregimes.</figcaption>
+</figure><br><br>
 
 
 De periode waarin de bronhouders die vrijheid hebben wordt de transitieperiode genoemd. Na afloop van de transitieperiode kan alleen onder het strikte IMBRO-regime worden aangeleverd.

@@ -4,7 +4,7 @@ De eerste wettelijk vastgestelde catalogus (zoals bekendgemaakt in de Regeling B
 De beheerder hanteert drie typen versies voor een wijziging van een catalogus. Bijvoorbeeld: versie 2.1.0 (=X.Y.Z):
 
 X-wijzigingen
-Deze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
+Deze wijzigingen veranderen de structuur van de catalogus, en/of de namen van bestaande attributen of codelijsten (ook in de berichtencatalogi inname- en uitgiftewebservice) en/of de domeinwaarden. Hierdoor zijn X-wijzigingen niet backwards compatible.
 Frequentie: maximaal 1 keer per 2 jaar.
 
 Y-wijzigingen
@@ -13,6 +13,4 @@ Frequentie: maximaal 1 keer per jaar.
 
 Z-wijzigingen
 Dit zijn verbeteringen van technische of redactionele aard. Deze wijzigingen zijn backwards compatible.
-Frequentie: maximaal 2 keer per jaar.
-
-In een jaar waarin een X-wijziging plaats vindt zullen er op hetzelfde registratieobject geen Y-wijzigingen plaatsvinden. Als er een X- of een Y-wijziging in een jaar aan de orde is, wordt er geen Z-wijziging gepland in een andere wijziging van de Regeling Bro. Wijzigingen aan algemene teksten in de catalogi vallen altijd onder Z-wijzigingen en zullen maximaal 2 keer per jaar plaatsvinden.
+Frequentie: maximaal 1 keer per jaar.

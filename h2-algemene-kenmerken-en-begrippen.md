@@ -64,7 +64,7 @@ Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registrat
 In schema (artikelen verwijzen naar de wet Bro):
 
 <figure>
-	<img src="./media/tabel_kwaliteitsregime.png"  width="350"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/tabel_kwaliteitsregime.png"  width="350"/>
 	<figcaption>Overzicht verschillen tussen de kwaliteitsregimes.</figcaption>
 </figure><br><br>
 

@@ -28,7 +28,7 @@ De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving v
 
 * Van attributen waarvan de waarde mag ontbreken de omschrijving van de reden waarom de waarde mag ontbreken.
 
-* Eventueel de aanduiding dat het gegeven wordt afgeleid door de BRO, in het uitzonderlijke geval het gegeven wordt afgeleid.
+* Eventueel de aanduiding dat de registratie ondergrond het gegeven afgeleidt, in het uitzonderlijke geval het gegeven wordt afgeleid.
 
 * Eventueel een toelichting om aanvullende informatie te geven over de betekenis van het gegeven of de reden waarom het is opgenomen.
 
@@ -94,7 +94,7 @@ Het domein wordt volledig gespecificeerd door met de aanduiding nummer ook de ma
 
 ## Tekst
 
-Het domein Tekst bestaat uit een stuk tekst van een bepaalde maximale lengte. De tekst mag alleen bestaan uit de tekens die voorkomen in de MES-1 set. Net als het veel bekendere ASCII is dit een deelverzameling van Unicode. Omdat ASCII geen trema's, umlauten, accenttekens en cedille bevat, staat de BRO de eerst grotere standaard deelverzameling van Unicode toe, MES-1. De MES-1 set omvat 335 tekens, te weten alle tekens uit ASCII plus en wordt gebruikt binnen de landen van de Europese Unie die een Latijns schrift kennen.
+Het domein Tekst bestaat uit een stuk tekst van een bepaalde maximale lengte. De tekst mag alleen bestaan uit de tekens die voorkomen in de MES-1 set. Net als het veel bekendere ASCII is dit een deelverzameling van Unicode. Omdat ASCII geen trema's, umlauten, accenttekens en cedille bevat, staat de BRO de eerst grotere standaard deelverzameling van Unicode toe, MES-1. De MES-1 set omvat 335 tekens (te weten alle tekens uit ASCII plus) en wordt gebruikt binnen de landen van de Europese Unie die een Latijns schrift kennen.
 Het domein wordt volledig gespecificeerd door met de aanduiding tekst ook de maximale lengte mee te geven (Tekst N). In het domeinmodel wordt volstaan met de algemene aanduiding Tekst.
 
 ## Tijdstip
@@ -117,19 +117,19 @@ Bij het domein Datum is het voldoende de naam te geven, omdat de opbouw altijd h
 Het domein 'DatumTijd' wordt gebruikt om een tijdstip volgens de Gregoriaanse kalender tot op de seconde nauwkeurig aan te geven. De opbouw is JJJJ-MM-DDTUU:MM:SS+UU:MM.
 Bij het domein DatumTijd is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
-De registratie ondergrond volgt de ISO8601 standaard en rekent de geleverde DatumTijd waarde om tot een Nederlandse DatumTijd waarde voordat er wordt getoetst op eventuele regels. Het is dus belangrijk dat de juiste tijdzone wordt opgevoerd om tijdstippen correct leesbaar te houden. Voor de lezer is dit de lokale tijd. Daarnaast is het belangrijk dat de zomer- en wintertijd correct worden toegepast. Geadviseerd wordt om voor de tijdzone de in Nederland geldige waarden +01:00 en +02:00 te gebruiken: dit ondersteunt de leesbaarheid van de XML door mensen. Zie voor een uitgebreidere toelichting het document *[Het afhandelen van tijstippentijstippen](https://www.bro-productomgeving.nl/bpo/latest/het-afhandelen-van-tijdstippen)* op de BRO productomgeving.
+De registratie ondergrond volgt de ISO8601 standaard en rekent de geleverde DatumTijd waarde om tot een Nederlandse DatumTijd waarde voordat er wordt getoetst op eventuele regels. Het is dus belangrijk dat de juiste tijdzone wordt opgevoerd om tijdstippen correct leesbaar te houden. Voor de lezer is dit de lokale tijd. Daarnaast is het belangrijk dat de zomer- en wintertijd correct worden toegepast. Geadviseerd wordt om voor de tijdzone de in Nederland geldige waarden +01:00 en +02:00 te gebruiken: dit ondersteunt de leesbaarheid van de XML door mensen. Zie voor een uitgebreidere toelichting het document *[Het afhandelen van tijdstippen](https://www.bro-productomgeving.nl/bpo/latest/het-afhandelen-van-tijdstippen)* op de BRO productomgeving.
 
 ### OnvolledigeDatum
 
 Voor gegevens die onder het kwaliteitsregime IMBRO/A aangeleverd worden, geldt een derde domein met vier keuzemogelijkheden.
 
-De datum tot op de dag nauwkeurig, met als opbouw JJJJ-MM-DD
+* De datum tot op de dag nauwkeurig, met als opbouw JJJJ-MM-DD
 
-De datum tot op de maand nauwkeurig, met als opbouw JJJJ-MM
+* De datum tot op de maand nauwkeurig, met als opbouw JJJJ-MM
 
-De datum tot op het jaar nauwkeurig, met als opbouw JJJJ
+* De datum tot op het jaar nauwkeurig, met als opbouw JJJJ
 
-Geen datum bekend, met als vaste waarde onbekend.
+* Geen datum bekend, met als vaste waarde onbekend.
 
 De keuze die gemaakt wordt is gebaseerd op de beschikbaarheid van gegevens. De gebruiker moet ervan uitgaan dat de informatie zo nauwkeurig mogelijk is opgenomen. Bij het domein OnvolledigeDatum is het voldoende de naam te geven, omdat de vier keuzen en de opbouw altijd hetzelfde zijn.
 

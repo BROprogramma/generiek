@@ -2,6 +2,7 @@
 <h2>Opbouw van de gegevensdefinitie</h2>
 
 # De gegevensdefinitie
+
 De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving van alle gegevens van het registratieobject. Eerst wordt de definitie van het registratieobject gegeven inclusief de plaatjes van het zgn. domeinmodel, en vervolgens de definities van de entiteiten waaruit het registratieobject is opgebouwd met de eigenschappen van die entiteiten, de attributen. De entiteiten worden op volgorde van de nummers in het domeinmodel behandeld. De volgende aspecten van de gegevens worden vastgelegd.
 
 * De Nederlandse naam van het gegeven.
@@ -37,23 +38,24 @@ De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving v
 De gegevensdefinitie dekt de beide kwaliteitsregimes die worden onderscheiden, IMBRO en IMBRO/A. (zie paragraaf 2.4, Kwaliteitsregime). Het kwaliteitsregime IMBRO is leidend en bij het opstellen van de gegevensdefinitie is geprobeerd de verschillen tussen de twee regimes zo klein mogelijk te houden. Het streven is een registratieobject altijd in termen van dezelfde gegevens te beschrijven en voor IMBRO/A alleen aanvullende regels te formuleren en extra waarden toe te staan. Bij uitzondering kan het echter nodig zijn gebleken voor IMBRO/A aparte entiteiten, attributen of domeinen te definiëren.
 
 # Domeinen
+
 Een domein in *Unified Modeling Language* (UML)-context, in beschrijft welke waarden mogelijk zijn voor een attribuut.
 
-Sommige domeinen zijn samengesteld uit twee of meer elementen die in samenhang betekenisvol zijn. Een voorbeeld van een samengesteld domein dat in de registratie ondergrond bestaat is Datuminterval. Datuminterval bestaat uit twee elementen, beide van het domein Datum (jaar, maand en dag), namelijk een begindatum en een einddatum.
+Sommige domeinen zijn samengesteld uit twee of meer elementen die in samenhang betekenisvol zijn. Een voorbeeld van een samengesteld domein dat in de registratie ondergrond bestaat is Datuminterval. Datuminterval bestaat uit twee elementen, beide van het domein 'Datum' (jaar, maand en dag), namelijk een begindatum en een einddatum.
 
 Bij een attribuut kunnen ook twee of meer domeinen mogelijk zijn. Voor dit attribuut geldt dat verschillende domeinen valide zijn, er kan echter bij levering van de gegevens aan de BRO altijd maar één van de domeinen gekozen worden.
-In de gegevensdefinitie worden in dat geval een attribuut gemodelleerd waarvan het domein dat de mogelijke waarde beschrijft een keuze is tussen twee of meer domeinen. Dit maakt het mogelijk waar in het domeinmodel normaal gesproken maar één mogelijkheid bestaat, een opsomming te geven van meerdere mogelijke domeinen, waarbij altijd precies één van deze mogelijkheden wordt gebruikt. Een voorbeeld van een dergelijke keuze domein is het domein Organisatie.
+In de gegevensdefinitie worden in dat geval een attribuut gemodelleerd waarvan het domein dat de mogelijke waarde beschrijft een keuze is tussen twee of meer domeinen. Dit maakt het mogelijk waar in het domeinmodel normaal gesproken maar één mogelijkheid bestaat, een opsomming te geven van meerdere mogelijke domeinen, waarbij altijd precies één van deze mogelijkheden wordt gebruikt. Een voorbeeld van een dergelijke keuze domein is het domein 'Organisatie'.
 
 Hier volgt een toelicht op de domeinen die in de gegevensdefinitie worden gebruikt.
 
 ## Aantal
 
-Het domein Aantal wordt gebruikt voor een telbare hoeveelheid. Het is een natuurlijk getal met een bepaalde maximale lengte.
+Het domein 'Aantal' wordt gebruikt voor een telbare hoeveelheid. Het is een natuurlijk getal met een bepaalde maximale lengte.
 Het domein wordt volledig gespecificeerd door met de aanduiding aantal ook de maximale lengte mee te (Aantal N). Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding Aantal.
 
 ## Code
 
-Een 'code' is een opeenvolging van cijfers, van letters of van cijfers en letters met een bepaalde opbouw en met een specifieke betekenis. Een code heeft gewoonlijk een betekenis die ook buiten de BRO geldt. Een verantwoordelijke instantie geeft een code uit. Om de opbouw van een code weer te geven wordt gebruik gemaakt van de letters C en N. De letter C staat voor *character* (Eng.) en duidt een letter aan, de letter N staat voor *number* (Eng.) en duidt een cijfer aan. Een code heeft een bepaalde naam.
+Een 'Code' is een opeenvolging van cijfers, van letters of van cijfers en letters met een bepaalde opbouw en met een specifieke betekenis. Een code heeft gewoonlijk een betekenis die ook buiten de BRO geldt. Een verantwoordelijke instantie geeft een code uit. Om de opbouw van een code weer te geven wordt gebruik gemaakt van de letters C en N. De letter C staat voor *character* (Eng.) en duidt een letter aan, de letter N staat voor *number* (Eng.) en duidt een cijfer aan. Een code heeft een bepaalde naam.
 Het domein wordt volledig gespecificeerd door met de naam van de code ook de opbouw mee te geven. Uit de definitie van het attribuut zelf moet blijken wat de specifieke betekenis is van de code. In het domeinmodel wordt het domein aangeduid met zijn naam.
 
 ## Gemeten waarden
@@ -68,6 +70,15 @@ Het domein 'Meetwaarde' wordt gebruikt wanneer de nauwkeurigheid van de waarde a
 Het is een rationaal getal met een bepaalde opbouw. Het aantal cijfers voor het scheidingsteken is variabel maar begrensd. Het aantal cijfers achter het scheidingsteken ligt vast.
 
 Het domein wordt volledig gespecificeerd door met de aanduiding meetwaarde ook de opbouw (Meetwaarde N.N) en de eenheid mee te geven. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding Meetwaarde.
+
+### Meetwaarde in machten
+
+Het domein 'Meetwaarde in machten' wordt gebruikt wanneer de waarde een heel groot bereik heeft en de nauwkeurigheid voor kleine getallen anders is dan voor grote getallen. In dat geval wordt de meetwaarde uitgedrukt in machten. In de basisregistratie ondergrond wordt de meetwaarde in machten altijd uitgedrukt in een macht van tien. De notatie voor de meetwaarde in machten is (m . 10<sup>e</sup>). De m staat voor mantisse en is een meetwaarde, en de e staat voor de exponent.
+
+De mantisse (m) is een rationaal getal met een bepaalde opbouw. Het aantal cijfers voor het scheidingsteken is in de basisregistratie ondergrond altijd 1. Het aantal cijfers achter het scheidingsteken ligt vast.
+De meetwaarde wordt uitgedrukt in machten van tien (10<sup>e</sup>). De exponent (e) is in de basisregistratie ondergrond altijd een geheel getal.
+
+Het domein wordt volledig gespecificeerd door met de aanduiding meetwaarde in machten ook de opbouw (meetwaarde 1.N in machten), de eenheid en het bereik van de machten mee te geven. Het bereik van de machten is vastgelegd in het waardebereik. De waardeverzameling wordt gewoonlijk verder ingeperkt door een bereik te specificeren. In het domeinmodel wordt volstaan met de algemene aanduiding 'Meetwaarde in machten'.
 
 ### Inname van gemeten waarden
 
@@ -94,14 +105,14 @@ Het domein wordt volledig gespecificeerd door met de aanduiding nummer ook de ma
 
 ## Tekst
 
-Het domein Tekst bestaat uit een stuk tekst van een bepaalde maximale lengte. De tekst mag alleen bestaan uit de tekens die voorkomen in de MES-1 set. Net als het veel bekendere ASCII is dit een deelverzameling van Unicode. Omdat ASCII geen trema's, umlauten, accenttekens en cedille bevat, staat de BRO de eerst grotere standaard deelverzameling van Unicode toe, MES-1. De MES-1 set omvat 335 tekens (te weten alle tekens uit ASCII plus) en wordt gebruikt binnen de landen van de Europese Unie die een Latijns schrift kennen.
+Het domein 'Tekst' bestaat uit een stuk tekst van een bepaalde maximale lengte. De tekst mag alleen bestaan uit de tekens die voorkomen in de MES-1 set. Net als het veel bekendere ASCII is dit een deelverzameling van Unicode. Omdat ASCII geen trema's, umlauten, accenttekens en cedille bevat, staat de BRO de eerst grotere standaard deelverzameling van Unicode toe, MES-1. De MES-1 set omvat 335 tekens (te weten alle tekens uit ASCII plus) en wordt gebruikt binnen de landen van de Europese Unie die een Latijns schrift kennen.
 Het domein wordt volledig gespecificeerd door met de aanduiding tekst ook de maximale lengte mee te geven (Tekst N). In het domeinmodel wordt volstaan met de algemene aanduiding Tekst.
 
 ## Tijdstip
 
 Voor gegevens over tijdstippen worden twee domeinen gebruikt. Een voor een tijdstip tot op de seconde nauwkeurig (DatumTijd) en een voor een tijdstip tot op de dag nauwkeurig (Datum).
 
-In ieder domein gaat het om de datum gemeten volgens de Gregoriaanse kalender. Bij het domein DatumTijd wordt de tijd gemeten volgens de *Universal Time Coordinated* (UTC) en moet de tijdzone worden meegegeven. UTC is de mondiaal geaccepteerde standaardtijd en de opvolger van GMT *(Greenwich Mean Time)*. Door de tijdzone mee te geven kan lokale tijd worden omgezet naar UTC.
+In ieder domein gaat het om de datum gemeten volgens de Gregoriaanse kalender. Bij het domein 'DatumTijd' wordt de tijd gemeten volgens de *Universal Time Coordinated* (UTC) en moet de tijdzone worden meegegeven. UTC is de mondiaal geaccepteerde standaardtijd en de opvolger van GMT *(Greenwich Mean Time)*. Door de tijdzone mee te geven kan lokale tijd worden omgezet naar UTC.
 
 De opbouw van de twee domeinen volgt dezelfde conventies, conform de ISO-standaard voor de aanduiding van kalender, datum en tijd (ISO 8601). Het eerste element in de opbouw staat voor het jaar, dan volgt de maand, enz., en het laatste element staat voor de tijdzone. Om de verschillende elementen aan te geven worden letters gebruikt: jaar (J), maand (M), dag (D), uur (U), minuut (M)en seconde (S), gevolgd door de tijdzone. Het aantal letters geeft de lengte aan.
 
@@ -109,13 +120,13 @@ Voor de meest uitgebreide variant van de opbouw, die van DatumTijd, wordt dit JJ
 
 ### Datum
 
-Het domein Datum wordt gebruikt om een datum volgens de Gregoriaanse kalender tot op de dag nauwkeurig aan te geven. De opbouw is JJJJ-MM-DD.
-Bij het domein Datum is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
+Het domein 'Datum' wordt gebruikt om een datum volgens de Gregoriaanse kalender tot op de dag nauwkeurig aan te geven. De opbouw is JJJJ-MM-DD.
+Bij 'het domein 'Datum' is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
 ### DatumTijd
 
 Het domein 'DatumTijd' wordt gebruikt om een tijdstip volgens de Gregoriaanse kalender tot op de seconde nauwkeurig aan te geven. De opbouw is JJJJ-MM-DDTUU:MM:SS+UU:MM.
-Bij het domein DatumTijd is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
+Bij het domein 'DatumTijd' is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
 De registratie ondergrond volgt de ISO8601 standaard en rekent de geleverde DatumTijd waarde om tot een Nederlandse DatumTijd waarde voordat er wordt getoetst op eventuele regels. Het is dus belangrijk dat de juiste tijdzone wordt opgevoerd om tijdstippen correct leesbaar te houden. Voor de lezer is dit de lokale tijd. Daarnaast is het belangrijk dat de zomer- en wintertijd correct worden toegepast. Geadviseerd wordt om voor de tijdzone de in Nederland geldige waarden +01:00 en +02:00 te gebruiken: dit ondersteunt de leesbaarheid van de XML door mensen. Zie voor een uitgebreidere toelichting het document *[Het afhandelen van tijdstippen](https://www.bro-productomgeving.nl/bpo/latest/het-afhandelen-van-tijdstippen)* op de BRO productomgeving.
 
@@ -131,7 +142,7 @@ Voor gegevens die onder het kwaliteitsregime IMBRO/A aangeleverd worden, geldt e
 
 * Geen datum bekend, met als vaste waarde onbekend.
 
-De keuze die gemaakt wordt is gebaseerd op de beschikbaarheid van gegevens. De gebruiker moet ervan uitgaan dat de informatie zo nauwkeurig mogelijk is opgenomen. Bij het domein OnvolledigeDatum is het voldoende de naam te geven, omdat de vier keuzen en de opbouw altijd hetzelfde zijn.
+De keuze die gemaakt wordt is gebaseerd op de beschikbaarheid van gegevens. De gebruiker moet ervan uitgaan dat de informatie zo nauwkeurig mogelijk is opgenomen. Bij het domein 'OnvolledigeDatum' is het voldoende de naam te geven, omdat de vier keuzen en de opbouw altijd hetzelfde zijn.
 
 ## Waardelijsten
 
@@ -143,12 +154,14 @@ Een niet-uitbreidbare waardelijst wordt gebruikt wanneer uitbreiding niet mogeli
 Bij een niet-uitbreidbare waardelijst is het voldoende de naam te geven, omdat de inhoud altijd hetzelfde is. In de registratie ondergrond worden drie niet-uitbreidbare waardelijsten gebruikt.
 
 IndicatieJaNee
-| Waarde | 
+
+| Waarde |
 | --- |
 | ja |
 | nee |
 
 IndicatieJaNeeOnbekend
+
 | Waarde |
 | --- |
 | ja |
@@ -156,6 +169,7 @@ IndicatieJaNeeOnbekend
 | onbekend |
 
 Kwaliteitsregime
+
 | Waarde |
 | --- |
 | IMBRO |
@@ -175,7 +189,7 @@ De verschillende typen geometrie uitgedrukt in verschillende domeinen die in de 
 
 ### Punt
 
-Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het Punt vastgelegd.
+Het domein 'Punt' wordt gebruikt om de positie van een object vast te leggen. De positie wordt bepaald in een tweedimensionaal vlak, een specifiek referentiestelsel en uitgedrukt in coördinaten. In sommige gevallen wordt daarnaast de hoogte (derde dimensie) van het Punt vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/punt.png" alt="Punt" width="150"/>
@@ -184,7 +198,7 @@ Het domein Punt wordt gebruikt om de positie van een object vast te leggen. De p
 
 ### Lijn
 
-Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment. Een Lijn kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
+Het domein 'Lijn' wordt gebruikt om de vorm, afmetingen en positie van een object in een lijn uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in één of meerdere lijnsegmenten. Een lijnsegment is de verbinding tussen twee punten. Lijnsegmenten zijn aan elkaar verbonden doordat het eindpunt van een segment is verbonden aan het beginpunt van een volgend lijnsegment. Een Lijn kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/lijn.png" alt="Lijn" width="150"/>
@@ -193,7 +207,7 @@ Het domein Lijn wordt gebruikt om de vorm, afmetingen en positie van een object 
 
 ### Multilijn
 
-Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meer lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een Multilijn vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een Multilijn kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
+Het domein 'Multilijn' bestaat uit een verzameling van lijnen die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object in meerdere lijnen uit te drukken. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in meer lijnen met één of meerdere lijnsegmenten. Tussen de lijnen die samen een Multilijn vormen mag geen intersectie plaatsvinden tenzij dit gebeurt in de eindpunten van de lijnen (er mag geen kruising van lijnen plaatsvinden, wel vertakkingen). Een Multilijn kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/multilijn.png" alt="Multilijn" width="150"/>
@@ -202,7 +216,7 @@ Het domein Multilijn bestaat uit een verzameling van lijnen die gezamenlijk éé
 
 ### Vlak
 
-Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meer interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
+Het domein 'Vlak' wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meer interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="http://docs.geostandaarden.nl/bro/gen/media/vlak.png" alt="Vlak" width="150"/>
@@ -211,7 +225,7 @@ Het domein Vlak wordt binnen de geometrie gebruikt voor de representatie van de 
 
 ### Multivlak
 
-Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een Multivlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
+Het domein 'Multivlak' bestaat uit een verzameling van vlakken die gezamenlijk één object vormen en wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De vlakken die samen een multivlak vormen mogen elkaar niet overlappen, wel mogen zij in een eindig aantal punten elkaar raken (wel punten maar geen grenzen gemeenschappelijk). De posities van de vlakken worden bepaald in een specifiek referentiestelsel. Een Multivlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/multivlak.png" alt="Multivlak" width="150"/>
@@ -220,7 +234,7 @@ Het domein Multivlak bestaat uit een verzameling van vlakken die gezamenlijk é�
 
 ### Volume
 
-Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
+Het domein 'Volume' wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/volume.png" alt="Volume" width="150"/>
@@ -229,7 +243,7 @@ Het domein Volume wordt gebruikt om de vorm, afmetingen en positie van een objec
 
 ### Minimum begrenzing
 
-Het domein Minimum begrenzing wordt gebruikt om de positie van één of meer geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
+Het domein 'Minimum begrenzing' wordt gebruikt om de positie van één of meer geometrieobjecten te begrenzen. De geometrie van de Minimum begrenzing is opgebouwd uit twee punten, waarbij het eerste punt de hoek aan de linker onderkant van het selectiekader weergeeft en het tweede punt de hoek aan de rechter bovenkant. De positie van de punten worden bepaald in een specifiek referentiestelsel. Een Minimum begrenzing kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
 
 <figure>
 	<img src="./media/BHR_G_minimumBegrenzing3.png" alt="Minimum begrenzing" width="150"/>
@@ -238,10 +252,11 @@ Het domein Minimum begrenzing wordt gebruikt om de positie van één of meer geo
 
 ## Coördinatenpaar
 
-Het domein Coördinatenpaar wordt gebruikt om de positie van een punt op het aardoppervlak vast te leggen. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in twee coördinaten. Ieder van de coördinaten heeft een meetwaarde en de notatie voor het paar is (coördinaat 1, coördinaat 2).In de registratie ondergrond worden drie referentiestelsels voor horizontale posities gebruikt. Het referentiestelsel bepaalt hoe de tweedimensionale ruimte wordt beschreven en daarmee wat de coördinaten voorstellen en wat de karakteristiek van de twee meetwaarden is.Voor het referentiestelsel RD zijn de coördinaten cartesisch en is de notatie (x,y). De eerste coördinaat (x) heeft betrekking op de positie op een west-oost georiënteerde as, de tweede coördinaat (y) op een zuid-noord georiënteerde as. Een positie oostelijk van de oorsprong, resp. noordelijk van de oorsprong heeft een positieve waarde. Voor WGS84 (ongeprojecteerd) en ETRS89 (ongeprojecteerd) zijn de coördinaten geografisch en is de notatie (φ,λ). De eerste coördinaat heeft betrekking op de geografische breedte, de tweede op de geografische lengte. Een positie oostelijk van de Greenwichmeridiaan, resp. noordelijk van de evenaar heeft een positieve waarde.
-Bij het domein Coördinatenpaar is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is.
+Het domein 'Coördinatenpaar' wordt gebruikt om de positie van een punt op het aardoppervlak vast te leggen. De positie wordt bepaald in een specifiek referentiestelsel en uitgedrukt in twee coördinaten. Ieder van de coördinaten heeft een meetwaarde en de notatie voor het paar is (coördinaat 1, coördinaat 2).In de registratie ondergrond worden drie referentiestelsels voor horizontale posities gebruikt. Het referentiestelsel bepaalt hoe de tweedimensionale ruimte wordt beschreven en daarmee wat de coördinaten voorstellen en wat de karakteristiek van de twee meetwaarden is.Voor het referentiestelsel RD zijn de coördinaten cartesisch en is de notatie (x,y). De eerste coördinaat (x) heeft betrekking op de positie op een west-oost georiënteerde as, de tweede coördinaat (y) op een zuid-noord georiënteerde as. Een positie oostelijk van de oorsprong, resp. noordelijk van de oorsprong heeft een positieve waarde. Voor WGS84 (ongeprojecteerd) en ETRS89 (ongeprojecteerd) zijn de coördinaten geografisch en is de notatie (φ,λ). De eerste coördinaat heeft betrekking op de geografische breedte, de tweede op de geografische lengte. Een positie oostelijk van de Greenwichmeridiaan, resp. noordelijk van de evenaar heeft een positieve waarde.
+Bij het domein 'Coördinatenpaar' is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is.
 
 Coördinatenpaar voor RD (x,y)
+
 | Domein |  |
 | --- | --- |
 | Naam | Meetwaarde 6.3 |
@@ -250,6 +265,7 @@ Coördinatenpaar voor RD (x,y)
 | Waardebereik y | 289000 tot 629000 |
 
 Coördinatenpaar voor WGS84 (φ,λ)
+
 | Domein |  |
 | --- | --- |
 | Naam | Meetwaarde 2.9 |
@@ -258,6 +274,7 @@ Coördinatenpaar voor WGS84 (φ,λ)
 | Waardebereik λ | 2.4 tot 6.8 |
 
 Coördinatenpaar voor ETRS89 (φ,λ)
+
 | Domein |  |
 | --- | --- |
 | Naam | Meetwaarde 2.9 |
@@ -267,13 +284,13 @@ Coördinatenpaar voor ETRS89 (φ,λ)
 
 ## Organisatie
 
-Het domein Organisatie wordt gebruikt om de organisaties die een rol hebben in de BRO te identificeren. De invulling van het domein hangt af van waar de organisatie gevestigd is en voor de BRO gaat het daarbij om Nederland of een andere lidstaat van de Europese Unie.
+Het domein 'Organisatie' wordt gebruikt om de organisaties die een rol hebben in de BRO te identificeren. De invulling van het domein hangt af van waar de organisatie gevestigd is en voor de BRO gaat het daarbij om Nederland of een andere lidstaat van de Europese Unie.
 
 In het geval de organisatie in Nederland gevestigd is, wordt het domein ingevuld met het gegeven dat een onderneming of de maatschappelijke activiteit van een rechtspersoon in het Handelsregister identificeert, het Kamer van Koophandel (KvK)-nummer. Het KvK-nummer is van het type code en de opbouw is NNNNNNNN.
 
 Voor organisaties buiten Nederland wordt het domein ingevuld met het equivalent van het (KvK)-nummer in een handelsregister van een andere lidstaat van de Europese Unie dan Nederland, het EuropeesHandelsnummer. Het Europees handelsnummer, de zogenaamde EUID, is geïntroduceerd ten behoeve van de koppeling van handelsregisters. De code is gebaseerd op ISO 6523 en is opgebouwd uit een landcode, registeridentificatiecode, inschrijvingsnummer en controlegetal. De landcode is de 2-letterige code van ISO3166. De registeridentificatiecode is de identificatie van het nationale handelsregister omdat in sommige landen meerdere handelsregisters bestaan en het inschrijvingsnummer is het nummer waaronder de onderneming is ingeschreven in het betreffende register. Het controlegetal ter voorkoming van identificatiefouten wordt nog niet gebruikt. De opbouw per element is variabel en daarom is het Europees Handelsnummer in de registratie ondergrond als domein Tekst 40 opgenomen.
 
-Bij het domein Organisatie is het voldoende de naam te geven, omdat de twee keuzen en de opbouw altijd hetzelfde zijn.
+Bij het domein 'Organisatie' is het voldoende de naam te geven, omdat de twee keuzen en de opbouw altijd hetzelfde zijn.
 
 # Entiteiten van het type meetreeks
 

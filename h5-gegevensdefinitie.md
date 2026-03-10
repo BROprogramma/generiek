@@ -29,7 +29,7 @@ De gegevensdefinitie vormt het hart van de catalogus en geeft een beschrijving v
 
 * Van attributen waarvan de waarde mag ontbreken de omschrijving van de reden waarom de waarde mag ontbreken.
 
-* Eventueel de aanduiding dat de registratie ondergrond het gegeven afgeleidt, in het uitzonderlijke geval het gegeven wordt afgeleid.
+* Eventueel de aanduiding dat de registratie ondergrond het gegeven afleidt, in het uitzonderlijke geval het gegeven wordt afgeleid.
 
 * Eventueel een toelichting om aanvullende informatie te geven over de betekenis van het gegeven of de reden waarom het is opgenomen.
 
@@ -234,7 +234,7 @@ Het domein 'Multivlak' bestaat uit een verzameling van vlakken die gezamenlijk �
 
 ### Volume
 
-Het domein 'Volume' wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat) worden vastgelegd.
+Het domein 'Volume' wordt gebruikt om de vorm, afmetingen en positie van een object uit te drukken. De geometrie van een volume is opgebouwd uit grenzen die elk een vlak zijn. Deze zijn naar buiten toe georiënteerd; de bovenkant van elk vlak is van de buitenkant van het volume object te zien. Een Volume geometrie kan in een tweedimensionaal vlak (x- en y-coördinaat of in een driedimensionale ruimte (x-, y-, en z-coördinaat)) worden vastgelegd.
 
 <figure>
 	<img src="https://docs.geostandaarden.nl/bro/gen/media/volume.png" alt="Volume" width="150"/>

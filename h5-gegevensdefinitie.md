@@ -114,14 +114,14 @@ Voor gegevens over tijdstippen worden twee domeinen gebruikt. Een voor een tijds
 
 In ieder domein gaat het om de datum gemeten volgens de Gregoriaanse kalender. Bij het domein 'DatumTijd' wordt de tijd gemeten volgens de *Universal Time Coordinated* (UTC) en moet de tijdzone worden meegegeven. UTC is de mondiaal geaccepteerde standaardtijd en de opvolger van GMT *(Greenwich Mean Time)*. Door de tijdzone mee te geven kan lokale tijd worden omgezet naar UTC.
 
-De opbouw van de twee domeinen volgt dezelfde conventies, conform de ISO-standaard voor de aanduiding van kalender, datum en tijd (ISO 8601). Het eerste element in de opbouw staat voor het jaar, dan volgt de maand, enz., en het laatste element staat voor de tijdzone. Om de verschillende elementen aan te geven worden letters gebruikt: jaar (J), maand (M), dag (D), uur (U), minuut (M)en seconde (S), gevolgd door de tijdzone. Het aantal letters geeft de lengte aan.
+De opbouw van de twee domeinen volgt dezelfde conventies, conform de ISO-standaard voor de aanduiding van kalender, datum en tijd (ISO 8601). Het eerste element in de opbouw staat voor het jaar, dan volgt de maand, enz., en het laatste element staat voor de tijdzone. Om de verschillende elementen aan te geven worden letters gebruikt: jaar (J), maand (M), dag (D), uur (U), minuut (M) en seconde (S), gevolgd door de tijdzone. Het aantal letters geeft de lengte aan.
 
-Voor de meest uitgebreide variant van de opbouw, die van DatumTijd, wordt dit JJJJ-MM-DDTUU:MM:SS+UU:MM. De T is het teken dat de datum en het tijdstip op die datum scheidt. De + is het scheidingteken tussen het tijdstip en de tijdzone. Zoals uit de opbouw blijkt wordt de tijdzone in uren en minuten gegeven. De meeste tijdzones zijn overigens uitgedrukt in gehele uren (UU:00). In Nederland geldt Centraal Europese Tijd (UTC+1:00) of Centraal Europese Zomertijd (UTC+2.00).
+Voor de meest uitgebreide variant van de opbouw, die van DatumTijd, wordt dit JJJJ-MM-DDTUU:MM:SS+UU:MM. De T is het teken dat de datum en het tijdstip op die datum scheidt. De + is het scheidingsteken tussen het tijdstip en de tijdzone. Zoals uit de opbouw blijkt wordt de tijdzone in uren en minuten gegeven. De meeste tijdzones zijn overigens uitgedrukt in gehele uren (UU:00). In Nederland geldt Centraal Europese Tijd (UTC+1:00) of Centraal Europese Zomertijd (UTC+2.00).
 
 ### Datum
 
 Het domein 'Datum' wordt gebruikt om een datum volgens de Gregoriaanse kalender tot op de dag nauwkeurig aan te geven. De opbouw is JJJJ-MM-DD.
-Bij 'het domein 'Datum' is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
+Bij het domein 'Datum' is het voldoende de naam te geven, omdat de opbouw altijd hetzelfde is. Gewoonlijk wordt de waardeverzameling verder ingeperkt door een bereik te specificeren.
 
 ### DatumTijd
 
@@ -332,4 +332,4 @@ Uitgangspunt is dat een attribuut dat aanwezig is een waarde heeft. Een attribuu
 
 *De kardinaliteit= [0..1] en er is geen aanvullende regel opgenomen.* Dit betekent dat het attribuut alleen aanwezig is als het een waarde heeft.
 
-Voor de kardinaliteiten [0..*] optonioneel en meervoudig en [1..*] verplicht en meervoudig, geldt in essentie hetzelfde.
+Voor de kardinaliteiten [0..*] optioneel en meervoudig en [1..*] verplicht en meervoudig geldt in essentie hetzelfde.

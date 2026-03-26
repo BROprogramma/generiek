@@ -219,7 +219,7 @@ Het domein 'Multilijn' bestaat uit een verzameling van lijnen die gezamenlijk é
 Het domein 'Vlak' wordt binnen de geometrie gebruikt voor de representatie van de vorm, afmetingen en positie van een object als een vlak. De positie wordt bepaald in een specifiek referentiestelsel. Een vlak heeft altijd een buitengrens, daarnaast kan een vlak ook nog een of meer interne begrenzingen hebben. Een Vlak kan in een tweedimensionaal vlak (x- en y-coördinaat) of in een driedimensionale ruimte (x-, y- en z-coördinaat) worden vastgelegd.
 
 <figure>
-	<img src="http://docs.geostandaarden.nl/bro/gen/media/vlak.png" alt="Vlak" width="150"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/vlak.png" alt="Vlak" width="150"/>
 	<figcaption>Een vlak is een geometrie dat een beeld van een continue regio of vlak vertegenwoordigd (ISO 19107:2003 Spatial Schema).</figcaption>
 </figure><br><br>
 

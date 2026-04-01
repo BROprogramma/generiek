@@ -98,6 +98,10 @@ Er zijn meer cijfers vóór het scheidingsteken aanwezig dan gespecificeerd: de 
 
 Er is een scheidingsteken bij de exponent van de meetwaarde in machten aanwezig: de waarde wordt geweigerd.
 
+### Uitgifte van gemeten waarden
+
+Gemeten waarden worden uitgegeven volgens de opbouw die geldig was op het moment van inname en waarin de waarde bij inname is opgeslagen in de registratie ondergrond (zie [Inname van gemeten waarden](#inname-van-gemeten-waarden)). Deze opbouw kan afwijken van de opbouw die in de actuele catalogusversie bij het attribuut is gespecificeerd, namelijk wanneer de opbouw is gewijzigd na de catalogusversie waaronder de waarde is ingenomen. In dat geval wordt de waarde uitgegeven in de oorspronkelijke opbouw. Als de opbouw sinds een vorige catalogusversie is gewijzigd, dan is dat in de toelichting bij het attribuut beschreven.
+
 ## Nummer
 
 Het domein 'Nummer' wordt gebruikt om de plaats in een reeks aan te geven. Het is een opeenvolging van cijfers met een bepaalde maximale lengte. Een nummer heeft geen rekenkundige betekenis, maar heeft een betekenisvolle volgorde.

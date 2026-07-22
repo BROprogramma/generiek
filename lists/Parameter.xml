@@ -1918,7 +1918,7 @@
 		<SIKB0101ID>476</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 12 chloorbenzenen (Bbk, 1-1-2008)</Omschrijving>
+		<Omschrijving>som 12 chloorbenzenen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>477</SIKB0101ID>
@@ -2422,7 +2422,7 @@
 		<SIKB0101ID>615</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 6 dichloorfenolen (Bbk, 1-1-2008)</Omschrijving>
+		<Omschrijving>som 6 dichloorfenolen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>619</SIKB0101ID>
@@ -3094,7 +3094,7 @@
 		<SIKB0101ID>808</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 7 ftalaten (Bbk, 1-1-2008)</Omschrijving>
+		<Omschrijving>som 7 ftalaten</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>809</SIKB0101ID>
@@ -5584,7 +5584,7 @@
 		<SIKB0101ID>2160</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 29 dioxines (Bbk, 1-10-2010, als TEQ)</Omschrijving>
+		<Omschrijving>som 29 dioxines en dioxineachtige verbindingen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2161</SIKB0101ID>
@@ -6640,19 +6640,19 @@
 		<SIKB0101ID>2717</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 23 organochloorhoud. bestrijdingsm.(Bbk,1-1-2008,waterb)</Omschrijving>
+		<Omschrijving>som 23 organochloorhoudende bestrijdingsmiddelen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2718</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 21 organochloorhoud. bestrijdingsm.(Bbk, 1-1-2008,landb)</Omschrijving>
+		<Omschrijving>som 21 organochloorhoudende bestrijdingsmiddelen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2719</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 16 aromatische oplosmiddelen (Bbk, 1-1-2008)</Omschrijving>
+		<Omschrijving>som 16 aromatische oplosmiddelen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2721</SIKB0101ID>
@@ -9178,7 +9178,7 @@
 		<SIKB0101ID>3265</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>bisfenol-F</Omschrijving>
+		<Omschrijving>2,2'-methyleendifenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>3266</SIKB0101ID>
@@ -14848,7 +14848,7 @@
 		<SIKB0101ID>4417</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som 17 dioxines (Bbk, 1-1-2008, als I-TEQ)</Omschrijving>
+		<Omschrijving>som 17 dioxines</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>4418</SIKB0101ID>
@@ -15016,7 +15016,7 @@
 		<SIKB0101ID>4445</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluoroctaansulfonzuur (lineair)</Omschrijving>
+		<Omschrijving>perfluoroctaansulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>4446</SIKB0101ID>
@@ -19264,7 +19264,7 @@
 		<SIKB0101ID>5517</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-(perfluorhexyl)ethaan-1-sulfonzuur (6:2 FTS)</Omschrijving>
+		<Omschrijving>6:2 fluortelomeersulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5518</SIKB0101ID>
@@ -19906,7 +19906,7 @@
 		<SIKB0101ID>5741</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,3,3,3-tetrafluor-2-(heptafluorpropoxy)propionzuur</Omschrijving>
+		<Omschrijving>perfluor-2-propoxypropaanzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5742</SIKB0101ID>
@@ -19918,13 +19918,13 @@
 		<SIKB0101ID>5743</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluorbutaansulfonylamide(N-methyl)azijnzuur</Omschrijving>
+		<Omschrijving>N-methyl-perfluorbutaan sulfonamidoazijnzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5744</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluoroctaansulfonylamide(N-ethyl)azijnzuur</Omschrijving>
+		<Omschrijving>N-ethyl-perfluoroctaan sulfonamidoazijnzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5745</SIKB0101ID>
@@ -20134,13 +20134,13 @@
 		<SIKB0101ID>5830</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-(perfluoroctyl)ethaan-1-sulfonzuur (8:2 FTS)</Omschrijving>
+		<Omschrijving>8:2 fluortelomeersulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5831</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>1H,1H,2H,2H-perfluordodecaansulfonzuur (10:2 FTS)</Omschrijving>
+		<Omschrijving>10:2 fluortelomeersulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5833</SIKB0101ID>
@@ -20242,19 +20242,19 @@
 		<SIKB0101ID>5935</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluor-1-pentaansulfonzuur</Omschrijving>
+		<Omschrijving>perfluorpentaansulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5936</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluornonaan-1-sulfonzuur</Omschrijving>
+		<Omschrijving>perfluornonaansulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5937</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>N-methylperfluoroctaan sulfonamidoazijnzuur</Omschrijving>
+		<Omschrijving>N-methyl-perfluoroctaan sulfonamidoazijnzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5938</SIKB0101ID>
@@ -20266,7 +20266,7 @@
 		<SIKB0101ID>5939</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>trifluor-3-(hexafluor-3-(trifluormethoxy)propoxy)propaanzuur</Omschrijving>
+		<Omschrijving>4,8-dioxa-3H-perfluornonaanzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5940</SIKB0101ID>
@@ -20398,7 +20398,7 @@
 		<SIKB0101ID>5968</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>microsystine-LA</Omschrijving>
+		<Omschrijving>microcystine-LA</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5969</SIKB0101ID>
@@ -20536,13 +20536,13 @@
 		<SIKB0101ID>5995</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2H,2H,3H,3H-perfluorundecaanzuur</Omschrijving>
+		<Omschrijving>8:3 fluortelomeer carbonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5996</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-(perfluorbutyl)ethaan-1-sulfonzuur (4:2 FTS)</Omschrijving>
+		<Omschrijving>4:2 fluortelomeersulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5997</SIKB0101ID>
@@ -20554,7 +20554,7 @@
 		<SIKB0101ID>5998</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>bisperfluordecylwaterstoffosfaat (8:2 diPAP)</Omschrijving>
+		<Omschrijving>8:2 fluortelomeer fosfaat diester</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>5999</SIKB0101ID>
@@ -20758,7 +20758,7 @@
 		<SIKB0101ID>6035</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2H,2H-perfluordecaanzuur</Omschrijving>
+		<Omschrijving>8:2 Fluortelomeer carbonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>6036</SIKB0101ID>
@@ -23122,7 +23122,7 @@
 		<SIKB0101ID>6452</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluorethylethanol 4:2</Omschrijving>
+		<Omschrijving>4:2 fluortelomeer alcohol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>6453</SIKB0101ID>
@@ -24502,7 +24502,7 @@
 		<SIKB0101ID>6721</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>bis[2-(perfluorhexyl)ethyl] fosfaat (6:2 diPAP)</Omschrijving>
+		<Omschrijving>6:2 fluortelomeerfosfaat diester</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>6722</SIKB0101ID>
@@ -24700,7 +24700,7 @@
 		<SIKB0101ID>6860</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>decafluor-4-(1,1,2,2,2-pentafluorethyl)cyclohexaansulfonzuur</Omschrijving>
+		<Omschrijving>perfluor-4-ethylcyclohexaansulfonzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>6861</SIKB0101ID>
@@ -25372,7 +25372,7 @@
 		<SIKB0101ID>6981</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>N-methylperfluoroctaansulfonamido-ethanol</Omschrijving>
+		<Omschrijving>N-methyl-perfluoroctaan sulfonamidoethanol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>6983</SIKB0101ID>
@@ -25492,25 +25492,25 @@
 		<SIKB0101ID>7020</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som lineair en vertakte N-methylperfluoroctaansulfonamide (MePFOSA)</Omschrijving>
+		<Omschrijving>som lineair en vertakte N-methylperfluoroctaansulfonamide</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7021</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som vertakte N-methylperfluoroctaansulfonamide-isomeren (MePFOSA)</Omschrijving>
+		<Omschrijving>som vertakte N-methylperfluoroctaansulfonamide-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7022</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som lineair en vertakte N-ethylperfluoroctaansulfonamide (EtPFOSA)</Omschrijving>
+		<Omschrijving>som lineair en vertakte N-ethylperfluoroctaansulfonamide</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7023</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>som vertakte N-ethylperfluoroctaansulfonamide-isomeren (EtPFOSA)</Omschrijving>
+		<Omschrijving>som vertakte N-ethylperfluoroctaansulfonamide-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7025</SIKB0101ID>
@@ -25618,13 +25618,13 @@
 		<SIKB0101ID>7096</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-(Perfluorohexyl)ethanol</Omschrijving>
+		<Omschrijving>6:2 fluortelomeer alcohol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7097</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-(Perfluorooctyl)ethanol</Omschrijving>
+		<Omschrijving>8:2 fluortelomeer alcohol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7098</SIKB0101ID>
@@ -25648,7 +25648,7 @@
 		<SIKB0101ID>7104</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2-Difluor-2-{[2,2,4,5-tetrafluor-5-(trifluormethoxy)-1,3-dioxolan-4-yl]oxy}azijnzuur</Omschrijving>
+		<Omschrijving>2,2-Difluor-2-[{2,2,4,5-tetrafluor-5-(trifluormethoxy)-1,3-dioxolan-4-yl}oxy]azijnzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7106</SIKB0101ID>
@@ -25690,7 +25690,7 @@
 		<SIKB0101ID>7113</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Perfluor-1-decaansulfonamide</Omschrijving>
+		<Omschrijving>Perfluordecaansulfonamide</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7114</SIKB0101ID>
@@ -25708,7 +25708,7 @@
 		<SIKB0101ID>7116</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Perfluor-2,5-dimethyl-3,6-dioxa-nonaanzuur</Omschrijving>
+		<Omschrijving>Perfluor-2,5-dimethyl-3,6-dioxanonaanzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7119</SIKB0101ID>
@@ -26428,7 +26428,7 @@
 		<SIKB0101ID>7247</SIKB0101ID>
 		<IMBRO>v</IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>perfluoroctaansulfonamidoazijnzuur</Omschrijving>
+		<Omschrijving>perfluoroctaan sulfonamidoazijnzuur</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>7248</SIKB0101ID>
@@ -27154,7 +27154,7 @@
 		<SIKB0101ID>133</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Dimethylfenol (som 2,6 + 3,5)</Omschrijving>
+		<Omschrijving>2,6-/3,5-Dimethylfenol (som)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>139</SIKB0101ID>
@@ -27292,7 +27292,7 @@
 		<SIKB0101ID>221</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Cytosine</Omschrijving>
+		<Omschrijving>4-Amino-2-pyrimidinon</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>222</SIKB0101ID>
@@ -27472,7 +27472,7 @@
 		<SIKB0101ID>305</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Aromaten C10 (som)</Omschrijving>
+		<Omschrijving>som C10-aromaten</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>306</SIKB0101ID>
@@ -27496,7 +27496,7 @@
 		<SIKB0101ID>309</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Aromaten C9 (som)</Omschrijving>
+		<Omschrijving>som C9-aromaten</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>315</SIKB0101ID>
@@ -27508,37 +27508,37 @@
 		<SIKB0101ID>316</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 0,5 mm</Omschrijving>
+		<Omschrijving>Asbest &gt; 0,5 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>317</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 1 mm</Omschrijving>
+		<Omschrijving>Asbest &gt; 1 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>318</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 2 mm</Omschrijving>
+		<Omschrijving>Asbest &gt; 2 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>319</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 4 mm</Omschrijving>
+		<Omschrijving>Asbest &gt; 4 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>320</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 8 mm</Omschrijving>
+		<Omschrijving>Asbest &gt; 8 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>321</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Asbest &lt; 16 mm</Omschrijving>
+		<Omschrijving>Asbest &gt;16 mm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>322</SIKB0101ID>
@@ -27610,7 +27610,7 @@
 		<SIKB0101ID>368</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Hydroxynaftaleen</Omschrijving>
+		<Omschrijving>beta-Naftol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>369</SIKB0101ID>
@@ -27718,7 +27718,7 @@
 		<SIKB0101ID>419</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Butoxyethylacetaat</Omschrijving>
+		<Omschrijving>butylglycolacetaat</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>421</SIKB0101ID>
@@ -27880,13 +27880,13 @@
 		<SIKB0101ID>485</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>cis-Chloorfenvinfos</Omschrijving>
+		<Omschrijving>Chloorfenvinfos-1</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>486</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>trans-Chloorfenvinfos</Omschrijving>
+		<Omschrijving>Chloorfenvinfos-2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>490</SIKB0101ID>
@@ -27952,7 +27952,7 @@
 		<SIKB0101ID>525</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>CKW (som)</Omschrijving>
+		<Omschrijving>som gechloreerde koolwaterstoffen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>528</SIKB0101ID>
@@ -28024,7 +28024,7 @@
 		<SIKB0101ID>556</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>DDT + TDE + DDE (som)</Omschrijving>
+		<Omschrijving>DDT/TDE/DDE (som)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>560</SIKB0101ID>
@@ -28408,7 +28408,7 @@
 		<SIKB0101ID>731</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Ethyleendiaminetetra-azijnzuur (EDTA, vrij)</Omschrijving>
+		<Omschrijving>Ethyleendiaminetetra-azijnzuur (EDT</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>734</SIKB0101ID>
@@ -28630,25 +28630,25 @@
 		<SIKB0101ID>820</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Gehalte &lt;2 µm van de korrelfractie &lt;2 mm</Omschrijving>
+		<Omschrijving>Gehalte &lt;2 µm van de korrelfractie</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>821</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Gehalte &lt;20 µm van de korrelfractie &lt;2 mm</Omschrijving>
+		<Omschrijving>Gehalte &lt;20 µm van de korrelfractie</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>822</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Gehalte &lt;63 µm van de korrelfractie &lt;2 mm</Omschrijving>
+		<Omschrijving>Gehalte &lt;63 µm van de korrelfractie</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>823</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Gehalte CaCO3 van de korrelfractie &lt;2 mm</Omschrijving>
+		<Omschrijving>Gehalte CaCO3 van de korrelfractie</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>830</SIKB0101ID>
@@ -28708,25 +28708,25 @@
 		<SIKB0101ID>855</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Heptachloordibenzodioxine (totaal)</Omschrijving>
+		<Omschrijving>som heptachloordibenzodioxine-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>856</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Heptachloordibenzofuraan (totaal)</Omschrijving>
+		<Omschrijving>som heptachloordibenzofuraan-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>862</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Hexachloordibenzodioxine (totaal)</Omschrijving>
+		<Omschrijving>som hexachloordibenzodioxine-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>863</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Hexachloordibenzofuraan (totaal)</Omschrijving>
+		<Omschrijving>som hexachloordibenzofuraan-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>867</SIKB0101ID>
@@ -29356,7 +29356,7 @@
 		<SIKB0101ID>1062</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Korrelfractie 125 - 212  µm</Omschrijving>
+		<Omschrijving>Korrelfractie 125 - 212  µm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1063</SIKB0101ID>
@@ -29368,7 +29368,7 @@
 		<SIKB0101ID>1065</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Korrelfractie 2 - 20  µm</Omschrijving>
+		<Omschrijving>Korrelfractie 2 - 20  µm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1066</SIKB0101ID>
@@ -29602,7 +29602,7 @@
 		<SIKB0101ID>1146</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>3-Ethylfenol (meta-Ethylfenol)</Omschrijving>
+		<Omschrijving>meta-Ethylfenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1150</SIKB0101ID>
@@ -30112,7 +30112,7 @@
 		<SIKB0101ID>1308</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Onbekende reeks zuurstofverbindingen</Omschrijving>
+		<Omschrijving>Onbekende reeks zuurstofverbindinge</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1309</SIKB0101ID>
@@ -30166,49 +30166,49 @@
 		<SIKB0101ID>1328</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Ethylfenol (som 2 + 3 + 4;Ethylfenol (som ortho + meta + para))</Omschrijving>
+		<Omschrijving>ortho-/para-/meta-Ethylfenol (som)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1329</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Chlooranaline (ortho-Chlooraniline)</Omschrijving>
+		<Omschrijving>ortho-Chlooraniline</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1333</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Fenylfenol (ortho-Fenylfenol)</Omschrijving>
+		<Omschrijving>ortho-Fenylfenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1335</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Fosfaat (als P) (ortho-Fosfaat (als P))</Omschrijving>
+		<Omschrijving>ortho-Fosfaat (als P)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1336</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Fosfaat (als PO4) (ortho-Fosfaat (als PO4))</Omschrijving>
+		<Omschrijving>ortho-Fosfaat (als PO4)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1337</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Isopropylfenol (ortho-Isopropylfenol)</Omschrijving>
+		<Omschrijving>ortho-Isopropylfenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1338</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Methylstyreen (ortho-Methylstyreen)</Omschrijving>
+		<Omschrijving>ortho-Methylstyreen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1339</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2-Nitrofenol (ortho-Nitrofenol)</Omschrijving>
+		<Omschrijving>ortho-Nitrofenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1342</SIKB0101ID>
@@ -30250,13 +30250,13 @@
 		<SIKB0101ID>1357</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>4,4-Methoxychloor (para-, para-Methoxychloor)</Omschrijving>
+		<Omschrijving>para-, para-Methoxychloor</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1361</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>4-Ethylfenol (para-Ethylfenol)</Omschrijving>
+		<Omschrijving>para-Ethylfenol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1363</SIKB0101ID>
@@ -30316,13 +30316,13 @@
 		<SIKB0101ID>1388</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Pentachloordibenzodioxine (totaal)</Omschrijving>
+		<Omschrijving>som pentachloordibenzodioxine-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1389</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Pentachloordibenzofuraan (totaal)</Omschrijving>
+		<Omschrijving>som pentachloordibenzofuraan-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1391</SIKB0101ID>
@@ -30358,7 +30358,7 @@
 		<SIKB0101ID>1412</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Polychloordifenylmethaan (PCDM's)</Omschrijving>
+		<Omschrijving>Polychloordifenylmethaan (PCDMs)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1413</SIKB0101ID>
@@ -30508,7 +30508,7 @@
 		<SIKB0101ID>1471</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Schudproef 24-uur; pH var. (LS 10)</Omschrijving>
+		<Omschrijving>Schudpr. 24-uur; pH var. (LS 10)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1475</SIKB0101ID>
@@ -30628,7 +30628,7 @@
 		<SIKB0101ID>1531</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>tert-Butylalcohol</Omschrijving>
+		<Omschrijving>Tertiair Butyl Alcohol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1532</SIKB0101ID>
@@ -30640,13 +30640,13 @@
 		<SIKB0101ID>1534</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Tetrachloordibenzodioxine (totaal)</Omschrijving>
+		<Omschrijving>som tetrachloordibenzodioxine-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1535</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Tetrachloordibenzofuraan  (totaal)</Omschrijving>
+		<Omschrijving>som tetrachloordibenzofuraan-isomeren</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1539</SIKB0101ID>
@@ -30766,7 +30766,7 @@
 		<SIKB0101ID>1588</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Triazines (som)</Omschrijving>
+		<Omschrijving>som triazinen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1592</SIKB0101ID>
@@ -30952,7 +30952,7 @@
 		<SIKB0101ID>1667</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Vluchtige vetzuren (als azijnzuur)</Omschrijving>
+		<Omschrijving>Vluchtige veturen (als azijnzuur)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1668</SIKB0101ID>
@@ -31324,7 +31324,7 @@
 		<SIKB0101ID>1783</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>beta-Pineen</Omschrijving>
+		<Omschrijving>N-butylbenzeensulfonamide</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1784</SIKB0101ID>
@@ -31366,7 +31366,7 @@
 		<SIKB0101ID>1795</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>C11 en C12 aromaten</Omschrijving>
+		<Omschrijving>som C11- en C12-aromaten</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1798</SIKB0101ID>
@@ -31726,7 +31726,7 @@
 		<SIKB0101ID>1873</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>L_Histidine</Omschrijving>
+		<Omschrijving>Histidine</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>1874</SIKB0101ID>
@@ -32770,7 +32770,7 @@
 		<SIKB0101ID>2093</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>PAK 10 VROM (interventiefactor)</Omschrijving>
+		<Omschrijving>PAK 10 VROM (interventiecator)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2095</SIKB0101ID>
@@ -32902,67 +32902,67 @@
 		<SIKB0101ID>2123</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Arseen na LS10</Omschrijving>
+		<Omschrijving>Arseen na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2124</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Cadmium na LS10</Omschrijving>
+		<Omschrijving>Cadmium na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2125</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Chloride na LS10</Omschrijving>
+		<Omschrijving>Chloride na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2126</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Chroom na LS10</Omschrijving>
+		<Omschrijving>Chroom na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2127</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Eind pH na LS1</Omschrijving>
+		<Omschrijving>Eind pH na L/S1</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2128</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Eind pH na LS10</Omschrijving>
+		<Omschrijving>Eind pH na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2129</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Koper na LS10</Omschrijving>
+		<Omschrijving>Koper na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2130</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Kwik na LS10</Omschrijving>
+		<Omschrijving>Kwik na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2131</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Lood na LS10</Omschrijving>
+		<Omschrijving>Lood na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2132</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Nikkel na LS10</Omschrijving>
+		<Omschrijving>Nikkel na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2133</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Zink na LS10</Omschrijving>
+		<Omschrijving>Zink na L/S10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2135</SIKB0101ID>
@@ -33004,7 +33004,7 @@
 		<SIKB0101ID>2141</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>vanadium  na LS10</Omschrijving>
+		<Omschrijving>vanadium  na LS10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2142</SIKB0101ID>
@@ -33052,7 +33052,7 @@
 		<SIKB0101ID>2150</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>bis (2-chloorisopropyl)-ether</Omschrijving>
+		<Omschrijving>bis(2-chloorisopropyl)-ether</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2151</SIKB0101ID>
@@ -33082,7 +33082,7 @@
 		<SIKB0101ID>2155</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>1,3-dichloor-2-propanol</Omschrijving>
+		<Omschrijving>1,3 -dichloor-2-propanol</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2156</SIKB0101ID>
@@ -33094,7 +33094,7 @@
 		<SIKB0101ID>2157</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>benzidine (som)</Omschrijving>
+		<Omschrijving>som diaminobifenylen</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2158</SIKB0101ID>
@@ -33124,7 +33124,7 @@
 		<SIKB0101ID>2165</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Korrelfractie &lt;200 µm</Omschrijving>
+		<Omschrijving>Korrelfractie &lt; 200 µm</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2166</SIKB0101ID>
@@ -33184,13 +33184,13 @@
 		<SIKB0101ID>2178</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>niet-chlooroxydeerbare cyanide</Omschrijving>
+		<Omschrijving>Cyanide (niet-chloorafbreekbaar)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2179</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Cyanide (som vrije en niet-chlooroxyde</Omschrijving>
+		<Omschrijving>Cyanide (som vrije en niet-chlooraf</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2180</SIKB0101ID>
@@ -33268,43 +33268,43 @@
 		<SIKB0101ID>2192</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Cadmium (Cd) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Cadmium (Cd) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2193</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Chroom (Cr) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Chroom (Cr) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2194</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Koper (Cu) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Koper (Cu) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2195</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Kwik (Hg) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Kwik (Hg) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2196</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Lood (Pb) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Lood (Pb) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2197</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Nikkel (Ni) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Nikkel (Ni) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2198</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Zink (Zn) uitloogbaar  LS2</Omschrijving>
+		<Omschrijving>Zink (Zn) uitloogbaar  LS2</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2199</SIKB0101ID>
@@ -33316,43 +33316,43 @@
 		<SIKB0101ID>2200</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Cadmium (Cd) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Cadmium (Cd) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2201</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Chroom (Cr) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Chroom (Cr) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2202</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Koper (Cu) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Koper (Cu) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2203</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Kwik (Hg) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Kwik (Hg) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2204</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Lood (Pb) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Lood (Pb) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2205</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Nikkel (Ni) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Nikkel (Ni) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2206</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Zink (Zn) uitloogbaar  LS8</Omschrijving>
+		<Omschrijving>Zink (Zn) uitloogbaar  LS8</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2207</SIKB0101ID>
@@ -33676,7 +33676,7 @@
 		<SIKB0101ID>2326</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Minerale olie C4 - C12</Omschrijving>
+		<Omschrijving>Minerale olie (C4-C12)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2332</SIKB0101ID>
@@ -34060,7 +34060,7 @@
 		<SIKB0101ID>2420</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Chloorfenvinfos (Z)</Omschrijving>
+		<Omschrijving>Chloorfenvinphos  (Z)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2421</SIKB0101ID>
@@ -34246,7 +34246,7 @@
 		<SIKB0101ID>2517</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2',4 Tribroomdiphenylether (BDE-17)</Omschrijving>
+		<Omschrijving>BDE 17</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2518</SIKB0101ID>
@@ -34258,25 +34258,25 @@
 		<SIKB0101ID>2519</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,3,4,5,6-Pentabroom diphenylether (BDE 116)</Omschrijving>
+		<Omschrijving>BDE 116</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2520</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,3',4,4',5-Pentabroom diphenylether (BDE 118) </Omschrijving>
+		<Omschrijving>BDE 118</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2521</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,3',4,4',6-Pentabroom diphenylether (BDE 119</Omschrijving>
+		<Omschrijving>BDE 119</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2522</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>3,3',4,4',5-Pentabroom diphenylether (BDE 126)</Omschrijving>
+		<Omschrijving>BDE 126</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2524</SIKB0101ID>
@@ -34288,25 +34288,25 @@
 		<SIKB0101ID>2525</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2',3,4,4',5,6,6'-Octabroomdiphenyl ether (BDE-204)</Omschrijving>
+		<Omschrijving>BDE 204</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2526</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2',3,3',4,4',6,6'-Octabroomdiphenyl ether (BDE-197)</Omschrijving>
+		<Omschrijving>BDE 197</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2527</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2',3,4,4',5,5',6-Octabroom diphenylether (BDE 203)</Omschrijving>
+		<Omschrijving>BDE 203</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2528</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>2,2',3,3',4,4',5,6'-Octabroomdiphenyl ether (BDE-196)</Omschrijving>
+		<Omschrijving>BDE 196</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2529</SIKB0101ID>
@@ -34498,7 +34498,7 @@
 		<SIKB0101ID>2563</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Anthanthreen</Omschrijving>
+		<Omschrijving>Dibenzo(def,mno)chrysene</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2564</SIKB0101ID>
@@ -34768,13 +34768,13 @@
 		<SIKB0101ID>2621</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Wateroplosbare oplosmiddelen (som): methanol, ethanol, 2-ethoxyethanol, isopropanol, n-butanol, isobutanol, acetonitril, methylacetaat, diethylether, n-propanol, tert-butanol, 2-butanol, dioxaan, butylacetaat, methyl-iso-butyl keton, aceton</Omschrijving>
+		<Omschrijving>Wateroplosbare oplosmiddelen (som)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2622</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Mono Aromatische Koolwaterstoffen (MAK) (som): propylbenzeen, cumeen (isopropylbenzeen), Aromaten (BTEXS: Benzeen, Tolueen, Ethylbenzeen, Xylenen, Styreen)</Omschrijving>
+		<Omschrijving>Mono Aromatische Koolwaterstoffen (MAK) (som)</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2623</SIKB0101ID>
@@ -34978,13 +34978,13 @@
 		<SIKB0101ID>2657</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Minerale olie C5 - C10</Omschrijving>
+		<Omschrijving>Minerale olie C5-C10</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2658</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Minerale olie C10 - C19</Omschrijving>
+		<Omschrijving>Minerale olie C10-C19</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2659</SIKB0101ID>
@@ -35182,7 +35182,7 @@
 		<SIKB0101ID>2695</SIKB0101ID>
 		<IMBRO></IMBRO>
 		<IMBROA>v</IMBROA>
-		<Omschrijving>Aromaten C6-C8</Omschrijving>
+		<Omschrijving>som C6-C8-aromaten</Omschrijving>
 	</Parameter>
 	<Parameter>
 		<SIKB0101ID>2696</SIKB0101ID>

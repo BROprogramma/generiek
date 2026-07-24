@@ -65,7 +65,7 @@ In schema (artikelen verwijzen naar de wet Bro):
 	<figcaption>Overzicht verschillen tussen de kwaliteitsregimes.</figcaption>
 </figure><br><br>
 
-Voor een nadere toelichting van het kwaliteitsregime met een beschrijving van verschillende scenario's voor het corrigeren van het kwaliteitsregime van geleverde gegevens, wordt verwezen naar de <a href="https://www.bro-productomgeving.nl/bpo/latest/handreiking-aanleveren-bro-gegevens">Handreiking aanleveren BRO-gegevens</a> op de BRO-Productomgeving.
+Voor een nadere toelichting van het kwaliteitsregime met een beschrijving van verschillende scenario's voor het corrigeren van het kwaliteitsregime van geleverde gegevens, wordt verwezen naar de [Handreiking aanleveren BRO-gegevens](https://www.bro-productomgeving.nl/bpo/latest/informatie-voor-bro-gebruikers/handreiking-aanleveren-bro-gegevens) op de BRO-Productomgeving.
 
 # Formele en materiële geschiedenis
 

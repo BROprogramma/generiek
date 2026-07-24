@@ -3,7 +3,7 @@
 
 # Opzet van de landelijke voorziening
 
-De landelijke voorziening van de basisregistratie ondergrond (BRO) is een systeem dat een schakel vormt in een informatieketen. Aan het begin van de keten staan meestal bronhouders die gegevens genereren of ontvangen (artikel 9 van de Wet Bro). Deze gegevens levert de bronhouder of, namens hem, een dataleverancier, aan de beheerder van de landelijke voorziening van de BRO, de registerbeheerder. De bronhouder is verantwoordelijk voor de levering en de kwaliteit van gegevens. De registerbeheerder registreert de geleverde gegevens en levert deze voor (her)gebruik door aan allerlei afnemers, bijvoorbeeld aan een bronhouder vanuit haar rol als bevoegd gezag. 
+De landelijke voorziening van de basisregistratie ondergrond (BRO) is een systeem dat een schakel vormt in een informatieketen. Aan het begin van de keten staan meestal bronhouders die gegevens genereren of ontvangen (artikel 9 van de Wet Bro). Deze gegevens levert de bronhouder of, namens hem, een dataleverancier, aan de beheerder van de landelijke voorziening van de BRO, de registerbeheerder. De bronhouder is verantwoordelijk voor de levering en de kwaliteit van gegevens. De registerbeheerder registreert de geleverde gegevens en levert deze voor (her)gebruik door aan allerlei afnemers, bijvoorbeeld aan een bronhouder vanuit haar rol als bevoegd gezag.
 
 De opzet van de BRO moet begrepen worden vanuit de verantwoordelijkheden die in de keten zijn belegd. De geleverde gegevens vallen onder de verantwoordelijkheid van de bronhouder en de registerbeheerder mag die gegevens niet veranderen. De registerbeheerder moet echter wel gegevens toevoegen om de BRO te kunnen beheren en hij kan gegevens toevoegen om de afnemers goed van dienst te kunnen zijn.
 
@@ -12,7 +12,7 @@ Bij wet is geregeld dat de BRO zo wordt opgezet dat er onderscheid bestaat tusse
 Een geheel van gegevens dat een bronhouder levert, wordt een ‘brondocument’ genoemd. De brondocumenten worden in het register brondocumenten ondergrond opgeslagen. De gegevens uit de brondocumenten worden samen met de gegevens die de registerbeheerder toevoegt, in de registratie ondergrond vastgelegd. De registratie ondergrond is het deelsysteem dat gebruikt wordt voor uitgifte.
 
 <figure>
-	<img src="https://docs.geostandaarden.nl/bro/gen/media/image002.png"  width="350"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/image002.png" width="350"/>
 	<figcaption>De twee grote deelsystemen van de landelijke voorziening van de BRO.</figcaption>
 </figure><br><br>
 
@@ -61,7 +61,7 @@ Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registrat
 In schema (artikelen verwijzen naar de wet Bro):
 
 <figure>
-	<img src="https://docs.geostandaarden.nl/bro/gen/media/tabel_kwaliteitsregime.png"  width="350"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/tabel_kwaliteitsregime.png" width="350"/>
 	<figcaption>Overzicht verschillen tussen de kwaliteitsregimes.</figcaption>
 </figure><br><br>
 
@@ -93,7 +93,7 @@ Er zijn verschillende typen referentiestelsels. Zo spreekt men van horizontale r
 
 In Nederland zijn traditioneel verschillende referentiestelsels voor de horizontale positie in gebruik. In 2009, bij de eerste voorbereidingen voor de totstandkoming van de BRO, is al vastgesteld dat de verscheidenheid aan referentiestelsels de BRO voor problemen stelt omdat de registratie dan niet gemakkelijk op een eenduidige manier bevraagd kan worden. In de BRO worden namelijk zowel gegevens met een locatie op land als gegevens met een locatie op zee geregistreerd. In de toenmalige praktijk werden op land en op zee verschillende stelsels gebruikt. Op land werd het *Stelsel van de Rijksdriehoeksmeting* (RD) gebruikt en op zee waren verschillende stelsels in gebruik, waarvan het *World Geodetic System 1984* (WGS84) de belangrijkste was.
 
-In 2009 was ook al bekend dat de Europese Inspire (Richtlijn 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap zoals gewijzigd in 2019 en 2024, PbEU 2024 L 2829), de lidstaten vraagt de gegevens in Europa in één referentiestelsel uit te gaan wisselen, te weten in *het Europees Terrestrisch Referentiesysteem 1989*  (ETRS89). Daarom is het besluit genomen de BRO zo in te richten, dat de registratie bevraagd gaat worden in ETRS89.
+In 2009 was ook al bekend dat de Europese Inspire (Richtlijn 2007/2/EG van het Europees Parlement en de Raad van de Europese Unie van 14 maart 2007 tot oprichting van een infrastructuur voor ruimtelijke informatie in de Gemeenschap zoals gewijzigd in 2019 en 2024, PbEU 2024 L 2829), de lidstaten vraagt de gegevens in Europa in één referentiestelsel uit te gaan wisselen, te weten in *het Europees Terrestrisch Referentiesysteem 1989* (ETRS89). Daarom is het besluit genomen de BRO zo in te richten, dat de registratie bevraagd gaat worden in ETRS89.
 
 Het besluit wordt ondersteund door ontwikkelingen in Nederland. Sinds 2013 werken de drie belangrijkste autoriteiten in Nederland op het gebied van referentiestelsels, het Kadaster, de Dienst der Hydrografie van het ministerie van Defensie en Rijkswaterstaat, aan de totstandkoming van nieuwe afspraken. Die afspraken moeten in lijn zijn met Europese afspraken en leiden tot heldere en eenduidige transformatieprocedures tussen referentiestelsels. Concreet betekent dit dat in Nederland op termijn het ETRS89 als standaard zal worden gehanteerd voor het uitwisselen van geo-informatie.
 

@@ -53,7 +53,6 @@ NB: deze registratiedomeinen zijn niet de domeinen als bedoeld in Hoofdstuk 5 va
 # Kwaliteitsregime
 
 In de BRO worden niet alleen gegevens geregistreerd die dateren van na de datum waarop de Wet Bro van kracht is geworden. Ook oudere gegevens worden in de BRO opgenomen. Gegevens uit de eerder bestaande systemen Registratie Data en Informatie Nederlandse Ondergrond (DINO) en Bodemkundig Informatie Systeem (BIS) worden zo veel mogelijk naar de BRO overgezet. Verder verplicht artikel 40 van de Wet Bro bronhouders om digitale, gestructureerde gegevens binnen vijf jaar na inwerkingtreding - van de wetswijziging per 1 juli 2025 of van een registratieobject - ter registratie aan te bieden.
-Deze historische gegevens kunnen niet altijd voldoen aan de strikte regels die de BRO stelt. Zo kan het voorkomen dat voor gegevens die volgens de strikte regels van de BRO verplicht zijn, geen waarde bekend is. 
 
 Om de verwerking van twee categorieën gegevens naast elkaar mogelijk te maken, worden twee kwaliteitsregimes gehanteerd. Voor de levering van gegevens aan de BRO gelden de regels van het informatiemodel BRO (IMBRO)-regime zoals de catalogus registratie ondergrond voorschrijft. Bij de levering van historische gegevens wordt geaccepteerd dat een aantal verplichte attributen geen waarde of andere waarden heeft. Voor deze gegevens wordt het IMBRO/archief (A)-regime gehanteerd. Als historische gegevens wel aan de voorwaarden van het IMBRO-regime voldoen, worden de gegevens echter onder dit regime geleverd.
 
@@ -62,11 +61,11 @@ Artikel 41 van de Wet Bro geeft de bronhouder van een gegeven over een registrat
 In schema (artikelen verwijzen naar de wet Bro):
 
 <figure>
-	<img src="https://raw.githubusercontent.com/BROprogramma/generiek/gh-pages/media/tabel_kwaliteitsregime.png"  width="350"/>
+	<img src="https://docs.geostandaarden.nl/bro/gen/media/tabel_kwaliteitsregime.png"  width="350"/>
 	<figcaption>Overzicht verschillen tussen de kwaliteitsregimes.</figcaption>
 </figure><br><br>
 
-Voor een nadere toelichting van het kwaliteitsregime met een beschrijving van verschillende scenario's voor het corrigeren van het kwaliteitsregime van geleverde gegevens, wordt verwezen naar de <a href="https://www.bro-productomgeving.nl/bpo/latest/informatie-voor-bro-gebruikers/handreiking-aanleveren-bro-gegevens">Handreiking aanleveren BRO-gegevens</a> op de BRO-Productomgeving.
+Voor een nadere toelichting van het kwaliteitsregime met een beschrijving van verschillende scenario's voor het corrigeren van het kwaliteitsregime van geleverde gegevens, wordt verwezen naar de <a href="https://www.bro-productomgeving.nl/bpo/latest/handreiking-aanleveren-bro-gegevens">Handreiking aanleveren BRO-gegevens</a> op de BRO-Productomgeving.
 
 # Formele en materiële geschiedenis
 
@@ -135,13 +134,15 @@ Binnen het registratiedomein Mijnbouwwet wordt de scheidingslijn tussen land en 
 
 Ook objecten die (ten dele) in het buitenland liggen, kunnen van belang zijn voor het inzicht over de ondergrond in Nederland. Zo wordt bij het hydrologisch beheer van het Nederlands grondgebied soms gebruik gemaakt van grondwatermonitoringnetten, waarvan de bijbehorende grondwatermonitoringputten zowel in Nederland, als in het buitenland liggen. Ook kan het voorkomen dat een mijnstelsel gedeeltelijk in het buitenland ligt, in welk geval de toegang(en) tot dit mijnstelsel in het buitenland kunnen liggen. In dit soort situaties dient de begrenzing van Nederland geen beperking te zijn voor het kunnen registreren van de betreffende ondergrond gegevens. Deze objecten moeten "vanzelfsprekend" wel een Nederlandse bronhouder hebben. Indien van toepassing is in de gegevensdefinitie voorzien dat onder bepaalde condities ook gegevens geregistreerd kunnen worden die (ten dele) in het buitenland liggen.
 
-# Nauwkeurigheid van meetwaarden
+# Nauwkeurigheid van waarden
 
-Voor zinvol gebruik van attributen met een gemeten, berekende of anderszins bepaalde waarde is het noodzakelijk dat de nauwkeurigheid van die waarde bekend is.
+Voor zinvol gebruik van attributen, in het bijzonder die met een gemeten, berekende of geschatte waarde, is het noodzakelijk dat de nauwkeurigheid van de waarde van die attributen bekend is. Het begrip *nauwkeurigheid* laat zich in deze context het best omschrijven als de juistheid van een gemeten, berekende of geschatte waarde. In de meeste processen waarin de waarde van een gegeven wordt bepaald, kan de afwijking van de daadwerkelijke waarde slechts via een kalibratie- of statistisch proces worden verkregen. Het resultaat omvat dan niet alleen een van de mogelijke realisaties van een waarde maar ook informatie over de mogelijke spreiding van de waarden.
 
-Het begrip *nauwkeurigheid* laat zich in deze context het best omschrijven als de juistheid van een gemeten of berekende waarde. In de meeste processen waarin de waarde van een gegeven wordt bepaald, kan de afwijking van de daadwerkelijke waarde slechts via een kalibratie- of statistisch proces worden verkregen. Het resultaat omvat dan niet alleen een van de mogelijke realisaties van een meetwaarde maar ook informatie over de mogelijke spreiding van de meetwaarden.
+De BRO gaat ervan uit dat de producenten van gegevens de metingen, berekeningen en schattingen uitvoeren binnen een stelsel van afspraken binnen het desbetreffende werkveld. Uitgangspunt is dat ook de eisen waaraan de gegevens op het gebied van nauwkeurigheid moeten voldoen in afspraken zijn vastgelegd. Dat kunnen praktische werkafspraken zijn, maar ook afspraken die vertaald zijn naar ISO- en NEN-normen. In de catalogus wordt in beginsel verwezen naar die normen. Waar deze normen niet voorzien in afspraken over de nauwkeurigheid, stelt de BRO hieraan specifieke eisen. Deze zijn dan vermeld in de catalogus.
 
-De BRO gaat ervan uit dat de producenten van gegevens de metingen en berekeningen uitvoeren binnen een stelsel van afspraken binnen het desbetreffende werkveld. Uitgangspunt is dat ook de eisen waaraan de gegevens op het gebied van nauwkeurigheid moeten voldoen in afspraken zijn vastgelegd. Dat kunnen praktische werkafspraken zijn, maar ook afspraken die vertaald zijn naar ISO- en NEN-normen. In de catalogus wordt in beginsel verwezen naar die normen. Waar deze normen niet voorzien in afspraken over de nauwkeurigheid, stelt de BRO hieraan specifieke eisen. Deze zijn dan vermeld in de catalogus.
+In praktische werkafspraken en normen kan nauwkeurigheid op verschillende manieren zijn geborgd. Eén daarvan is dat aan een methode die volgens een norm wordt toegepast een mogelijke afwijking is verbonden. Zo kan voor een methode om de locatie van een object te bepalen bekend zijn dat deze een afwijking van 50 tot 200 cm ten opzichte van de werkelijke locatie kan veroorzaken. In deze gevallen is in de catalogus een attribuut opgenomen waarin de toegepaste methode wordt vastgelegd, terwijl in de omschrijving van die methode in de waardelijst de mogelijke afwijking is vermeld die aan die methode is verbonden.
+
+Een andere manier is dat een procedure voorschrijft dat degene die een waarde bepaalt, ook de maximale afwijking daarvan vastlegt. Voorbeeld hiervan is dat bij het schatten van een waarde moet worden aangegeven of die waarde bijvoorbeeld maximaal 5, 10 of 20 % kan afwijken van de werkelijke waarde. In deze gevallen is naast het attribuut met de geschatte waarde ook een attribuut opgenomen waarin deze afwijkingsmarge wordt geregistreerd.
 
 # Authentiek gegeven
 

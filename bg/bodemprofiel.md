@@ -1,4 +1,4 @@
-### Bodemprofiel
+# Bodemprofiel
 
 Het deelonderzoek dat bijna altijd wordt uitgevoerd is het beschrijven en dat levert als resultaat een bodemprofiel.
 
@@ -6,7 +6,7 @@ Met een dergelijk bodemprofiel legt de bodemkundige vast welke lagen of horizont
 
 Om uniformiteit in de vastlegging van bodemgegevens te garanderen, is in 1989 het “Systeem van bodemclassificatie voor Nederland” van De Bakker & Schelling gepubliceerd. De bodems van Nederland worden volgens dit systeem ingedeeld in vijf orden die elk weer worden onderverdeeld in subgroepen. In De Bakker & Schelling worden de begrippen die nodig zijn om het systeem te kunnen gebruiken toegelicht; dat zijn begrippen als *grondsoortenindeling*, *horizont* en *differentiërend kenmerk*. In aanvulling op het systeem van bodemclassificatie gebruikt Wageningen Environmental Research voor de beschrijving van bodemprofielen de “Handleiding bodemgeografisch onderzoek, richtlijnen en voorschriften” (Technisch document 19A, 1995). De handleiding is op de praktijk gericht en geeft een volledig overzicht van de waarden die gegevens kunnen hebben en van de regels die daarbij gelden. Ook wordt daarin de indeling volgens de zogenaamde *standaardpuntencode* uitgelegd.
 
-#### Grondsoorten
+## Grondsoorten
 
 Bodemkundigen benoemen de grondsoort op basis van de verhouding tussen het minerale bestanddeel en de hoeveelheid organische stof, waarbij het minerale bestanddeel wordt onderverdeeld naar korrelgrootte. De korrelgroottegrenzen die in de bodemkunde worden gebruikt zijn: 2, 50 en 2000 µm. De fracties die worden onderscheiden zijn:
 
@@ -42,7 +42,7 @@ Eolische en de daarmee gelijkgeschakelde afzettingen komen niet overal in Nederl
 <figcaption>De verbreiding van bodemprofielen waarvoor de leemdriehoek is gebruikt, gebaseerd op de gegevens in BIS Nederland.</figcaption>
 </figure>
 
-#### Horizonten
+## Horizonten
 De lagen waaruit de bodem is opgebouwd, worden in de bodemkunde *horizonten* genoemd. Horizonten ontstaan als gevolg van bodemvormende processen en worden van elkaar onderscheiden op basis van verschillen in onder meer grondsoort, kleur, gehalte aan humus, ijzer en kalk, structuur, consistentie of een combinatie daarvan.
 
 Om bodems op uniforme wijze te kunnen beschrijven, worden horizonten volgens een vast systeem gecodeerd als een combinatie van letters<sup><a href="#voetnoot1" id="ref-voetnoot1">noot</a></sup>. De horizontcode bestaat uit twee delen:
@@ -52,10 +52,10 @@ Om bodems op uniforme wijze te kunnen beschrijven, worden horizonten volgens een
 
 <aside class="note" id="voetnoot1">In werkelijkheid worden door de beschrijver naast letters ook cijfers gebruikt, maar de informatie die daarin gevat is wordt in de basisregistratie in andere gegevens vastgelegd.</aside>
 
-#### Standaardpuntencode
+## Standaardpuntencode
 De standaardpuntencode is ontwikkeld ten behoeve van het bodemgeografisch onderzoek in Nederland en vormt de brug tussen waarneming en model. Het is een in code gevatte karakteristiek van het bodemprofiel. De codering volgt het Nederlands systeem voor bodemclassificatie en bevat ook informatie over de dominante grondsoorten en allerlei bijzonderheden. De code is opgebouwd uit maximaal zeven onderdelen en die beschrijven elk een bepaald aspect van de bodemgesteldheid. Er zijn bodemgroepen opgesteld om gelijksoortige gronden globaal te kunnen indelen. Voor de eerste vijf onderdelen (*toevoeging vooraan*, *subgroepdeel*, *cijferdeel*, *kalkverloop*, *toevoeging achteraan*) zijn per bodemgroep standaardcodes vastgesteld. De laatste twee onderdelen van de standaardpuntencode (*vergraving* en *grondwatertrap*) gelden voor alle groepen.
 
-#### Grondwatertrappen
+## Grondwatertrappen
 In een bodemprofiel wordt informatie vastgelegd over de variatie in de grondwaterstand. De grondwaterstand in de bodem wordt gestuurd door de verhouding tussen neerslag en verdamping en afvoer, en maakt gedurende het jaar een golfvormige verandering door met de hoogste stand in de winter. In het voorjaar overtreft de verdamping op een bepaald moment de neerslag en begint de grondwaterstand te dalen. Die daling duurt tot in de nazomer of de herfst. Dan slaat de balans om, gaat het neerslagtekort over in een overschot en begint het grondwater weer te stijgen. Uitzonderingen hierop komen voor, bijvoorbeeld in gebieden met sterke regionale kwel of met waterinlaat.
 
 Grondwater speelt een belangrijke rol in bodemvormende processen. De aanwezigheid en het gedrag van het grondwater zijn medebepalend voor de potentie van de bodem als groeimilieu voor planten en voor de gebruiksmogelijkheden van de grond. In natuurgebieden bepalen waterhuishouding en opbouw van de bodem samen het biotoop.

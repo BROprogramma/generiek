@@ -44,12 +44,12 @@ Eolische en de daarmee gelijkgeschakelde afzettingen komen niet overal in Nederl
 #### Horizonten
 De lagen waaruit de bodem is opgebouwd, worden in de bodemkunde *horizonten* genoemd. Horizonten ontstaan als gevolg van bodemvormende processen en worden van elkaar onderscheiden op basis van verschillen in onder meer grondsoort, kleur, gehalte aan humus, ijzer en kalk, structuur, consistentie of een combinatie daarvan.
 
-Om bodems op uniforme wijze te kunnen beschrijven, worden horizonten volgens een vast systeem gecodeerd als een combinatie van letters[^1]. De horizontcode bestaat uit twee delen:
+Om bodems op uniforme wijze te kunnen beschrijven, worden horizonten volgens een vast systeem gecodeerd als een combinatie van letters<sup><a href="#voetnoot1" id="ref-voetnoot1">noot</a></sup>. De horizontcode bestaat uit twee delen:
 
 - De hoofdhorizont, aangegeven met een hoofdletter; dit is de basis van de indeling en bepaalt de plaats van het interval in het proces van bodemvorming.
 - Een kleine-lettertoevoeging achter de hoofdhorizont; deze geeft nadere informatie over het bodemvormende proces dat met de hoofdletter is gecodeerd.
 
-[^1]: In werkelijkheid worden door de beschrijver naast letters ook cijfers gebruikt, maar de informatie die daarin gevat is wordt in de basisregistratie in andere gegevens vastgelegd.
+<aside class="note" id="voetnoot1">In werkelijkheid worden door de beschrijver naast letters ook cijfers gebruikt, maar de informatie die daarin gevat is wordt in de basisregistratie in andere gegevens vastgelegd.</aside>
 
 #### Standaardpuntencode
 De standaardpuntencode is ontwikkeld ten behoeve van het bodemgeografisch onderzoek in Nederland en vormt de brug tussen waarneming en model. Het is een in code gevatte karakteristiek van het bodemprofiel. De codering volgt het Nederlands systeem voor bodemclassificatie en bevat ook informatie over de dominante grondsoorten en allerlei bijzonderheden. De code is opgebouwd uit maximaal zeven onderdelen en die beschrijven elk een bepaald aspect van de bodemgesteldheid. Er zijn bodemgroepen opgesteld om gelijksoortige gronden globaal te kunnen indelen. Voor de eerste vijf onderdelen (*toevoeging vooraan*, *subgroepdeel*, *cijferdeel*, *kalkverloop*, *toevoeging achteraan*) zijn per bodemgroep standaardcodes vastgesteld. De laatste twee onderdelen van de standaardpuntencode (*vergraving* en *grondwatertrap*) gelden voor alle groepen.

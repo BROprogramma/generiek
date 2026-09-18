@@ -15,6 +15,7 @@ Bodemkundigen benoemen de grondsoort op basis van de verhouding tussen het miner
 - tot 50 µm: leemfractie
 - 50-2000 µm: zandfractie.
  
+
 De bodemkundige namen van grondsoorten zijn gebaseerd op het gebruik van driehoeksgrafieken en daarvan bestaan er drie: de *veendriehoek*, de *kleidriehoek* en de *leemdriehoek*. Aan de hand van de veendriehoek (<a href='#bodemkunde_veendriehoek'>figuur 6</a>) wordt bepaald of de grond geclassificeerd moet worden als *moerig* of als *mineraal*.
 
 <figure id='bodemkunde_veendriehoek'><img src='https://docs.geostandaarden.nl/bro/bg/bodemkunde_veendriehoek.png' width='350' />

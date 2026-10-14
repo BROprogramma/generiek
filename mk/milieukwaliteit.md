@@ -27,7 +27,7 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 				<!-- link to generic location of GitHub/BROprogramma -->
 				<!-- <img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/> -->
 				<!-- link to location on docs.geostandaarden -->
-				<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject_tegel_Milieuhygiënisch bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/>
+				<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject_tegel_Milieuhygiënisch_bodemonderzoek.png" alt="Milieuhygiënisch bodemonderzoek" width="50"/>
 			 	<figcaption>
 			 		Het registratieobject Milieuhygiënisch bodemonderzoek (Site Assessment Data - SAD)
 				</figcaption>
@@ -38,7 +38,7 @@ Binnen het domein Milieukwaliteit zijn twee registratieobjecten benoemd:
 					<!-- link to generic location of GitHub/BROprogramma -->
 					<!-- <img src="https://github.com/BROprogramma/generiek/raw/gh-pages/mk/media/BRO_Registratieobject tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/> -->
 					<!-- link to location on docs.geostandaarden -->
-					<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject_tegel_Overheidsbesluit bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/>
+					<img src="https://docs.geostandaarden.nl/bro/gen/mk/media/BRO_Registratieobject_tegel_Overheidsbesluit_bodemverontreiniging.png" alt="Overheidsbesluit bodemverontreiniging" width="50"/>
 					<figcaption>
 				 		Het registratieobject Overheidsbesluit bodemverontreiniging (Site Legal Decision - SLD)
 					</figcaption>

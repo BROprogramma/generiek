@@ -1,0 +1,72 @@
+# Bodemprofiel
+
+Het deelonderzoek dat bijna altijd wordt uitgevoerd is het beschrijven en dat levert als resultaat een bodemprofiel.
+
+Met een dergelijk bodemprofiel legt de bodemkundige vast welke lagen of horizonten hij heeft waargenomen. Bodemprofielen staan aan de basis van het bodemkundig onderzoek.
+
+Om uniformiteit in de vastlegging van bodemgegevens te garanderen, is in 1989 het “Systeem van bodemclassificatie voor Nederland” van De Bakker & Schelling gepubliceerd. De bodems van Nederland worden volgens dit systeem ingedeeld in vijf orden die elk weer worden onderverdeeld in subgroepen. In De Bakker & Schelling worden de begrippen die nodig zijn om het systeem te kunnen gebruiken toegelicht; dat zijn begrippen als *grondsoortenindeling*, *horizont* en *differentiërend kenmerk*. In aanvulling op het systeem van bodemclassificatie gebruikt Wageningen Environmental Research voor de beschrijving van bodemprofielen de “Handleiding bodemgeografisch onderzoek, richtlijnen en voorschriften” (Technisch document 19A, 1995). De handleiding is op de praktijk gericht en geeft een volledig overzicht van de waarden die gegevens kunnen hebben en van de regels die daarbij gelden. Ook wordt daarin de indeling volgens de zogenaamde *standaardpuntencode* uitgelegd.
+
+## Grondsoorten
+
+Bodemkundigen benoemen de grondsoort op basis van de verhouding tussen het minerale bestanddeel en de hoeveelheid organische stof, waarbij het minerale bestanddeel wordt onderverdeeld naar korrelgrootte. De korrelgroottegrenzen die in de bodemkunde worden gebruikt zijn: 2, 50 en 2000 µm. De fracties die worden onderscheiden zijn:
+
+- tot 2 µm: lutumfractie
+- 2-50 µm: siltfractie
+- tot 50 µm: leemfractie
+- 50-2000 µm: zandfractie.
+ 
+
+De bodemkundige namen van grondsoorten zijn gebaseerd op het gebruik van driehoeksgrafieken en daarvan bestaan er drie: de *veendriehoek*, de *kleidriehoek* en de *leemdriehoek*. Aan de hand van de veendriehoek (<a href='#bodemkunde_veendriehoek'>figuur 6</a>) wordt bepaald of de grond geclassificeerd moet worden als *moerig* of als *mineraal*.
+
+<figure id='bodemkunde_veendriehoek'><img src='https://docs.geostandaarden.nl/bro/bg/bodemkunde_veendriehoek.png' width='350' />
+<figcaption>De veendriehoek met de indeling en benaming van moerig materiaal en de organischestofklassen voor mineraal materiaal.</figcaption>
+</figure>
+
+Bij een moerige grond volstaat de veendriehoek en worden het organische stofgehalte en het lutumgehalte gecombineerd om de naam van de grondsoort precies te bepalen.
+
+Bij een minerale grond moet de bodemkundige kiezen of hij de kleidriehoek (<a href='#bodemkunde_kleidriehoek'>figuur 7</a>) of de leemdriehoek (<a href='#bodemkunde_leemdriehoek'>figuur 8</a>) moet gebruiken om de grondsoort te benoemen. Bepalend daarvoor is het milieu waarin het materiaal oorspronkelijk is afgezet. Voor *eolische* afzettingen, materiaal dat door de wind is afgezet, wordt de leemdriehoek gebruikt. Voor *niet-eolische* afzettingen wordt de kleidriehoek gebruikt.
+
+<figure id='bodemkunde_kleidriehoek'><img src='https://docs.geostandaarden.nl/bro/bg/bodemkunde_kleidriehoek.png' width='350' />
+<figcaption>De kleidriehoek met de indeling en benaming van niet-eolische afzettingen. Het merendeel van de monsters uit rivier- en zeekleigebieden ligt in de grijze zone.</figcaption>
+</figure>
+
+<figure id='bodemkunde_leemdriehoek'><img src='https://docs.geostandaarden.nl/bro/bg/bodemkunde_leemdriehoek.png' width='350' /></i>
+<figcaption>De leemdriehoek met de indeling en benaming van eolische afzettingen. Het merendeel van de monsters uit dekzand- en lössgebieden ligt in de grijze zone.</figcaption>
+</figure>
+
+Het gebruik van de leemdriehoek is overigens niet strikt beperkt tot eolische afzettingen. Van bepaalde onder invloed van landijs gevormde afzettingen (bijv. *keileem*) en door landijs gestuwde afzettingen, is de korrelgrooteverdeling vergelijkbaar met die van eolische afzettingen en wordt ook de leemdriehoek gebruikt.
+
+Eolische en de daarmee gelijkgeschakelde afzettingen komen niet overal in Nederland voor (<a href='#bodemkunde_verbreiding_bodemprofielen'>figuur 9</a>). Het gebruik van de termen die met de leemdriehoek verbonden zijn - dat zijn *leem*, *leemarm* en *lemig* - is dan ook regionaal bepaald. Het zijn met name de landbouwers en natuurbeheerders in de relatief hooggelegen delen van Nederland die met deze begrippen vertrouwd zijn.
+
+<figure id='bodemkunde_verbreiding_bodemprofielen'><img src='https://docs.geostandaarden.nl/bro/bg/bodemkunde_verbreiding_bodemprofielen.png' width='350' /></i>
+<figcaption>De verbreiding van bodemprofielen waarvoor de leemdriehoek is gebruikt, gebaseerd op de gegevens in BIS Nederland.</figcaption>
+</figure>
+
+## Horizonten
+De lagen waaruit de bodem is opgebouwd, worden in de bodemkunde *horizonten* genoemd. Horizonten ontstaan als gevolg van bodemvormende processen en worden van elkaar onderscheiden op basis van verschillen in onder meer grondsoort, kleur, gehalte aan humus, ijzer en kalk, structuur, consistentie of een combinatie daarvan.
+
+Om bodems op uniforme wijze te kunnen beschrijven, worden horizonten volgens een vast systeem gecodeerd als een combinatie van letters<a href="#voetnoot1" style="position: relative; top: -0.5em; font-size: 80%;">noot</a>. De horizontcode bestaat uit twee delen:
+
+- De hoofdhorizont, aangegeven met een hoofdletter; dit is de basis van de indeling en bepaalt de plaats van het interval in het proces van bodemvorming.
+- Een kleine-lettertoevoeging achter de hoofdhorizont; deze geeft nadere informatie over het bodemvormende proces dat met de hoofdletter is gecodeerd.
+
+<div class="note" role="note" id="voetnoot1">
+<div role="heading" class="note-title marker" id="h-note" aria-level="5"></div>
+<aside class="">In werkelijkheid worden door de beschrijver naast letters ook cijfers gebruikt, maar de informatie die daarin gevat is wordt in de basisregistratie in andere gegevens vastgelegd.</aside>
+</div>
+
+## Standaardpuntencode
+De standaardpuntencode is ontwikkeld ten behoeve van het bodemgeografisch onderzoek in Nederland en vormt de brug tussen waarneming en model. Het is een in code gevatte karakteristiek van het bodemprofiel. De codering volgt het Nederlands systeem voor bodemclassificatie en bevat ook informatie over de dominante grondsoorten en allerlei bijzonderheden. De code is opgebouwd uit maximaal zeven onderdelen en die beschrijven elk een bepaald aspect van de bodemgesteldheid. Er zijn bodemgroepen opgesteld om gelijksoortige gronden globaal te kunnen indelen. Voor de eerste vijf onderdelen (*toevoeging vooraan*, *subgroepdeel*, *cijferdeel*, *kalkverloop*, *toevoeging achteraan*) zijn per bodemgroep standaardcodes vastgesteld. De laatste twee onderdelen van de standaardpuntencode (*vergraving* en *grondwatertrap*) gelden voor alle groepen.
+
+## Grondwatertrappen
+In een bodemprofiel wordt informatie vastgelegd over de variatie in de grondwaterstand. De grondwaterstand in de bodem wordt gestuurd door de verhouding tussen neerslag en verdamping en afvoer, en maakt gedurende het jaar een golfvormige verandering door met de hoogste stand in de winter. In het voorjaar overtreft de verdamping op een bepaald moment de neerslag en begint de grondwaterstand te dalen. Die daling duurt tot in de nazomer of de herfst. Dan slaat de balans om, gaat het neerslagtekort over in een overschot en begint het grondwater weer te stijgen. Uitzonderingen hierop komen voor, bijvoorbeeld in gebieden met sterke regionale kwel of met waterinlaat.
+
+Grondwater speelt een belangrijke rol in bodemvormende processen. De aanwezigheid en het gedrag van het grondwater zijn medebepalend voor de potentie van de bodem als groeimilieu voor planten en voor de gebruiksmogelijkheden van de grond. In natuurgebieden bepalen waterhuishouding en opbouw van de bodem samen het biotoop.
+
+De invloed van het grondwater komt tot uiting in de zgn. hydromorfe kenmerken van de bodem. Voorbeelden daarvan zijn het voorkomen van roestkleurige en grijze vlekken en de stevigheid van het bodemmateriaal.
+
+<figure id='grondwaterspiegel'><img src='https://docs.geostandaarden.nl/bro/bg/grondwaterspiegel.png' width='350' /></i>
+<figcaption>De positie van de grondwaterspiegel verandert in de loop van een jaar. Profielkuil a ligt boven de gemiddeld hoogste grondwaterspiegel en de wand geeft geen nadere informatie over de gemiddeld hoogste grondwaterstand op de locatie (GHG). Profielkuil b doorsnijdt zowel de gemiddeld hoogste grondwaterspiegel als de gemiddeld laagste grondwaterspiegel en zowel de GHG als de GLG kunnen in de wand worden waargenomen. Profielkuil c doorsnijdt alleen de gemiddeld hoogste grondwaterspiegel en in de wand kan alleen de GHG worden waargenomen.</figcaption>
+</figure>
+
+De variatie in de mate waarin de grondwaterstand fluctueert, wordt uitgedrukt met het begrip *grondwatertrap* (Gt). Grondwatertrappen zijn gedefinieerd op basis van de gemiddeld hoogste grondwaterstand (GHG) en de gemiddeld laagste grondwaterstand (GLG). De bodemkundige bepaalt aan de hand van zijn waarnemingen de GHG en de GLG in het bodemprofiel.

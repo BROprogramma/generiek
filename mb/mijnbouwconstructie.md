@@ -124,7 +124,7 @@ De levensduur van een mijnbouwconstructie wordt vastgelegd met een begindatum en
 
 #### Constructiegeschiedenis en Gebeurtenis
 
-De levensduur van een mijnbouwconstructie wordt meer gedetailleerd beschreven middels gebeurtenissen. Het betreft de gebeurtenis waardoor een mijnbouwconstructie is ontstaan, de gebeurtenis waardoor een mijnbouwconstructie ophoudt te bestaan en tussenliggende gebeurtenissen die een wijziging van de mijnbouwconstructie betreffen. De complete set met gebeurtenissen wordt aangeduid met de term constructiegeschiedenis.
+De levensduur van een mijnbouwconstructie wordt meer gedetailleerd beschreven middels gebeurtenissen. Het betreft de gebeurtenis waardoor een mijnbouwconstructie is ontstaan, de gebeurtenis waardoor een mijnbouwconstructie ophoudt te bestaan en tussenliggende gebeurtenissen die een wijziging van de mijnbouwconstructie betreffen. De complete set met gebeurtenissen wordt aangeduid met de term constructiegeschiedenis.  
 Gebeurtenissen worden niet met terugwerkende kracht vanaf de begindatum van een mijnbouwconstructie beschreven, maar vanaf de datum waarop de wet Bro in werking treedt met betrekking tot het registratieobject Mijnbouwconstructie.  
 De volgende gebeurtenissen zijn generiek voor boorgaten, mijnstelsels en zoutcavernes:
 
@@ -142,7 +142,7 @@ Locatiebepaling omvat metagegevens over een locatie zoals die middels een attrib
 
 #### Boorgat
 
-Boorgat is gedefinieerd als subtype van de entiteit Mijnbouwconstructie. De gegevens die bij de entiteit Mijnbouwconstructie zijn gedefinieerd, gelden daarom ook voor boorgaten. Van een boorgat wordt de aangeleverde locatie vastgelegd in de entiteit Aangeleverde locatie en de op basis daarvan gestandaardiseerde locatie in Gestandaardiseerde locatie. De aangeleverde en de gestandaardiseerde verticale positie worden beide vastgelegd in de entiteit Aangeleverde verticale positie.
+Boorgat is gedefinieerd als subtype van de entiteit Mijnbouwconstructie. De gegevens die bij de entiteit Mijnbouwconstructie zijn gedefinieerd, gelden daarom ook voor boorgaten. Van een boorgat wordt de aangeleverde locatie vastgelegd in de entiteit Aangeleverde locatie en de op basis daarvan gestandaardiseerde locatie in Gestandaardiseerde locatie. De aangeleverde en de gestandaardiseerde verticale positie worden beide vastgelegd in de entiteit Aangeleverde verticale positie.  
 De holtes waaruit een boorgat bestaat – de boortrajecten – worden vastgelegd in de entiteit Boortraject. Ieder boorgat heeft minimaal één gerelateerd boortraject: het primaire boortraject.
 
 Van een boorgat wordt de aangeleverde locatie vastgelegd in het attribuut locatie en de op basis daarvan gestandaardiseerde locatie in Gestandaardiseerde locatie boorgat. De aangeleverde en de gestandaardiseerde verticale positie worden beide vastgelegd in de entiteit Aangeleverde verticale positie.

@@ -56,8 +56,8 @@ In <a href="#image004">figuur 4</a> zijn de verschillende situaties weergegeven 
 
 1. De zijtak is ingemeten vanaf het tie-in-point. In dit geval wordt de geometrie van het primaire traject of de zijtak waarop het tie-in-point is gelegen, opnieuw bepaald.
 2. De zijtak is ingemeten vanaf de oorsprong van het boorgat. In dit geval zijn er twee mogelijkheden wat te doen met de metingen vanaf dat nulpunt tot aan het tie-in-point van de nieuwe zijtak:  
-    a. Deze metingen worden genegeerd; wat betreft het opnieuw bepalen van geometrieën is de situatie gelijk aan situatie 1.  
-    b. Op basis van deze metingen wordt de geometrie van het primaire traject en alle eventuele zijtakken tot aan het tie-in-point van de nieuwe zijtak opnieuw bepaald.  
+        a. Deze metingen worden genegeerd; wat betreft het opnieuw bepalen van geometrieën is de situatie gelijk aan situatie 1.  
+        b. Op basis van deze metingen wordt de geometrie van het primaire traject en alle eventuele zijtakken tot aan het tie-in-point van de nieuwe zijtak opnieuw bepaald.  
 
 <figure id="image004">
 <img src="./data/Images/figuur3_Schematische weergave van het opnieuw bepalen van geometrieen van boortrajecten.png" width="300"/>

@@ -55,9 +55,9 @@ De basisregistratie ondergrond bevat niet de ingemeten waarden, maar per boortra
 In <a href="#image004">figuur 4</a> zijn de verschillende situaties weergegeven met betrekking tot het naadloos op elkaar aan laten sluiten van de geometrie van de nieuwe zijtak aan de geometrieën van de bestaande boortrajecten:
 
 1. De zijtak is ingemeten vanaf het tie-in-point. In dit geval wordt de geometrie van het primaire traject of de zijtak waarop het tie-in-point is gelegen, opnieuw bepaald.
-2. De zijtak is ingemeten vanaf de oorsprong van het boorgat. In dit geval zijn er twee mogelijkheden wat te doen met de metingen vanaf dat nulpunt tot aan het tie-in-point van de nieuwe zijtak:
-a. Deze metingen worden genegeerd; wat betreft het opnieuw bepalen van geometrieën is de situatie gelijk aan situatie 1.
-b. Op basis van deze metingen wordt de geometrie van het primaire traject en alle eventuele zijtakken tot aan het tie-in-point van de nieuwe zijtak opnieuw bepaald.
+2. De zijtak is ingemeten vanaf de oorsprong van het boorgat. In dit geval zijn er twee mogelijkheden wat te doen met de metingen vanaf dat nulpunt tot aan het tie-in-point van de nieuwe zijtak:  
+    a. Deze metingen worden genegeerd; wat betreft het opnieuw bepalen van geometrieën is de situatie gelijk aan situatie 1.  
+    b. Op basis van deze metingen wordt de geometrie van het primaire traject en alle eventuele zijtakken tot aan het tie-in-point van de nieuwe zijtak opnieuw bepaald.  
 
 <figure id="image004">
 <img src="./data/Images/figuur3_Schematische weergave van het opnieuw bepalen van geometrieen van boortrajecten.png" width="300"/>
@@ -80,8 +80,7 @@ Al deze constructies zijn door mijnmeters zeer nauwkeurig vastgelegd in mijnkaar
 ### Kalksteengroeves
 Behalve de bovengrondse dagbouw van kalksteen, zijn in Zuid-Limburg ook ongeveer 300 ondergrondse kalksteengroeves die in de basisregistratie ondergrond opgenomen worden als mijnbouwconstructies.
 
-Kalksteengroeves zijn kleinschalig vanaf de ijzertijd ontstaan. Vanaf de middeleeuwen zijn de ontginningen ondergronds grootschalig uitgevoerd. Het hoogtepunt van de ontginningen lag tussen 1700 en 1940. In 2020 vindt nog in slechts één groeve ontginning plaats door twee aannemers en komt er jaarlijks tussen de 100 en 200 meter gang bij. De ontginning gebeurde tot de jaren 80 van de 20e eeuw uitsluitend met handgereedschappen: zagen, beitels en houwelen. Sindsdien wordt met elektrische kettingzagen gewerkt. De winning ondergronds leverde ongeveer 30% restmateriaal op dat ondergronds achterbleef, opgestapeld in ongebruikte gangen. Deze losse kalksteen is in veel groeves later weer gewonnen voor andere doeleinden zoals kalkbranderijen, grondverbetering en industriële toepassing.
-
+Kalksteengroeves zijn kleinschalig vanaf de ijzertijd ontstaan. Vanaf de middeleeuwen zijn de ontginningen ondergronds grootschalig uitgevoerd. Het hoogtepunt van de ontginningen lag tussen 1700 en 1940. In 2020 vindt nog in slechts één groeve ontginning plaats door twee aannemers en komt er jaarlijks tussen de 100 en 200 meter gang bij. De ontginning gebeurde tot de jaren 80 van de 20e eeuw uitsluitend met handgereedschappen: zagen, beitels en houwelen. Sindsdien wordt met elektrische kettingzagen gewerkt. De winning ondergronds leverde ongeveer 30% restmateriaal op dat ondergronds achterbleef, opgestapeld in ongebruikte gangen. Deze losse kalksteen is in veel groeves later weer gewonnen voor andere doeleinden zoals kalkbranderijen, grondverbetering en industriële toepassing.  
 De toegangen tot de ondergrondse kalksteengroeves zijn meestal een gang die vanaf de dalwand de groeve min of meer horizontaal ingaat. Soms helt de gang licht om de juiste kalksteenlaag te kunnen bereiken. De toegangsgangen zijn meestal kort. De kalksteen is al na enkele meters dusdanig homogeen en bruikbaar dat direct na de ingang al gebruiksklare kalksteen beschikbaar is. In een enkel geval moet de toegangsgang wat langer zijn omdat dalwandverstoringen de mergel aangetast hebben. Ondergronds wordt bij de grotere groeves weleens een verbindingstunnel gemaakt door een slecht stuk kalksteen om een beter stuk kalksteen te ontginnen. Deze proeftunnels zijn zelden langer dan enkele meters. Een enkele maal is een groeve alleen bereikbaar via een schacht.
 
 De meeste gangen zijn initieel als steengroeve gebruikt (zie <a href="#image005">figuur 5</a>). Hierna werd de overgebleven ruimte hergebruikt voor zeer diverse doeleinden zoals champignonkweek, opslag, toerisme, enzovoorts.

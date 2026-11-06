@@ -26,9 +26,9 @@ Het domein grondwatermonitoring in de basisregistratie ondergrond omvat de volge
 
 <figure>
 	<!-- link to generic location of GitHub/BROprogramma -->
-	<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema_+_FRD.png" alt="Grondwaterdomein" width="300"/>
+	<img src="https://github.com/BROprogramma/generiek/raw/gh-pages/gm/media/BRO_Registratieobjecten_Entiteitenschema_FRD.png" alt="Grondwaterdomein" width="300"/>
 	<!-- (expected) link to location on docs.geostandaarden -->
-	<!-- <img src="https://docs.geostandaarden.nl/bro/gen/gm/media/BRO_Registratieobjecten_Entiteitenschema_+_FRD.png" alt="Grondwaterdomein" width="300"/> -->
+	<!-- <img src="https://docs.geostandaarden.nl/bro/gen/gm/media/BRO_Registratieobjecten_Entiteitenschema_FRD.png" alt="Grondwaterdomein" width="300"/> -->
 	<figcaption>
  		De samenhang tussen de vijf registratieobjecten binnen het grondwatermonitoring domein.
   	</figcaption>
